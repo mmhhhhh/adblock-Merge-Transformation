@@ -1,0 +1,61 @@
+name: Auto-Update Mihomo Executable
+
+on:
+  schedule:
+    - cron: '0 0 1,15 * *'  # 每月1号和15号 UTC 0点
+  workflow_dispatch:       # 手动触发
+
+jobs:
+  update-mihomo:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Get latest Mihomo release version
+        id: get_version
+        shell: pwsh
+        run: |
+          $latest = Invoke-RestMethod -Uri "https://api.github.com/repos/MetaCubeX/mihomo/releases/latest"
+          $tag = $latest.tag_name
+          Write-Output "Latest version: $tag"
+          "LATEST_TAG=$tag" >> $env:GITHUB_ENV
+
+      - name: Download and extract Mihomo (no go suffix)
+        shell: pwsh
+        run: |
+          $tag = "${{ env.LATEST_TAG }}"
+          $url = "https://github.com/MetaCubeX/mihomo/releases/download/$tag/mihomo-windows-amd64-compatible-$tag.zip"
+          $zip = "mihomo.zip"
+
+          Write-Host "Downloading $url"
+          Invoke-WebRequest -Uri $url -OutFile $zip -TimeoutSec 300
+
+          Expand-Archive -Path $zip -DestinationPath . -Force
+          Remove-Item $zip
+
+          $exe = Get-ChildItem -Recurse -Filter "*mihomo*.exe" | Select-Object -First 1
+          if ($exe) {
+            Rename-Item -Path $exe.FullName -NewName "mihomo.exe" -Force
+            Write-Host "mihomo.exe ready."
+          } else {
+            throw "mihomo.exe not found after extraction"
+          }
+
+      - name: Commit and Push if Changed
+        shell: pwsh
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add mihomo.exe
+
+          if (git status --porcelain) {
+            git commit -m "chore: update mihomo.exe to ${{ env.LATEST_TAG }}"
+            git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+          } else {
+            Write-Host "No changes to commit."
+          }
