@@ -3,6 +3,7 @@ import hashlib
 import yaml
 from pathlib import Path
 
+# 需要合并的规则列表 URL
 URLS = [
     "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
     "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list",
@@ -10,6 +11,7 @@ URLS = [
     "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list"
 ]
 
+# 输出文件
 OUTPUT_LIST_FILE = Path("adblock_reject.list")
 OUTPUT_YAML_FILE = Path("adblock_reject.yaml")
 
@@ -38,8 +40,9 @@ def save_if_changed(new_content, filepath):
     return True
 
 def generate_yaml(rules):
+    # 添加 ",REJECT" 行为以支持 mihomo classical 转换
     yaml_data = {
-        "payload": rules
+        "rules": [f"{line},REJECT" for line in rules]
     }
     return yaml.dump(yaml_data, allow_unicode=True)
 
