@@ -6,6 +6,7 @@ from pathlib import Path
 URLS = [
     "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
     "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclashlite.list",
+    "https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_ad_only.conf",
     "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list"
 ]
 
