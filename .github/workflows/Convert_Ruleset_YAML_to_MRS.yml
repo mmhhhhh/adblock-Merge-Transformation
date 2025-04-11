@@ -4,7 +4,7 @@ name: Convert_Ruleset_YAML_to_MRS
 # 触发条件
 on:
   schedule:
-    - cron: '*/2880 * * * *'  # 每2880分钟运行一次
+    - cron: '*/2000 * * * *'  # 每2000分钟运行一次
   workflow_dispatch:  # 允许手动触发
 
 # 定义作业
@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v2
 
       # 步骤2：检查并下载 mihomo（仅在第一次运行时）
-      - name: Check and download mihomo v1.19.4 if needed
+      - name: Check and download mihomo v1.18.7 if needed
         shell: powershell
         run: |
           $exePath = "./mihomo.exe"  # 定义 mihomo.exe 的路径
@@ -27,13 +27,13 @@ jobs:
           # 检查 mihomo.exe 和 .mihomo_downloaded 标记文件是否存在
           if (-not (Test-Path $exePath) -or -not (Test-Path $downloadMarker)) {
             Write-Host "mihomo.exe or .mihomo_downloaded not found, downloading..."
-            $url = "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.4/mihomo-windows-amd64-compatible-v1.19.4.zip"  # 定义下载 URL
+            $url = "https://github.com/MetaCubeX/mihomo/releases/download/v1.18.7/mihomo-windows-amd64-compatible-v1.18.7.zip"  # 定义下载 URL
             $zipFile = "mihomo.zip"  # 定义下载的 ZIP 文件名
             $maxAttempts = 5  # 定义最大重试次数
             
             for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
               try {
-                Write-Host "Downloading mihomo v1.19.4 (Attempt $attempt)..."
+                Write-Host "Downloading mihomo v1.18.7 (Attempt $attempt)..."
                 Invoke-WebRequest -Uri $url -OutFile $zipFile -TimeoutSec 300  # 下载 ZIP 文件
                 
                 # 解压和重命名 mihomo.exe
@@ -109,6 +109,45 @@ jobs:
           $maxAttempts = 5  # 定义最大重试次数
           
           for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
+            try {
+              git config user.email "action@github.com"  # 配置 Git 用户邮箱
+              git config user.name "GitHub Action"  # 配置 Git 用户名
+              
+              git pull https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }} --rebase  # 尝试拉取最新更改
+              break
+            } catch {
+              Write-Host "git pull attempt $attempt failed. Error: $_"
+              if ($attempt -eq $maxAttempts) {
+                Write-Host "Failed to pull changes after $maxAttempts attempts. Exiting."
+                exit 1
+              }
+              Start-Sleep -Seconds 30  # 等待30秒后重试
+            }
+          }
+          
+          git add adblock_reject.mrs mihomo.exe .mihomo_downloaded  # 添加转换后的文件和 mihomo.exe 以及标记文件到 Git
+          
+          if (git status --porcelain) {
+            git commit -m "Update adblock_reject.mrs and add mihomo.exe"  # 如果有更改，进行提交
+            
+            for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
+              try {
+                Write-Host "Attempting to push changes (Attempt $attempt of $maxAttempts)..."
+                git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }} --force  # 强制推送更改
+                Write-Host "Changes successfully pushed."  # 如果成功，输出成功信息
+                break
+              } catch {
+                Write-Host "Push attempt $attempt failed. Error: $_"  # 捕获异常并输出错误信息
+                if ($attempt -eq $maxAttempts) {
+                  Write-Host "Failed to push changes after $maxAttempts attempts. Exiting."  # 如果达到最大重试次数，退出流程
+                  exit 1
+                }
+                Start-Sleep -Seconds 30  # 等待30秒后重试
+              }
+            }
+          } else {
+            Write-Host "No changes to commit."  # 如果没有更改，输出无更改信息
+          }
             try {
               git config user.email "action@github.com"  # 配置 Git 用户邮箱
               git config user.name "GitHub Action"  # 配置 Git 用户名
