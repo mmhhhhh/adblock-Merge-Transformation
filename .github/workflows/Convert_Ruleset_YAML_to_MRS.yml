@@ -79,7 +79,7 @@ jobs:
             for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
               try {
                 Write-Host "Attempting conversion (Attempt $attempt)..."
-                & $exePath convert-ruleset domain yaml adblock_reject.yaml adblock_reject.mrs  # 尝试转换规则集
+                & $exePath convert-ruleset classical yaml adblock_reject.yaml adblock_reject.mrs  # 尝试转换规则集
                 if ($LASTEXITCODE -eq 0) {
                   Write-Host "Conversion successful!"  # 如果成功，输出成功信息
                   break
