@@ -35,11 +35,12 @@ jobs:
           Expand-Archive -Path $zip -DestinationPath . -Force
           Remove-Item $zip
 
+          if (Test-Path "mihomo.exe") {
+            Remove-Item "mihomo.exe" -Force
+          }
+
           $exe = Get-ChildItem -Recurse -Filter "*mihomo*.exe" | Select-Object -First 1
           if ($exe) {
-            if (Test-Path "mihomo.exe") {
-              Remove-Item "mihomo.exe" -Force
-            }
             Rename-Item -Path $exe.FullName -NewName "mihomo.exe" -Force
             Write-Host "mihomo.exe ready."
           } else {
@@ -61,3 +62,4 @@ jobs:
             git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
           } else {
             Write-Host "No changes to commit."
+          }
