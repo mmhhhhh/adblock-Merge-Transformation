@@ -37,6 +37,9 @@ jobs:
 
           $exe = Get-ChildItem -Recurse -Filter "*mihomo*.exe" | Select-Object -First 1
           if ($exe) {
+            if (Test-Path "mihomo.exe") {
+              Remove-Item "mihomo.exe" -Force
+            }
             Rename-Item -Path $exe.FullName -NewName "mihomo.exe" -Force
             Write-Host "mihomo.exe ready."
           } else {
