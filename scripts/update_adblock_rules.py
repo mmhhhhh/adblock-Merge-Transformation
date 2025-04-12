@@ -5,8 +5,8 @@ from pathlib import Path
 
 # 需要合并的规则列表 URL
 URLS = [
-    "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml",  
-    "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml"
+    "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt",  
+    "https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt"
 ]
 
 # 输出文件
