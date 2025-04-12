@@ -3,7 +3,7 @@ import yaml
 
 urls = [
     "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-clash.yaml",
-    "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolist.yaml"
+    "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml"
 ]
 
 def download_yaml(url):
