@@ -4737,7 +4737,6 @@ payload:
 - +.acetrk.com
 - +.acewdf118.cn
 - +.acexedge.com
-- +.acfun-log-sdk.ksapisrv.com
 - +.acgbase.com
 - +.acgbenzi.com
 - +.achcdn.com
@@ -4775,9 +4774,7 @@ payload:
 - +.acnlupgp.com
 - +.acodes.b2b.cn
 - +.acofrnsr44es3954b.com
-- +.acookie.alibaba.com
 - +.acookie.alimama.com
-- +.acookie.taobao.com
 - +.acoossu.top
 - +.acoossz.top
 - +.acor1sign.com
@@ -4857,7 +4854,6 @@ payload:
 - +.act.qq.com
 - +.act.raceforward.org
 - +.act.soneticscorp.com
-- +.act.vip.iqiyi.com
 - +.act.wernerelectric.com
 - +.act.wynk.in
 - +.actglimpse.com
@@ -5185,7 +5181,6 @@ payload:
 - +.ad.nvdvr.cn
 - +.ad.obuy.tw
 - +.ad.ordersuit.info
-- +.ad.ourgame.com
 - +.ad.parkvv.com
 - +.ad.partner.gifshow.com
 - +.ad.pchome.com.tw
@@ -9735,6 +9730,7 @@ payload:
 - +.app-analytics-services.com
 - +.app-analytics-sg.huami.com
 - +.app-analytics.huami.com
+- +.app-analytics.zepp.com
 - +.app-branch.yummybazaar-qa.com
 - +.app-clicks-corporate.firstrepublic.com
 - +.app-clicks.firstrepublic.com
@@ -11562,6 +11558,7 @@ payload:
 - +.attepigom.com
 - +.attidaeclavers.top
 - +.attirecideryeah.com
+- +.attn.tv
 - +.attr-2p.com
 - +.attr-shift.dotabuff.com
 - +.attracta.com
@@ -12730,7 +12727,6 @@ payload:
 - +.banners5html2.com
 - +.bannershotlink.perfectgonzo.com
 - +.bannersmall.com
-- +.bannersweb.s3.amazonaws.com
 - +.bannerweb.com
 - +.bannieres-a-gogo.com
 - +.bannisterflaskputdown.com
@@ -18033,6 +18029,7 @@ payload:
 - +.clockwiseleaderfilament.com
 - +.clog.miguvideo.com
 - +.clog.skysrt.com
+- +.clog3.yuanfudao.com
 - +.clogvocal.com
 - +.clohzp.hifi.lu
 - +.cloisteredcurve.com
@@ -23657,13 +23654,20 @@ payload:
 - +.detailedgovernment.com
 - +.detailedkitten.com
 - +.detailexcitement.com
+- +.detaillog-global-dual.coolacloud.com
 - +.detaillog-global-dual.coolbcloud.com
 - +.detaillog-global-dual.coolccloud.com
+- +.detaillog-global-dual.coolgcloud.com
+- +.detaillog-global-dual.coolhcloud.com
 - +.detaillog-global-dual.coolzcloud.com
+- +.detaillog-global.coolacloud.com
 - +.detaillog-global.coolbcloud.com
 - +.detaillog-global.coolccloud.com
 - +.detaillog-global.coolzcloud.com
 - +.detaillog-global.zego.im
+- +.detaillog1442930085-api.zegocloud.com
+- +.detaillog2871374591-api.zegocloud.com
+- +.detaillog3281989059-api.zegocloud.com
 - +.details.pella.com
 - +.detailsallaround.org
 - +.detailsinspiration-data.com
@@ -30071,7 +30075,6 @@ payload:
 - +.fculcz.joann.com
 - +.fcwxlbsrhajo.com
 - +.fcxxsl.com
-- +.fcyjr.cn
 - +.fd.anzhi.com
 - +.fd.bawag.at
 - +.fd.ivoclar.com
@@ -30153,7 +30156,6 @@ payload:
 - +.feed-ads.com
 - +.feed-image.baidu.com
 - +.feed-xml.com
-- +.feed.apusapps.com
 - +.feed.baidu.com
 - +.feed.mikle.com
 - +.feed5baby.com
@@ -31561,7 +31563,6 @@ payload:
 - +.frozenguess.pro
 - +.frozenpayerpregnant.com
 - +.frpa-vpdpwc.icu
-- +.frpls.cn
 - +.frqbff.hedleyandbennett.com
 - +.frthpp.icu
 - +.frtya.com
@@ -33282,10 +33283,8 @@ payload:
 - +.gloamsacoudou.net
 - +.gloaphoo.net
 - +.global-ad-extranet-pri-azams.alb.xiaomi.com
-- +.global-ad-intl-pri-alisgp.alb.xiaomi.com
 - +.global-go.experian.com
 - +.global-mktg.transunion.com
-- +.global-staticplat.cdn.bcebos.com
 - +.global.click.taobao.com
 - +.global.cphi-china.cn
 - +.global.fia-china.com
@@ -33307,7 +33306,6 @@ payload:
 - +.globalsiteanalytics.com
 - +.globalsolutions.risk.lexisnexis.com
 - +.globaltraffico.com
-- +.globalvideo.cdn.pandora.intl.xiaomi.com
 - +.globalwebindex.net
 - +.globase.com
 - +.globel.co.uk
@@ -33366,7 +33364,6 @@ payload:
 - +.glumecodist.top
 - +.glutenmuttsensuous.com
 - +.glvhvesvnp.com
-- +.glwxw.net
 - +.glxdlf.tickets.ua
 - +.glxp.6c4t5.cn
 - +.glxtest.site
@@ -33740,7 +33737,6 @@ payload:
 - +.go.lendspace.com
 - +.go.letspepapp.com
 - +.go.lexuscompletesubscription.com
-- +.go.leyard.com
 - +.go.lezsingles.ignite.technology
 - +.go.linksource.com
 - +.go.list-it.ai
@@ -34078,7 +34074,6 @@ payload:
 - +.gold.szonline.net
 - +.gold2762.com
 - +.goldangblowze.top
-- +.goldbye.vicp.net
 - +.golden-gateway.com
 - +.golden1.sogou.com
 - +.golden1.sohu.com
@@ -34109,7 +34104,6 @@ payload:
 - +.gone.pronhub.fun
 - +.gonerilinstr.com
 - +.goneviral.com
-- +.gongxifc.com
 - +.gongyichuangyi.net
 - +.gonreommon.com
 - +.gonyextant.shop
@@ -34593,6 +34587,7 @@ payload:
 - +.grs.dbankcloud.asia
 - +.grs.dbankcloud.cn
 - +.grs.dbankcloud.com
+- +.grs.dbankcloud.eu
 - +.grs.hicloud.com
 - +.grs.hihonorcloud.com
 - +.grskayynfqwfe.space
@@ -34674,6 +34669,7 @@ payload:
 - +.gsupplyair.carte-gr.total.fr
 - +.gsweum.icu
 - +.gswtol.com
+- +.gsxbxvd.cn
 - +.gsyegj.shatura.com
 - +.gt.duowan.com
 - +.gt.yy.com
@@ -36319,6 +36315,7 @@ payload:
 - +.hmgsnucopfzwv.space
 - +.hmifsgmfrkquz.online
 - +.hmjmjz.icu
+- +.hmjs.cnmo-img.com.cn
 - +.hmjyvj.glamira.it
 - +.hmkwhhnflgg.space
 - +.hmlvxk.julian-fashion.com
@@ -38908,6 +38905,7 @@ payload:
 - +.inetinteractive.com
 - +.inexpedientcunning.com
 - +.inexperienced-end.pro
+- +.inf.miui.com
 - +.infamousstream.com
 - +.infantilecombination.com
 - +.infantilecourt.pro
@@ -41401,6 +41399,7 @@ payload:
 - +.jimpaurgoucmogh.net
 - +.jinair.nsc.jinair.com
 - +.jinair.sc.jinair.com
+- +.jinewoo.com
 - +.jing.58.com
 - +.jingalbundles.com
 - +.jingdian230.meilika.net
@@ -46531,7 +46530,6 @@ payload:
 - +.losslace.com
 - +.losstrack.com
 - +.lost-beyond.pro
-- +.lostheaven.com.cn
 - +.lostinfuture.com
 - +.lostpunch.pro
 - +.lote1otto.com
@@ -50374,6 +50372,7 @@ payload:
 - +.mato.clanto.cloud
 - +.matomo.clanto.cloud
 - +.matomo.cloud
+- +.matomo.datasanalytics.com
 - +.matomo.haozai120.com
 - +.matomo3.org
 - +.matrimoniale3x.ro
@@ -50614,6 +50613,7 @@ payload:
 - +.mdokua.shiseido.co.jp
 - +.mdoshbx.top
 - +.mdotm.com
+- +.mdp-usertrace-cn.heytapmobi.com
 - +.mdpcromfozxatc.com
 - +.mdqikg.xyz
 - +.mdrecv.app.cntvwb.cn
@@ -54644,7 +54644,6 @@ payload:
 - +.mzscparkeayvs.site
 - +.mzvjugwokrbyc.website
 - +.mzwkss.chiccousa.com
-- +.mzwzo.cn
 - +.mzxun.com
 - +.mzy2014.com
 - +.n-analytics.io
@@ -56880,7 +56879,6 @@ payload:
 - +.office1266.fun
 - +.officelib.cn
 - +.officerbeginner.com
-- +.officesoftcn.com
 - +.offline-adv.oray.com
 - +.offmachopor.com
 - +.offmantiner.com
@@ -58140,7 +58138,6 @@ payload:
 - +.orixwhbubub.com
 - +.orjfun.com
 - +.orjxaqegrhdhh.com
-- +.orkem.cn
 - +.orkreats.com
 - +.orkwithcatukhy.com
 - +.orlglnaldates.net
@@ -60917,6 +60914,7 @@ payload:
 - +.pnperf.com
 - +.pnrbvdqxrqlfp.club
 - +.pnrt-stsdk.vivo.com.cn
+- +.pnrt-stsdk.vivoglobal.com
 - +.pns.org.pk
 - +.pnsqsv.com
 - +.pnstat.com
@@ -78390,6 +78388,7 @@ payload:
 - +.t4ft.de
 - +.t570.wiltonbulletin.com
 - +.t6.china-xian.com
+- +.t7.market.xiaomi.com
 - +.t75.qyqc4s.com
 - +.t78obxl4h1.com
 - +.t7baxp1xmw00.boxoffice.adventuretix.com
@@ -79282,8 +79281,6 @@ payload:
 - +.telegram-cn.org
 - +.telegram-pc4.com.cn
 - +.telegram-vip.com
-- +.telegram.uhho30.cn
-- +.telegramcn.co
 - +.telegramcn.org
 - +.telegramconform.com
 - +.telegramdisposedjaws.com
@@ -79347,7 +79344,6 @@ payload:
 - +.telemetry.webasto.com
 - +.telepang.com
 - +.telephoneapparatus.com
-- +.telepzow.cn
 - +.teleqpnm.cn
 - +.telergyatomity.top
 - +.teletarget.ru
@@ -84535,6 +84531,7 @@ payload:
 - +.tychon.bid
 - +.tydd.hunterwish.cn
 - +.tyddynlucet.top
+- +.tydouke.com
 - +.tyfqjbuk.one
 - +.tyfuufdp-xbd.top
 - +.tyh.taobao.com
@@ -85222,6 +85219,7 @@ payload:
 - +.ummertisaridiculou.com
 - +.umpedsquoze.life
 - +.umphboletic.life
+- +.umphek.com
 - +.umqjdyxsb.com
 - +.umqmxawxnrcp.com
 - +.umrdtmhwfahct.fun
@@ -88872,7 +88870,6 @@ payload:
 - +.webmobile.ws
 - +.weborama.com
 - +.weborama.fr
-- +.webpage.batianhu.cn
 - +.webpageviews.click
 - +.webpinp.com
 - +.webpixel.smartmeapp.com
@@ -90384,7 +90381,6 @@ payload:
 - +.www.805m.com
 - +.www.baihe.com
 - +.www.bangqidq.com
-- +.www.bingdianhuanyuan.cn
 - +.www.bodog.eu
 - +.www.destinationurl.com
 - +.www.feitianma.com
@@ -90417,6 +90413,7 @@ payload:
 - +.www.xingpingmaoyi.cn
 - +.www.xpdyqax.cn
 - +.www.ynbojie.com
+- +.www.ysbaojia.com
 - +.www.yuanchengxiezuo.com
 - +.www.yuyue008.cn
 - +.www.yx3377.com
@@ -91372,7 +91369,6 @@ payload:
 - +.xue.zbyw.cn
 - +.xueaaaw.cn
 - +.xuefenxi.com
-- +.xuexi.hydcd.com
 - +.xuexingkeji.cn
 - +.xufyxhiu.icu
 - +.xugxwq.e-hoi.de
@@ -91653,6 +91649,7 @@ payload:
 - +.yangdotes.shop
 - +.yangniupiju.com
 - +.yangot.com
+- +.yangshengzu.cn
 - +.yangzxsh.top
 - +.yanhao.red
 - +.yanpoly.com
