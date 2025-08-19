@@ -1,6 +1,7 @@
 payload:
 - +.0.myikas.com
 - +.0.net.easyjet.com
+- +.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 - +.000dn.com
 - +.0013.cc
 - +.0019x.com
@@ -46,6 +47,7 @@ payload:
 - +.020wujin.cn
 - +.0214217ebc.com
 - +.023e6510cc.com
+- +.027dir.com
 - +.028yhtz.com
 - +.029519cbdc.com
 - +.03.lzzncm.com
@@ -90,6 +92,7 @@ payload:
 - +.06cffaae87.com
 - +.070880.com
 - +.07171.com
+- +.0731office.cn
 - +.07327127.xyz
 - +.07421283.xyz
 - +.0755rc.com
@@ -1964,13 +1967,11 @@ payload:
 - +.7fc0966988.com
 - +.7fkm2r4pzi.com
 - +.7fva8algp45k.com
-- +.7fvhfe.com1.z0.glb.clouddn.com
 - +.7hb.icu
 - +.7hdl8dlfjm4g.www.cybernetman.com
 - +.7hgw85qugx.com
 - +.7insight.com
 - +.7jkzmbd.cn
-- +.7jpp1d.com1.z0.glb.clouddn.com
 - +.7jrahgc.de
 - +.7kjiiu.cn
 - +.7lbd4.armandthiery.fr
@@ -1993,26 +1994,14 @@ payload:
 - +.7ssw.cn
 - +.7strqfn56s.com
 - +.7tc.fun
-- +.7u2jsw.com1.z0.glb.clouddn.com
 - +.7u4b8l1zt.com
 - +.7x-star.info
 - +.7x24s.com
 - +.7x4.fr
 - +.7x5.fr
 - +.7x9i88rvn.com
-- +.7xi4pf.com1.z0.glb.clouddn.com
 - +.7xi9g1.com1.z0.glb.clouddn.com
-- +.7xjkuy.com1.z0.glb.clouddn.com
-- +.7xkq88.com1.z0.glb.clouddn.com
-- +.7xlsu7.com1.z0.glb.clouddn.com
-- +.7xo0y8.com1.z0.glb.clouddn.com
-- +.7xo6kd.com1.z0.glb.clouddn.com
-- +.7xoghc.com1.z0.glb.clouddn.com
-- +.7xqgba.com1.z0.glb.clouddn.com
-- +.7xr4jm.com1.z0.glb.clouddn.com
 - +.7xsf3h.com1.z0.glb.clouddn.com
-- +.7xsm7w.com1.z0.glb.clouddn.com
-- +.7xtxh3.com1.z0.glb.clouddn.com
 - +.7z66.com
 - +.7zb.fun
 - +.8.jrj.com
@@ -5075,6 +5064,7 @@ payload:
 - +.ad-m.asia
 - +.ad-mapps.com
 - +.ad-market.vivo.com.cn
+- +.ad-material.ys7.com
 - +.ad-maven.com
 - +.ad-miner.com
 - +.ad-mixr.com
@@ -8223,6 +8213,7 @@ payload:
 - +.amazingcounters.com
 - +.amazon-adsystem.com
 - +.amazon-cornerstone.com
+- +.amazoni2.com
 - +.ambaab.com
 - +.ambercrow.com
 - +.ambie.site
@@ -9427,6 +9418,7 @@ payload:
 - +.aphnutate.click
 - +.aphxav.green-acres.it
 - +.api-4know-em.hismarttv.com
+- +.api-4know-eu.hismarttv.com
 - +.api-access.pangolin-sdk-toutiao-b.com.bytedns1.com
 - +.api-access.pangolin-sdk-toutiao-b.com.queniuyk.com
 - +.api-access.pangolin-sdk-toutiao-b.com.w.cdngslb.com
@@ -9463,6 +9455,7 @@ payload:
 - +.api-game.meizu.com
 - +.api-gd.hiaiabc.com
 - +.api-gl.cdo.heytapmobi.com
+- +.api-gps-em.hismarttv.com
 - +.api-gps-eu.hismarttv.com
 - +.api-gps-na.hismarttv.com
 - +.api-gps-sa.hismarttv.com
@@ -9516,6 +9509,7 @@ payload:
 - +.api.brs.intl.miui.com
 - +.api.bunzlaucastle.com
 - +.api.bytegle.site
+- +.api.calendar.intl.miui.com
 - +.api.callget.cn
 - +.api.co-operativefinance.com
 - +.api.collect.data.intl.miui.com
@@ -13612,7 +13606,6 @@ payload:
 - +.biemedia.com
 - +.bienvenido.americanindustriesgroup.com
 - +.bieplmwcawogmep.xyz
-- +.bieqpf.cn
 - +.bieuc.icu
 - +.biffingmatina.com
 - +.bigbag.wootraining.certificacion.cl
@@ -18125,6 +18118,7 @@ payload:
 - +.cnzz.trafficmanager.net
 - +.cnzz.yifenghuyu.com
 - +.cnzzlink.com
+- +.co-cota.vivoglobal.com
 - +.co-domaincfg.vivoglobal.com
 - +.co-err-up.vivoglobal.com
 - +.co-onrt-stsdk.vivoglobal.com
@@ -21998,6 +21992,7 @@ payload:
 - +.data-data-vac.com
 - +.data-dynamic.net
 - +.data-events.uniplaces.com
+- +.data-huya2-live-hd-center.win
 - +.data-ingenuity.com
 - +.data-ingest.xtralife.com
 - +.data-insight365.com
@@ -22940,6 +22935,7 @@ payload:
 - +.ddzk5l3bd.com
 - +.ddzswov1e84sp.cloudfront.net
 - +.de-de.siemensplmevents.com
+- +.de-gdpr-err-up.vivoglobal.com
 - +.de-go.experian.com
 - +.de-metalshop.m-shop.me
 - +.de-mi-nis-ner.info
@@ -23314,6 +23310,7 @@ payload:
 - +.detaillog-global-dual.coolbcloud.com
 - +.detaillog-global-dual.coolccloud.com
 - +.detaillog-global-dual.coolzcloud.com
+- +.detaillog-global.coolbcloud.com
 - +.detaillog-global.coolzcloud.com
 - +.details.pella.com
 - +.detailsallaround.org
@@ -24300,6 +24297,7 @@ payload:
 - +.dl8.me
 - +.dlads.cn
 - +.dlamlab.com
+- +.dlcoh.cn
 - +.dldotl.ouestfrance-auto.com
 - +.dle-news.xyz
 - +.dlem1deojpcg7.cloudfront.net
@@ -24329,6 +24327,7 @@ payload:
 - +.dload.qd.qingting.fm
 - +.dloeloqua.danskespil.dk
 - +.dloffice.net.cn
+- +.dlog.wanmei.com
 - +.dlogs.bwton.com
 - +.dlooqrhebkjoh.cloudfront.net
 - +.dlp.egghead.link
@@ -24920,6 +24919,7 @@ payload:
 - +.dp94m8xzwqsjk.cloudfront.net
 - +.dpbolvw.net
 - +.dpckzt.mesrecettesfaciles.fr
+- +.dpd-wypelnic.anrof.com
 - +.dpd9yiocsyy6p.cloudfront.net
 - +.dphpdupvgd.com
 - +.dphunters.com
@@ -26322,7 +26322,6 @@ payload:
 - +.eagerknight.com
 - +.eagjohwicefoq.website
 - +.eagle-insight.com
-- +.eagle-tex.cn
 - +.eagle.aon.com
 - +.eagleapi.io
 - +.eahpujutchkzn.online
@@ -27072,6 +27071,7 @@ payload:
 - +.eib2.cc
 - +.eicyds.qoo10.jp
 - +.eidycruqynh.com
+- +.eiewtqy.cn
 - +.eifeou.pandahall.com
 - +.eiffelalbe.shop
 - +.eiftfa.fashionette.de
@@ -28724,6 +28724,7 @@ payload:
 - +.event.thermoscientific.com
 - +.event.toggle.qq.com
 - +.event.webcollage.net
+- +.event.wedobest.com.cn
 - +.event.wondershare.com
 - +.event.zhihu.com
 - +.event1.thermofisher.com
@@ -28761,6 +28762,7 @@ payload:
 - +.events-dra.op.hicloud.com
 - +.events-drcn.op.dbankcloud.cn
 - +.events-drcn.op.dbankcloud.com
+- +.events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn
 - +.events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 - +.events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 - +.events-dre.op.dbankcloud.com
@@ -29354,6 +29356,7 @@ payload:
 - +.f979592f34.com
 - +.f99.gdsoq.com
 - +.f9gv87zoq2.com
+- +.fa.163.com
 - +.fa.corp.163.com
 - +.fa5.dn4.it
 - +.faamhel.com
@@ -32818,6 +32821,7 @@ payload:
 - +.gloamsacoudou.net
 - +.gloaphoo.net
 - +.global-ad-extranet-pri-azams.alb.xiaomi.com
+- +.global-ad-extranet-pri-azpn.alb.xiaomi.com
 - +.global-ad-intl-pri-alisgp.alb.xiaomi.com
 - +.global-go.experian.com
 - +.global-mktg.transunion.com
@@ -34572,6 +34576,7 @@ payload:
 - +.h5.pk1179.com
 - +.h5.super-dreamers.com
 - +.h5.taihao.cc
+- +.h5.tv.mi.com
 - +.h5.vivo.com.cn
 - +.h5.wannaplay.cn
 - +.h51.com
@@ -36883,7 +36888,6 @@ payload:
 - +.icilyassertiveindoors.com
 - +.icinmao.top
 - +.icinvdo.top
-- +.icioud.find.xanzr.cn
 - +.icjhjoe.studio
 - +.icjl.cn
 - +.ickersanthine.com
@@ -38339,6 +38343,7 @@ payload:
 - +.inesyriata.com
 - +.inetinteractive.com
 - +.inexpedientcunning.com
+- +.inf.miui.com
 - +.infamousstream.com
 - +.infantilecombination.com
 - +.infatuated-difference.pro
@@ -40341,6 +40346,7 @@ payload:
 - +.ja-jp.siemensplmevents.com
 - +.ja.gamersky.com
 - +.ja1.gamersky.com
+- +.ja2.gamersky.com
 - +.ja2n2u30a6rgyd.com
 - +.jaahqjqnkzlpb.site
 - +.jaavnacsdw.com
@@ -41294,6 +41300,7 @@ payload:
 - +.jrutvnca.top
 - +.jrvrkzrjrmoyy.top
 - +.jrvrkzrjrmyyj.top
+- +.jrxjy.cn
 - +.jrxrit.europcar.de
 - +.jrzfcoqifpcjx.space
 - +.jrzgcz.ciociariaoggi.it
@@ -43018,10 +43025,12 @@ payload:
 - +.kyvpze.vidaxl.co.uk
 - +.kyyfsw.xyz
 - +.kz-err-up.vivoglobal.com
+- +.kz-monitor-stsdk.vivoglobal.com
 - +.kz-onrt-stsdk.vivoglobal.com
 - +.kz-ort-stsdk.vivoglobal.com
 - +.kz-romsp-unifyconfig.vivoglobal.com
 - +.kz-st-exappupgrade.vivoglobal.com
+- +.kz-st-sl.vivoglobal.com
 - +.kz-stsdk.vivoglobal.com
 - +.kz-vcode-api.vivoglobal.com
 - +.kz-vcode-od.vivoglobal.com
@@ -43629,6 +43638,7 @@ payload:
 - +.leaktrailercondo.com
 - +.leakvideos.online
 - +.leamamongthe.org
+- +.lean.com
 - +.leanplum.com
 - +.leapcompatriotjangle.com
 - +.leapersbespray.world
@@ -45504,7 +45514,6 @@ payload:
 - +.log.klook.com
 - +.log.kuaigeng.com
 - +.log.kuwo.cn
-- +.log.liepin.com
 - +.log.liusha.info
 - +.log.ltype.baofeng.com
 - +.log.m.sm.cn
@@ -45700,6 +45709,7 @@ payload:
 - +.logservice-dra.platform.hicloud.com
 - +.logservice-dre.platform.dbankcloud.cn
 - +.logservice-dre.platform.dbankcloud.com
+- +.logservice-dre.platform.hicloud.com
 - +.logservice-rtm.agora.io
 - +.logservice.agora.io
 - +.logservice.dbankcloud.cn
@@ -46365,6 +46375,7 @@ payload:
 - +.lvsats.gardner-white.com
 - +.lvsm.cn
 - +.lvualvjfekioz.space
+- +.lvusya.cn
 - +.lvvbqeaqvrmvy.top
 - +.lvvbqeaqvrzrj.top
 - +.lvw7k4d3j.com
@@ -49734,6 +49745,7 @@ payload:
 - +.mbjupyabixsxb.com
 - +.mbljpu9.com
 - +.mblyjustingex.org
+- +.mbmaog.cn
 - +.mbmgivexdvpajr.com
 - +.mbna.bruker.com
 - +.mbns.bruker.com
@@ -50471,7 +50483,6 @@ payload:
 - +.metric.nomura.co.jp
 - +.metric.northeast.aaa.com
 - +.metric.nrma.com.au
-- +.metric.nuonuo.com
 - +.metric.octanner.com
 - +.metric.olivegarden.com
 - +.metric.optum.com
@@ -52196,6 +52207,7 @@ payload:
 - +.mini.eastday.com
 - +.mini.hao123.com
 - +.mini.jijiplayer.com
+- +.mini2015.qq.com
 - +.miniapp.bilibili.com
 - +.miniapp.qiluyidian.mobi
 - +.miniature-injury.pro
@@ -53214,6 +53226,7 @@ payload:
 - +.mseeru.faz.net
 - +.msehm.com
 - +.msfvwi.sieuthiyte.com.vn
+- +.msg-em.hismarttv.com
 - +.msg-intl.qy.net
 - +.msg-na.hismarttv.com
 - +.msg.c002.ottcn.com
@@ -59954,6 +59967,7 @@ payload:
 - +.pnperf.com
 - +.pnrbvdqxrqlfp.club
 - +.pnrt-stsdk.vivo.com.cn
+- +.pnrt-stsdk.vivoglobal.com
 - +.pns.org.pk
 - +.pnsqsv.com
 - +.pnstat.com
@@ -59989,6 +60003,15 @@ payload:
 - +.pocrowpush.com
 - +.poczta.carte-gr.total.fr
 - +.poczta.happ.social
+- +.pocztex.awxoec.wang
+- +.pocztex.hqsqih.wang
+- +.pocztex.hzkxoh.wang
+- +.pocztex.nkzjnl.wang
+- +.pocztex.pjmwlb.wang
+- +.pocztex.pmpyey.wang
+- +.pocztex.qabgap.wang
+- +.pocztex.sswgef.wang
+- +.pocztex.zvplxy.wang
 - +.pod.spoti.fi
 - +.pod.xpress.com
 - +.podbooth.martela.com
@@ -62409,6 +62432,7 @@ payload:
 - +.qqwxxf.levi.co.kr
 - +.qqxevoxdcdgrm.website
 - +.qqxi6.icu
+- +.qqzjy.cn
 - +.qqzmm.com
 - +.qqzu.com
 - +.qqzy1.cc
@@ -62486,6 +62510,7 @@ payload:
 - +.qtj0.destinia.pl
 - +.qtmdzsj.cn
 - +.qtmojo.com
+- +.qtnujye.cn
 - +.qtpb.12jf3.cn
 - +.qtpwhuodcsbtt.space
 - +.qtroytj33.fun
@@ -64500,6 +64525,7 @@ payload:
 - +.rkfhmcdvprsbz.website
 - +.rkgwzfwjgk.com
 - +.rkhovdiminatedmo.org
+- +.rkjzjos.cn
 - +.rklzpo.com
 - +.rkomf.com
 - +.rkstmr.cyrillus.ch
@@ -67589,6 +67615,7 @@ payload:
 - +.sensorpluck.com
 - +.sensors-log.dongqiudi.com
 - +.sensors.cloud.tencent.com
+- +.sensors.h5.xed.plus
 - +.sensors.ibreader.com
 - +.sensors.snappea.com
 - +.sensors.snaptube.app
@@ -73355,6 +73382,7 @@ payload:
 - +.srepdata.yorkdispatch.com
 - +.sreport.mitsubishicars.com
 - +.srgev.com
+- +.srgxiz.cn
 - +.srhuafeng.com
 - +.srm4.destinia.co.no
 - +.srmdata-eur.com
@@ -74034,7 +74062,6 @@ payload:
 - +.st-a8.tscubic.com
 - +.st-fly.b-cdn.net
 - +.st-nlyss1.plala.or.jp
-- +.st.19mi.net
 - +.st.anastasija.lt
 - +.st.appsad.cn
 - +.st.azcardinals.com
@@ -74421,7 +74448,6 @@ payload:
 - +.stat.u.sb
 - +.stat.ucetni-roku.cz
 - +.stat.umsu.de
-- +.stat.umu.cn
 - +.stat.uuu9.com
 - +.stat.v.17173.com
 - +.stat.v.baidu.com
@@ -74499,6 +74525,7 @@ payload:
 - +.static.osalta.eu
 - +.static.parsely.com
 - +.static.ptqy.gitv.tv
+- +.static.qiyi.com
 - +.static.rongkao.com
 - +.static.sellbuyshop.cn
 - +.static.smi2.net
@@ -75364,6 +75391,7 @@ payload:
 - +.statsadv.dadapro.com
 - +.statsapi.screen9.com
 - +.statsbox.nl
+- +.statscollector-1-asia.agora.io
 - +.statscollector-1-north-america.agora.io
 - +.statscollector-1.agora.io
 - +.statscollector.sd-rtn.com
@@ -77822,6 +77850,7 @@ payload:
 - +.tbmvpgwyoqxfoax.com
 - +.tbodclpaicx.com
 - +.tbpot.com
+- +.tbqpdef.cn
 - +.tbrchbkymyfx.com
 - +.tbsone.imtt.qq.com
 - +.tbsxkmwsmksjj.buzz
@@ -78121,8 +78150,6 @@ payload:
 - +.telemetry.boxt.co.uk
 - +.telemetry.canva.cn
 - +.telemetry.canva.com
-- +.telemetry.cell-0.cn-north-1.prod.tangerinebox.console.aws.a2z.org.cn
-- +.telemetry.cell-0.cn-northwest-1.prod.tangerinebox.console.aws.a2z.org.cn
 - +.telemetry.chrobinson.com
 - +.telemetry.commonspirit.org
 - +.telemetry.dematic.com
@@ -79770,6 +79797,7 @@ payload:
 - +.tr-rollers.xyz
 - +.tr-romsp-unifyconfig.vivoglobal.com
 - +.tr-st-sl.vivoglobal.com
+- +.tr-stsdk.vivoglobal.com
 - +.tr-timesync.vivoglobal.com
 - +.tr-usual.xyz
 - +.tr-vcode-api.vivoglobal.com
@@ -83530,7 +83558,6 @@ payload:
 - +.uazmti.a101.com.tr
 - +.ub-analytics.com
 - +.ub1.job592.com
-- +.uba.huaweicloud.com
 - +.ubacollect-drcn.cloud.dbankcloud.cn
 - +.ubbfpm.com
 - +.ubcpm.com
@@ -84170,6 +84197,7 @@ payload:
 - +.union.baidu.com
 - +.union.baidustatic.guannin.com
 - +.union.china.com.cn
+- +.union.click.jd.com
 - +.union.dangdang.com
 - +.union.duizhuang.com
 - +.union.ijinshan.com
@@ -84378,7 +84406,6 @@ payload:
 - +.uparpu.com
 - +.upblowcorbed.top
 - +.upbypuntel.click
-- +.upceshop.cn
 - +.upchemicals.co.in
 - +.upclipper.com
 - +.updaight.com
@@ -89125,8 +89152,10 @@ payload:
 - +.www.cdcem.com
 - +.www.destinationurl.com
 - +.www.etax.usvlg.cn
+- +.www.iiyout.cn
 - +.www.jmine.cn
 - +.www.lm.cccab.club
+- +.www.mashangyoushu.cn
 - +.www.mkmncag.cn
 - +.www.q4ee.top
 - +.www.ttyyuuoo.com
@@ -89136,7 +89165,6 @@ payload:
 - +.www.wowostar.cn
 - +.www.xingpingmaoyi.cn
 - +.www.xpdyqax.cn
-- +.www.ybkspyr.cn
 - +.www.ysbaojia.com
 - +.www.yuyue008.cn
 - +.www.zhaohainan.cn
@@ -89459,6 +89487,7 @@ payload:
 - +.xc.08an.com
 - +.xc.macd.cn
 - +.xccbjvlmehvvrx.xyz
+- +.xccjs.cn
 - +.xcdf.cn
 - +.xcdkxayfqe.com
 - +.xcec.ru
