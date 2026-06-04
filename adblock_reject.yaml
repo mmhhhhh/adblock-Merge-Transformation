@@ -1,6 +1,8 @@
 payload:
 - +.0.myikas.com
 - +.0.net.easyjet.com
+- +.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
+- +.0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 - +.000491b06a.com
 - +.000dn.com
 - +.0013.cc
@@ -452,10 +454,16 @@ payload:
 - +.1529462937.rsc.cdn77.org
 - +.152media.com
 - +.153c349024.com
+- +.15415.xyz
+- +.15471.xyz
 - +.1548164934.rsc.cdn77.org
+- +.15497.xyz
 - +.15549.xyz
 - +.1558334541.rsc.cdn77.org
+- +.15598.xyz
 - +.155game.com
+- +.15626.xyz
+- +.15738.xyz
 - +.15763.xyz
 - +.15798.xyz
 - +.15863.xyz
@@ -478,11 +486,26 @@ payload:
 - +.16043.xyz
 - +.16050.xyz
 - +.16063.xyz
+- +.16080.xyz
 - +.16134024.artcollection.io
+- +.16154.xyz
+- +.16160.xyz
 - +.161779.publy.co
+- +.16204.xyz
+- +.16209.xyz
 - +.16211973.xyz
+- +.16215.xyz
+- +.16256.xyz
+- +.16264.xyz
+- +.16294.xyz
+- +.16313.xyz
+- +.16321.xyz
+- +.16327.xyz
 - +.16327739.xyz
+- +.16352.xyz
+- +.16362.xyz
 - +.163ren.com
+- +.16401.xyz
 - +.165tchuang.com
 - +.1668420cbb.com
 - +.166br.com
@@ -619,6 +642,7 @@ payload:
 - +.1e03d2091a.com
 - +.1e2hyl3b.wq42211.com
 - +.1e4441z5fvl-sdk.rum.aliyuncs.com
+- +.1e8915597b70956d.com
 - +.1e90.pandasuite.io
 - +.1ehioxpqe.com
 - +.1ep.co
@@ -651,6 +675,7 @@ payload:
 - +.1hcgomshd.com
 - +.1hhwyb4vl.com
 - +.1hkmr7jb0.de
+- +.1hlahoc4rpc-sdk.rum.aliyuncs.com
 - +.1hmklj60i.com
 - +.1hotu9uyll.com
 - +.1i8c0f11.de
@@ -883,6 +908,7 @@ payload:
 - +.2465april2024.com
 - +.2467april2024.com
 - +.2469april2024.com
+- +.246e83e60ccc9715.com
 - +.247-inc.com
 - +.2475april2024.com
 - +.2477april2024.com
@@ -1203,6 +1229,7 @@ payload:
 - +.33544444.com
 - +.336.com
 - +.33747538f3.com
+- +.3377sport.com.cn
 - +.33848102.xyz
 - +.33862684.xyz
 - +.3388pjdc.com
@@ -1354,6 +1381,7 @@ payload:
 - +.3g25ko2.de
 - +.3gbqdci2.de
 - +.3ge064tt79.com
+- +.3gec.shop
 - +.3gl.net
 - +.3gmimo.com
 - +.3gu.com
@@ -1434,6 +1462,7 @@ payload:
 - +.412dyo1ef.com
 - +.4135.com
 - +.415f764d57.com
+- +.416212b99ac8b31e.com
 - +.4171ea7508.com
 - +.41hckkm9.xyz
 - +.41vtzzt0s.com
@@ -1743,7 +1772,6 @@ payload:
 - +.54199287.xyz
 - +.5475a282b8.com
 - +.54ads.com
-- +.54d3s545d6u-c7b78hhkxp.edgeone.dev
 - +.54kefu.net
 - +.55-trk-srv.com
 - +.55.la
@@ -1820,7 +1848,6 @@ payload:
 - +.5ac36d146b.com
 - +.5adbjiwp.xyz
 - +.5advertise.com
-- +.5azc.xyz
 - +.5azvpjx8xj.com
 - +.5b025cnm.top
 - +.5b0a1c63v9.com
@@ -1855,6 +1882,7 @@ payload:
 - +.5f242f7db1.com
 - +.5f6dmzflgqso.com
 - +.5fet4fni.de
+- +.5ff1907a9522ce15.com
 - +.5fm.985fm.ca
 - +.5fyme6x6uy.com
 - +.5gg466kzv.com
@@ -1883,7 +1911,6 @@ payload:
 - +.5lu8.com
 - +.5lz3u8s5uq.com
 - +.5mc92su06suu.www.abhijith.page
-- +.5mgrgsc.cn
 - +.5min.win
 - +.5mm.zxfw5.cn
 - +.5mn041cdz.com
@@ -1895,9 +1922,7 @@ payload:
 - +.5p35xkp1p.com
 - +.5pi13h3q.de
 - +.5platforms.net
-- +.5pzg.shop
 - +.5qjspf2c.xyz
-- +.5qzone.net
 - +.5sghirlr5b.com
 - +.5t5z6augl3.com
 - +.5tmobi.cn
@@ -1910,7 +1935,6 @@ payload:
 - +.5uazcu2o1.com
 - +.5ubei.com
 - +.5vbs96dea.com
-- +.5vkyqkc.cn
 - +.5vpbnbkiey24.com
 - +.5vs7i3cuc.com
 - +.5vszw5ab2.com
@@ -2143,12 +2167,9 @@ payload:
 - +.6tdz25urqj.com
 - +.6uc.cc
 - +.6ujk8x9soxhm.com
-- +.6uzxtlv.cn
 - +.6v2wkfw6pc.com
 - +.6v4.cn
-- +.6v4.work
 - +.6v41p4bsq.com
-- +.6v6.work
 - +.6vhao.kkcaicai.com
 - +.6w4ix4bxz1.com
 - +.6x59axt21.com
@@ -2325,7 +2346,6 @@ payload:
 - +.7c96k2gysn.com
 - +.7ca78m3csgbrid7ge.com
 - +.7car.com.cn
-- +.7cbwus.cn
 - +.7ce48c6052.com
 - +.7cip.com
 - +.7cjsh.cn
@@ -2341,7 +2361,6 @@ payload:
 - +.7de1da816b.com
 - +.7dgk5h1lk.com
 - +.7dlm.cn
-- +.7dot.cn
 - +.7e84b34fea.com
 - +.7e8bf019d5.com
 - +.7ec5e0d805.com
@@ -2359,14 +2378,12 @@ payload:
 - +.7jf3kxi6bq.com
 - +.7jqi6um1g.com
 - +.7jrahgc.de
-- +.7kjiiu.cn
 - +.7lavkpncj.com
 - +.7lbd4.armandthiery.fr
 - +.7ldou.com
 - +.7lyonline.com
 - +.7me0ssd6.de
 - +.7mnpeh.com1.z0.glb.clouddn.com
-- +.7moor.com
 - +.7mx.eider.com
 - +.7mx.eidershop.com
 - +.7mx63ygcti.com
@@ -2445,7 +2462,6 @@ payload:
 - +.8147563.your-way.bk.com
 - +.815ss.cn
 - +.8162f6c343.com
-- +.8181zx.com
 - +.8184.cc
 - +.81aa1f6146.com
 - +.81bkkx81zd.com
@@ -2639,7 +2655,6 @@ payload:
 - +.8u6stvyww.top
 - +.8ue4rp6yxyis.www.tapmyback.com
 - +.8uuxq3tvn.com
-- +.8uve.shop
 - +.8v08mjri7.com
 - +.8v1.cn
 - +.8vtqw0551lo45wwtro.xyz
@@ -2672,6 +2687,7 @@ payload:
 - +.91301246.xyz
 - +.915.com
 - +.9158918.com
+- +.916bead6a6277a9a.com
 - +.91756.cn
 - +.918000.xyz
 - +.91842100df.com
@@ -2718,6 +2734,7 @@ payload:
 - +.937785.com
 - +.937791.com
 - +.9377ne.com
+- +.93a4e4643db09916.com
 - +.93a72bfca9.com
 - +.93febf18c6.com
 - +.93gtx4pc2w.com
@@ -5455,6 +5472,7 @@ payload:
 - +.actie.athlon.com
 - +.actie.milieudefensie.nl
 - +.actiflex.org
+- +.acting-xksports.com.cn
 - +.actingproductive.com
 - +.actingturk.com
 - +.action.advisorycloud.com
@@ -5681,6 +5699,7 @@ payload:
 - +.ad.browser.qq.com
 - +.ad.bwton.com
 - +.ad.byfuh.com
+- +.ad.c.ximalaya.com
 - +.ad.caiyunapp.com
 - +.ad.ccement.com
 - +.ad.cctv.com
@@ -5773,6 +5792,7 @@ payload:
 - +.ad.mail.sohu.com
 - +.ad.mazc.org
 - +.ad.mediamixer.co.kr
+- +.ad.mh.163.com
 - +.ad.mi.com
 - +.ad.missena.io
 - +.ad.mnt123.com
@@ -5789,6 +5809,7 @@ payload:
 - +.ad.norfolkbroads.com
 - +.ad.nvdvr.cn
 - +.ad.obuy.tw
+- +.ad.ofweek.com
 - +.ad.open.api.jihuoniao.com
 - +.ad.ordersuit.info
 - +.ad.ozone.ru
@@ -6070,6 +6091,7 @@ payload:
 - +.adc-js.nine.com.au
 - +.adc-serv.net
 - +.adc.hpplay.cn
+- +.adc9ef34f2411535.com
 - +.adcalls.nl
 - +.adcalm.com
 - +.adcannyxml.com
@@ -7081,6 +7103,7 @@ payload:
 - +.ads5-normal-hl.zijieapi.com
 - +.ads5-normal-lf.zijieapi.com
 - +.ads5-normal-lq.zijieapi.com
+- +.ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
 - +.ads5-normal.zijieapi.com
 - +.ads6-adnow.com
 - +.ads7-adnow.com
@@ -7242,6 +7265,8 @@ payload:
 - +.adsmediator.com
 - +.adsmg.fanfox.net
 - +.adsmind.apdcdn.tc.qq.com
+- +.adsmind.gdtimg.com.tcdn.qq.com
+- +.adsmind.ugdtimg.com.tcdn.qq.com
 - +.adsmis.duxiaoman.com
 - +.adsmogo.com
 - +.adsmogo.mobi
@@ -7650,6 +7675,7 @@ payload:
 - +.adx-api.jinmo.tech
 - +.adx-bid.tianzhuobj.com
 - +.adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn
+- +.adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 - +.adx-dra.op.dbankcloud.com
 - +.adx-dra.op.hicloud.com
 - +.adx-drcn.op.dbankcloud.cn
@@ -8205,6 +8231,7 @@ payload:
 - +.agonizing-initiative.pro
 - +.agonizingfollowing.pro
 - +.agonyshark.com
+- +.agoodm.m.taobao.com
 - +.agoqaa.stockmann.com
 - +.agorahtag.tech
 - +.agore.xyz
@@ -9414,6 +9441,7 @@ payload:
 - +.analytics.emqx.com.w.cdngslb.com
 - +.analytics.erepublic.com
 - +.analytics.ericafischerphotography.com
+- +.analytics.escience.org.cn
 - +.analytics.esporteinterativo.com.br
 - +.analytics.eternagame.org
 - +.analytics.eventbrite.com
@@ -9841,6 +9869,7 @@ payload:
 - +.analytics.yam.com
 - +.analytics.yext-static.com
 - +.analytics.yicai.com
+- +.analytics.yinxiang.com
 - +.analytics.ynap.biz
 - +.analytics.yola.net
 - +.analytics.yolacdn.net
@@ -10287,6 +10316,7 @@ payload:
 - +.aphanesupwound.com
 - +.apharponloun.com
 - +.aphxav.green-acres.it
+- +.api-4know-em.hismarttv.com
 - +.api-4know-eu.hismarttv.com
 - +.api-access.pangolin-sdk-toutiao-b.com.bytedns1.com
 - +.api-access.pangolin-sdk-toutiao-b.com.queniuyk.com
@@ -10334,11 +10364,14 @@ payload:
 - +.api-gd.hiaiabc.com
 - +.api-gl.cdo.heytapmobi.com
 - +.api-gps-eu.hismarttv.com
+- +.api-gps-na.hismarttv.com
 - +.api-gps.hismarttv.com
 - +.api-hotmart-tracking-manager.hotmart.com
 - +.api-id.game.heytapmobi.com
+- +.api-id.theme.heytapmobi.com
 - +.api-js.mindbox.ru
 - +.api-launcher-eu.hismarttv.com
+- +.api-launcher-na.hismarttv.com
 - +.api-logsdk.hismarttv.com
 - +.api-metric.gosweb.gosuslugi.ru
 - +.api-push.com
@@ -10494,6 +10527,7 @@ payload:
 - +.api.xiaohuxi.cn
 - +.api.xk.miui.com
 - +.api.xmpush.global.xiaomi.com
+- +.api.xmpush.xiaomi.com
 - +.api.yidaomobi.com
 - +.api.youngle.site
 - +.api.youngle.tech
@@ -10511,6 +10545,7 @@ payload:
 - +.apikey.map.qq.com
 - +.apilog-web.acfun.cn
 - +.apilog.app.acfun.cn
+- +.apilog.qbb6.com
 - +.apiouthyperlinks.net
 - +.apirasutexruk.website
 - +.apis.4bn.xyz
@@ -10546,6 +10581,7 @@ payload:
 - +.apm-fe.rnote.com
 - +.apm-fe.xiaohongshu.com
 - +.apm-log-upload-os.hoyoverse.com
+- +.apm-log-upload.mihoyo.com
 - +.apm-native.redbascket.com
 - +.apm-native.xiaohongshu.com
 - +.apm-track.xiaohongshu.com
@@ -10591,12 +10627,15 @@ payload:
 - +.app-link.republik.gg
 - +.app-link.smartvid.io
 - +.app-link.udex.us
+- +.app-live-jy-sports.com.cn
 - +.app-log-lab.immomo.com
 - +.app-log-oversea.immomo.com
 - +.app-measurement-cn.com
 - +.app-measurement.com
 - +.app-momentum.com
 - +.app-monitor.ele.me
+- +.app-net4-whatsapp.com.cn
+- +.app-posthog.bi-sage.site
 - +.app-qa.rnd.thronelabs.co
 - +.app-redirect.wearephlo.com
 - +.app-stage.mschfsneakers.com
@@ -12289,6 +12328,7 @@ payload:
 - +.asxtutrchzxpw.com
 - +.asxxlo.interflora.es
 - +.asy76rvai.com
+- +.asyn.cn
 - +.async-px-eu.dynamicyield.com
 - +.async-px.dynamicyield.com
 - +.asypwo.icu
@@ -12614,8 +12654,14 @@ payload:
 - +.auteboon.net
 - +.auth-em.hismarttv.com
 - +.auth-eu.hismarttv.com
+- +.auth-launcher-em.hismarttv.com
 - +.auth-launcher-eu.hismarttv.com
+- +.auth-launcher-jp.hismarttv.com
+- +.auth-launcher-na.hismarttv.com
+- +.auth-launcher-sa.hismarttv.com
+- +.auth-na.hismarttv.com
 - +.auth-phone-afr.hismarttv.com
+- +.auth-sa.hismarttv.com
 - +.auth-voiceservice-eu.hismarttv.com
 - +.auth.api.gitv.tv
 - +.auth.be.sec.miui.com
@@ -13217,6 +13263,7 @@ payload:
 - +.azzncoswof.com
 - +.azzpkuvm.in
 - +.b-m.xyz
+- +.b-sports-apple.com.cn
 - +.b.16vcd.com
 - +.b.53yao.com
 - +.b.77shw.com
@@ -14798,6 +14845,7 @@ payload:
 - +.bigbrain.me
 - +.bigcattracks.com
 - +.bigcooe.xyz
+- +.bigdata-lbs-pri-c3.alb.xiaomi.com
 - +.bigdata.clarin.com
 - +.bigelowcleaning.com
 - +.bigfishapparel.com
@@ -15943,6 +15991,7 @@ payload:
 - +.bqxyns0hv.com
 - +.bqybaxcxwbgsm.website
 - +.bqywbmpabthty.site
+- +.br-p.vivoglobal.com
 - +.br.ac.ebookers.ch
 - +.br.ac.ebookers.com
 - +.br.ac.ebookers.de
@@ -16388,7 +16437,6 @@ payload:
 - +.browser-statistik.de
 - +.browser-update.org
 - +.browser-updater.yandex.net
-- +.browser.360.cn
 - +.browser.covatic.io
 - +.browser.events.data.msn.cn
 - +.browser.events.data.msn.com
@@ -17846,6 +17894,8 @@ payload:
 - +.carvercranberry.com
 - +.carvyre.com
 - +.casalemedia.com
+- +.casalino.shop
+- +.casaperch.com
 - +.cascadion.thermo.com
 - +.cascadion.thermofisher.com
 - +.cascllychd.com
@@ -18262,7 +18312,6 @@ payload:
 - +.cdn.xiaoduoai.com
 - +.cdn.yld.is
 - +.cdn.ynuf.aliapp.org
-- +.cdn.zmaticoo.com
 - +.cdn0.mobmore.com
 - +.cdn1.crispadvertising.com
 - +.cdn1.lbesec.com
@@ -18455,6 +18504,7 @@ payload:
 - +.centralcore7.com
 - +.centralindriver.net
 - +.centralnervous.net
+- +.centralstylemarket.shop
 - +.centricgaffkya.com
 - +.centrnotify.com
 - +.centumshough.com
@@ -18572,6 +18622,7 @@ payload:
 - +.cfyncvcvbhdiw.website
 - +.cfyrlemzzvaxe.site
 - +.cfyxpuumqdcii.website
+- +.cg.play-analytics.com
 - +.cgamoqsqxy.com
 - +.cgbgdgcdmahpd.space
 - +.cgbpxcvnophfy.space
@@ -18678,6 +18729,7 @@ payload:
 - +.changesclomped.shop
 - +.changmaoxinjzo.com
 - +.changyan.sohu.com
+- +.changyi21.cn
 - +.channel-analysis-js.gmw.cn
 - +.channel.cummins.com
 - +.channel.informaengage.com
@@ -19100,6 +19152,7 @@ payload:
 - +.cityadstrack.com
 - +.citydsp.com
 - +.cityhuitech.com
+- +.cityluxe.shop
 - +.citypaketet.se
 - +.cityrobotflower.com
 - +.citysite.net
@@ -19360,6 +19413,7 @@ payload:
 - +.click.ali213.net
 - +.click.alibaba.com
 - +.click.aliexpress.com
+- +.click.aliyun.com
 - +.click.alternate.de
 - +.click.amazingfacts.org
 - +.click.appinthestore.com
@@ -19470,6 +19524,7 @@ payload:
 - +.clickcdn.co
 - +.clickcease.com
 - +.clickcertain.com
+- +.clickchoice.shop
 - +.clickclick.net
 - +.clickco.net
 - +.clickcount.cnool.net
@@ -19840,6 +19895,7 @@ payload:
 - +.cm-jp.americanexpress.com
 - +.cm-mms.coachmag.co.uk
 - +.cm-sg.americanexpress.com
+- +.cm-todesk.com.cn
 - +.cm-trk3.com
 - +.cm-trk5.com
 - +.cm.baidu.com
@@ -19995,6 +20051,11 @@ payload:
 - +.cname-ade.shachihata.biz
 - +.cname-adebis.nice2meet.us
 - +.cname-adebis.vcube.com
+- +.cname-asia-comonrt-stsdk.vivoglobal.com
+- +.cname-asia-st-exappupgrade.vivoglobal.com
+- +.cname-in-apport-stsdk.vivoglobal.com
+- +.cname-in-bom01-nginxpool03.vivoglobal.com
+- +.cname-in-ctdbonrt-stsdk.vivoglobal.com
 - +.cname-sin01-stsdk09.vivoglobal.com
 - +.cname.crank-in.net
 - +.cname.ebis.folio-sec.com
@@ -20099,7 +20160,12 @@ payload:
 - +.cnzz.yifenghuyu.com
 - +.cnzzlink.com
 - +.co-emas.com
+- +.co-romsp-unifyconfig.vivoglobal.com
 - +.co-sentry.wps.cn
+- +.co-st-sl.vivoglobal.com
+- +.co-timesync.vivoglobal.com
+- +.co-vcode-api.vivoglobal.com
+- +.co-vcode-od.vivoglobal.com
 - +.co.dtech.baofeng.com
 - +.co4scosu6.com
 - +.co5457chu.com
@@ -20273,6 +20339,7 @@ payload:
 - +.collect.helsana-preprod.ch
 - +.collect.helsana.ch
 - +.collect.hollisterco.com
+- +.collect.hupu.com
 - +.collect.iteam-dress.com
 - +.collect.klove.com
 - +.collect.kugou.com
@@ -20663,6 +20730,7 @@ payload:
 - +.conduze.com
 - +.conenectedithcons.org
 - +.conestreshow.com
+- +.conf-cn.dc.heytapmobi.com
 - +.conf-eu.dc.heytapmobi.com
 - +.conf-in.dc.heytapmobi.com
 - +.conf-sg.dc.heytapmobi.com
@@ -21656,6 +21724,7 @@ payload:
 - +.countly.growatt.com
 - +.countly.haimawan.com
 - +.countly.mail.163.com
+- +.countly.ulanzistudio.com
 - +.countnow.de
 - +.counto.de
 - +.countok.de
@@ -21813,6 +21882,7 @@ payload:
 - +.cpro.zol.com.cn
 - +.cpro2.baidu.cn
 - +.cpro2.baidu.com
+- +.cps-line.com.cn
 - +.cps.360buy.com
 - +.cps.yaoqing.com
 - +.cpsvwfrdhhe.com
@@ -23180,6 +23250,7 @@ payload:
 - +.d15r06k2ko210l.cloudfront.net
 - +.d15skjf5hy9xr6.cloudfront.net
 - +.d15yg5thi9b6xv.cloudfront.net
+- +.d162fff72adbfd9c.com
 - +.d162nnmwf9bggr.cloudfront.net
 - +.d169bbxks24g2u.cloudfront.net
 - +.d16fk4ms6rqz1v.cloudfront.net
@@ -24189,6 +24260,7 @@ payload:
 - +.d8sllv1cwflbw.cloudfront.net
 - +.d8xy39jrbjbcq.cloudfront.net
 - +.d9.sina.com.cn
+- +.d91086539a4d44b9.com
 - +.d91i6bsb0ef59.cloudfront.net
 - +.d949b51857.com
 - +.d94qwxh6czci4.cloudfront.net
@@ -25336,6 +25408,7 @@ payload:
 - +.dcyzukablod.in
 - +.dczhbhtz52fpi.cloudfront.net
 - +.dczicllonbfre.site
+- +.dd-didingtalk.com.cn
 - +.dd.auspost.com.au
 - +.dd.bellesdemeures.com
 - +.dd.betano.com
@@ -25425,6 +25498,7 @@ payload:
 - +.ddzswov1e84sp.cloudfront.net
 - +.ddzyijhyaujus.site
 - +.de-de.siemensplmevents.com
+- +.de-gdpr-err-up.vivoglobal.com
 - +.de-go.experian.com
 - +.de-metalshop.m-shop.me
 - +.de-mi-nis-ner.info
@@ -25539,6 +25613,7 @@ payload:
 - +.decorateadverb.com
 - +.decoratedmulesanta.com
 - +.decorationmercifulmonth.com
+- +.decorava.shop
 - +.decoydeclaration.com
 - +.decpo.xyz
 - +.decreaselackadmit.com
@@ -26113,7 +26188,6 @@ payload:
 - +.dg.ptl.irco.com
 - +.dg.yiran686.cn
 - +.dg0hrtzcus4q4.cloudfront.net
-- +.dg186.cn
 - +.dg6gu9iqplusg.cloudfront.net
 - +.dg7k1tpeaxzcq.cloudfront.net
 - +.dg9sw33hxt5i7.cloudfront.net
@@ -26622,6 +26696,7 @@ payload:
 - +.dingmotoric.com
 - +.dingon.com.cn
 - +.dingpantomimehumidity.com
+- +.dingtalk-a.com.cn
 - +.diningfreshmansavage.com
 - +.diningprefixmyself.com
 - +.diningsovereign.com
@@ -27361,6 +27436,7 @@ payload:
 - +.dnecea.vacances-lagrange.com
 - +.dnejpeqzwhepx.website
 - +.dnemkhkbsdbl.com
+- +.dnet.mb.qq.com
 - +.dnews.alfaromeo.it
 - +.dnews.fiat.it
 - +.dnf06i4y06g13.cloudfront.net
@@ -27370,6 +27446,7 @@ payload:
 - +.dngpzy.tradingsat.com
 - +.dngpzy.zone-turf.fr
 - +.dngzvmztykhkw.online
+- +.dnha.play-analytics.com
 - +.dnhfi5nn2dt67.cloudfront.net
 - +.dnhrxt.kintetsu-re.co.jp
 - +.dnibrjbhidpyq.space
@@ -27515,6 +27592,7 @@ payload:
 - +.dolrfm.fotoregistro.com.br
 - +.dolularhenewrev.org
 - +.dolviao.shop
+- +.domain-server-dashboard.edgeone.app
 - +.domain.aishengji.com
 - +.domainadvertising.com
 - +.domainanalytics.net
@@ -29293,6 +29371,7 @@ payload:
 - +.e910e94be7.com
 - +.e92c130c8b.com
 - +.e958252147.com
+- +.e98b9ad30649e969.com
 - +.e98fe.luytr.com
 - +.ea.armandthiery.fr
 - +.ea.assuronline.com
@@ -30523,6 +30602,7 @@ payload:
 - +.elisans.novayonetim.com
 - +.elite-ayx.com.cn
 - +.elite-s001.com
+- +.elite-xcsports.com.cn
 - +.eliteclng.ericksonbuilt.com
 - +.elitics.com
 - +.elixateazotise.shop
@@ -31668,6 +31748,7 @@ payload:
 - +.epnfoq.cyberpowersystem.co.uk
 - +.epnredirect.ru
 - +.epnt.ebay.com
+- +.epoch-id.cdo.heytapmobi.com
 - +.epointatoncean.com
 - +.epointatonceandt.com
 - +.epoisejobs.epoise.com
@@ -32212,6 +32293,7 @@ payload:
 - +.euro4ads.de
 - +.euroads.dk
 - +.eurocounter.com
+- +.eurodepot.shop
 - +.eurogamer-uk.eurogamer.net
 - +.europagerank.com
 - +.europeanivanprestigious.com
@@ -32340,11 +32422,15 @@ payload:
 - +.eventos.mirecweek.com
 - +.eventos.ubmmexico.com
 - +.eventos.usj.es
+- +.events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn
 - +.events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn
+- +.events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
+- +.events-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 - +.events-dra.op.dbankcloud.cn
 - +.events-dra.op.dbankcloud.com
 - +.events-dra.op.hicloud.com
 - +.events-drcn.op.dbankcloud.cn
+- +.events-drcn.op.dbankcloud.com
 - +.events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn
 - +.events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 - +.events-dre.op.dbankcloud.com
@@ -32365,6 +32451,7 @@ payload:
 - +.events.auth.gid.ru
 - +.events.avaya.com
 - +.events.backtrace.io
+- +.events.baicizhan.com
 - +.events.baselime.io
 - +.events.bendigotafe.edu.au
 - +.events.blackboard.com
@@ -32891,6 +32978,7 @@ payload:
 - +.exyjahomxj.com
 - +.exzocglvthjxr.space
 - +.exzumzcaqqdny.site
+- +.ey-gate.hl.cn
 - +.ey43.com
 - +.ey8u1z38v.com
 - +.eyaefplbtsqdw.site
@@ -33131,6 +33219,7 @@ payload:
 - +.faceporn.com
 - +.facesnotebook.com
 - +.facetz.net
+- +.faceviro.shop
 - +.facey.psjhealth.org
 - +.facheicuropapon.com
 - +.facialleaflet.com
@@ -33266,6 +33355,7 @@ payload:
 - +.familly56.top
 - +.familyborn.com
 - +.familydoctor-app.hotdoc.com.au
+- +.familyhomeoffers.shop
 - +.familypractice-app.hotdoc.com.au
 - +.familytaste.cn
 - +.fan-yong.com
@@ -33706,6 +33796,7 @@ payload:
 - +.feih.com.cn
 - +.feijsojvphjqh.online
 - +.feilbeclaw.com
+- +.feishuoffice.com.cn
 - +.feisty-strength.pro
 - +.feitian001.com
 - +.feitianma.com
@@ -33886,6 +33977,7 @@ payload:
 - +.fgllllfedeltb.website
 - +.fglrgt.ruggable.com
 - +.fgmaal.u-canshop.jp
+- +.fgmeble.shop
 - +.fgmkedzcrvsyl.online
 - +.fgn-plausible.serverable.com
 - +.fgnvnqsoqehlp.space
@@ -34192,6 +34284,7 @@ payload:
 - +.fistleaccuser.shop
 - +.fistpoke.com
 - +.fitanalytics.com
+- +.fitavon.shop
 - +.fitchpmsa.com
 - +.fitmessage.com
 - +.fitnesseternalsignificant.com
@@ -34409,6 +34502,7 @@ payload:
 - +.fledparticipantmodeling.com
 - +.fleet-dafayule.com.cn
 - +.fleet-eml.postmates.com
+- +.fleet-kskaishi.com.cn
 - +.fleet-oubaosports.com.cn
 - +.fleethappened.com
 - +.fleetingtrustworthydreams.com
@@ -34679,6 +34773,7 @@ payload:
 - +.focusedcountry.pro
 - +.focusedquit.pro
 - +.focusfitwear.com
+- +.focusgar.shop
 - +.focusgardenshop.club
 - +.fodder.qq.com
 - +.fodder.tc.qq.com
@@ -35334,6 +35429,7 @@ payload:
 - +.fresh8.co
 - +.freshatl.azurewebsites.net
 - +.freshcounter.com
+- +.freshdiscountcorner.shop
 - +.freshesunwarp.com
 - +.freshet40.top
 - +.freshforestroad.com
@@ -36296,6 +36392,7 @@ payload:
 - +.gastdn.wolfandbadger.com
 - +.gastfulabeles.com
 - +.gaszasmwu.com
+- +.gate-jkl.hl.cn
 - +.gate.datacaciques.com
 - +.gateauxchack.shop
 - +.gatecollect.kugou.com
@@ -38859,6 +38956,7 @@ payload:
 - +.groleegni.net
 - +.grometpuntal.com
 - +.gromore.pangolin-sdk-toutiao.com.230b2a2545cfa773.queniuck.com
+- +.gromore.pangolin-sdk-toutiao.com.bytedns1.com
 - +.grookilteepsou.net
 - +.grootcho.com
 - +.grooverhurdis.shop
@@ -38892,6 +38990,7 @@ payload:
 - +.grovelluster.shop
 - +.grow.business.xerox.com
 - +.grow.national.biz
+- +.grow.nowcoder.com
 - +.grow1maid.com
 - +.groweyelid.com
 - +.growin.cn
@@ -39408,6 +39507,7 @@ payload:
 - +.gym-fitness.club
 - +.gym-glamoursklep.club
 - +.gym-glamourspl.club
+- +.gym-online.shop
 - +.gym-sport.club
 - +.gym-sports.club
 - +.gym-sportsl.club
@@ -39509,6 +39609,7 @@ payload:
 - +.h-bid.com
 - +.h-cast.jp
 - +.h.b5qpg.cn
+- +.h.baminw.cn
 - +.h.how5.cn
 - +.h.imedia.cz
 - +.h.laojiayoufang.com
@@ -40671,6 +40772,7 @@ payload:
 - +.hirsung.de
 - +.hirvkfqgoevye.website
 - +.hirwwguwdvsoe.website
+- +.hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 - +.hisfwbkl.com
 - +.hisisathlle.com
 - +.hispidtux.com
@@ -40817,6 +40919,7 @@ payload:
 - +.hjxajf.com
 - +.hjyfhi.misterspex.fi
 - +.hjyxogxnulppy.site
+- +.hk-datareceiver.aki-game.net
 - +.hk-go.experian.com
 - +.hk.jtsh123.com
 - +.hk.napi.ucweb.com
@@ -41207,6 +41310,7 @@ payload:
 - +.holmesmind.com
 - +.holuagency.top
 - +.home-bwinsport.com.cn
+- +.home-score-iyx-sports.com.cn
 - +.home.edm.globalsources.com
 - +.home.usg.com
 - +.homebizplaza.com
@@ -41902,6 +42006,7 @@ payload:
 - +.huorong-dl.com.cn
 - +.huorong-gx.com.cn
 - +.huorong-mh.com.cn
+- +.huorong-tw.com.cn
 - +.huowamtxlunei.online
 - +.huoxingtan66.com
 - +.huoying666.com
@@ -42231,6 +42336,7 @@ payload:
 - +.i-fk.cn
 - +.i-mobile.co.jp
 - +.i-ready.curriculumassociates.com
+- +.i-sg01a.ocloud.heytapmobi.com
 - +.i.airtel.in
 - +.i.americanblinds.com
 - +.i.appbox.me
@@ -42514,6 +42620,7 @@ payload:
 - +.iczmnarhjksan.website
 - +.iczrxddinowma.space
 - +.id-analyzer-appstore.vivoglobal.com
+- +.id-third-appstore.vivoglobal.com
 - +.id-visitors.com
 - +.id-ward.com
 - +.id.jiathis.com
@@ -42545,6 +42652,7 @@ payload:
 - +.identicaldrench.com
 - +.identicalprofile.com
 - +.identification.hotmart.com
+- +.identify.tankeai.com
 - +.identifycertainlybookie.com
 - +.identifycoexistindicator.com
 - +.identity39.com
@@ -43984,6 +44092,7 @@ payload:
 - +.in-ad-mkt-vivofs.vivoglobal.com
 - +.in-adlog.vivoglobal.com
 - +.in-adreq.vivoglobal.com
+- +.in-adsjssdk.vivoglobal.com
 - +.in-analyzer-appstore.vivoglobal.com
 - +.in-appadvertising.com
 - +.in-apponrt-stsdk.vivoglobal.com
@@ -44001,6 +44110,7 @@ payload:
 - +.in-errup.vivoglobal.com
 - +.in-ex-adlog.vivoglobal.com
 - +.in-go.experian.com
+- +.in-line.com.cn
 - +.in-miuilog.sms.intl.xiaomi.com
 - +.in-mktg.vodafone.com
 - +.in-monitor-stsdk.vivoglobal.com
@@ -44136,6 +44246,8 @@ payload:
 - +.indentsrondels.com
 - +.independence.americanportfolios.com
 - +.independentacceptable.com
+- +.index-match-bsports.com.cn
+- +.index-score-panda.com.cn
 - +.index.ru
 - +.index.woai310.com
 - +.indexeseconomicsenrage.com
@@ -46489,6 +46601,9 @@ payload:
 - +.j4mxrs21gh.com
 - +.j4s12kfavg.com
 - +.j5sgdum5n4.com
+- +.j65s.vip
+- +.j67c.vip
+- +.j67z.vip
 - +.j694fx3bp.com
 - +.j69t.vip
 - +.j69v.vip
@@ -46829,6 +46944,7 @@ payload:
 - +.jdookslktoafb.website
 - +.jdoqocy.com
 - +.jdpbpd.icu
+- +.jdpm.net.cn
 - +.jdrabeygqy.com
 - +.jdraskbpyqgpi.site
 - +.jds4i5gcfv.com
@@ -47594,6 +47710,7 @@ payload:
 - +.jozefinskiatelje.si
 - +.jozispfsxhbmg.space
 - +.jozvfaesigdre.site
+- +.jp-datareceiver.aki-game.net
 - +.jp-go.experian.com
 - +.jp.as.pptv.com
 - +.jp.ppgamingproxy.lol
@@ -48347,6 +48464,7 @@ payload:
 - +.jygdb.com
 - +.jygotubvpyguak.com
 - +.jygyrxjwiccts.online
+- +.jyhengyi.cn
 - +.jyhuquotaeftn.com
 - +.jyiwnb82b.com
 - +.jyjdzogsiedqj.site
@@ -48465,7 +48583,6 @@ payload:
 - +.k2n0f.cn
 - +.k2o2ls46.xyz
 - +.k3bos.com
-- +.k40rx16053uzjnb.s3-website-us-east-1.amazonaws.com
 - +.k50.rtl2.de
 - +.k55p9ka2.de
 - +.k5app.byjus.com
@@ -49985,6 +50102,8 @@ payload:
 - +.kywivixcdwbsm.online
 - +.kyxonasaiwycf.site
 - +.kyzyxfsfrqedw.site
+- +.kz-onrt-stsdk.vivoglobal.com
+- +.kz-vcode-od.vivoglobal.com
 - +.kzaflsrymgag.com
 - +.kzagvdulumvgl.site
 - +.kzbqdbnqlajzk.website
@@ -50416,6 +50535,7 @@ payload:
 - +.lave6loki.com
 - +.laveinn.shop
 - +.lavfttpdcojeh.space
+- +.lavioro.shop
 - +.lavish-bill.pro
 - +.lavishboot.com
 - +.lavmaxamma.in
@@ -50776,6 +50896,7 @@ payload:
 - +.lecqetptejakq.website
 - +.lectureolympics.com
 - +.lecubzcgozcgk.one
+- +.ledger-wallet.biz
 - +.ledhenone.com
 - +.ledian.pro
 - +.ledlpcotdwpub.website
@@ -51294,6 +51415,7 @@ payload:
 - +.line6agar.com
 - +.linear-policy.com
 - +.linedcoffee.com
+- +.lineg.com.cn
 - +.linenvirginityclient.com
 - +.lineside.networkrail.co.uk
 - +.linezing.com
@@ -51598,6 +51720,7 @@ payload:
 - +.link.joinswoop.com
 - +.link.joinworkpass.com
 - +.link.justincase.jp
+- +.link.jzzxapp.cn
 - +.link.keycollectorcomics.com
 - +.link.kidfund.us
 - +.link.kidzapp.com
@@ -51907,7 +52030,6 @@ payload:
 - +.link.zurp.com
 - +.link1.fanfight.com
 - +.link2.strawberrynet.com
-- +.link3.cc
 - +.link5view.com
 - +.linkaffectionately.com
 - +.linkbuddies.com
@@ -52273,6 +52395,7 @@ payload:
 - +.live-bsportsgo.com.cn
 - +.live-desire.pro
 - +.live-ifs.tanx.com
+- +.live-weilai.com.cn
 - +.live.alljobs.co.il
 - +.live.comunicaciones.jetstereo.com
 - +.live.cxo.name
@@ -52324,6 +52447,10 @@ payload:
 - +.livestats.fr
 - +.livestats.kaltura.com
 - +.livestats.matrix.it
+- +.livetech.shopee.co.id.txlivecdn.com
+- +.livetech.shopee.com.br.tlivecdn.com
+- +.livetech.shopee.com.br.txlivecdn.com
+- +.livetech.shopee.vn.txlivecdn.com
 - +.livetrafficfeed.com
 - +.liveuniversenetwork.com
 - +.liveupdate.mac.sandai.net
@@ -52743,6 +52870,7 @@ payload:
 - +.log-api-mn.huxiu.com
 - +.log-api.cli.im
 - +.log-api.huxiu.com
+- +.log-api.pangolin-sdk-toutiao-b.com.bytedns1.com
 - +.log-api.pangolin-sdk-toutiao.com.bytedns1.com
 - +.log-api.pangolin-sdk-toutiao.com.queniuyk.com
 - +.log-api.pangolin-sdk-toutiao.com.w.cdngslb.com
@@ -52796,6 +52924,7 @@ payload:
 - +.log.cpex.cz
 - +.log.cs.pp.cn
 - +.log.daqi.com
+- +.log.dc.cn.happyelements.com
 - +.log.dpa.com
 - +.log.droid4x.cn
 - +.log.dzen.ru
@@ -52877,6 +53006,7 @@ payload:
 - +.log.tutuapp.com
 - +.log.tv.moliv.cn
 - +.log.tv360.vn
+- +.log.us.xiaoyi.com
 - +.log.v2.hunantv.com
 - +.log.vcgame.cn
 - +.log.vdisk.cn
@@ -52891,6 +53021,7 @@ payload:
 - +.log.wtlogin.qq.com
 - +.log.ycapp.yiche.com
 - +.log.yex.youdao.com
+- +.log.yinshantech.cn
 - +.log.ys7.com
 - +.log.zcool.com.cn
 - +.log.zdnet.co.kr
@@ -52925,9 +53056,11 @@ payload:
 - +.log3-misc-lf.amemv.com
 - +.log3-misc-lq.amemv.com
 - +.log3-normal-hl.toutiaoapi.com
+- +.log3-normal-lf.toutiaoapi.com
 - +.log3-normal-lq.toutiaoapi.com
 - +.log5-applog-hl.fqnovel.com
 - +.log5-applog-hl.zijieapi.com
+- +.log5-applog-lf.zijieapi.com
 - +.log5-applog.fqnovel.com
 - +.log5-misc-hl.amemv.com
 - +.log5-misc-lf.amemv.com
@@ -53032,12 +53165,14 @@ payload:
 - +.logsdk.klingai.com
 - +.logsdk.kwai-pro.com
 - +.logsdk.qq.com
+- +.logserver.nzxcloud.cn
 - +.logservice-dra.platform.dbankcloud.cn
 - +.logservice-dra.platform.dbankcloud.com
 - +.logservice-dra.platform.hicloud.com
 - +.logservice-dre.platform.dbankcloud.cn
 - +.logservice-dre.platform.dbankcloud.com
 - +.logservice-dre.platform.hicloud.com
+- +.logservice-rtm.agora.io
 - +.logservice.agora.io
 - +.logservice.dbankcloud.cn
 - +.logservice.hicloud.com
@@ -54078,8 +54213,10 @@ payload:
 - +.m-adash.m.taobao.com
 - +.m-adnet.hiaiabc.com
 - +.m-brain.fi
+- +.m-news-ng.com.cn
 - +.m-pathy.com
 - +.m-rtb.com
+- +.m-schedule-anbo.com.cn
 - +.m-t.io
 - +.m-t.topya.com
 - +.m-test.papertrail.io
@@ -55155,6 +55292,7 @@ payload:
 - +.m9sz0hh3f7.com
 - +.ma-adx.ctrip.com
 - +.ma-catinfo.com
+- +.ma-gate.com.cn
 - +.ma-tag.com
 - +.ma.a3.se
 - +.ma.axiomatics.com
@@ -57176,6 +57314,7 @@ payload:
 - +.match.rundsp.com
 - +.match2one.net
 - +.matchclamourallot.com
+- +.matchday-live-kaiyun.com.cn
 - +.matcheshonoraryunderwater.com
 - +.matchesproductionsinteract.com
 - +.matching.targeterra.com
@@ -58132,6 +58271,7 @@ payload:
 - +.metric.nomura.co.jp
 - +.metric.northeast.aaa.com
 - +.metric.nrma.com.au
+- +.metric.nuonuo.com
 - +.metric.octanner.com
 - +.metric.olivegarden.com
 - +.metric.optum.com
@@ -59552,6 +59692,7 @@ payload:
 - +.metrics.yola.com
 - +.metrics.youandyourwedding.co.uk
 - +.metrics.yourlexusdealer.com
+- +.metrics.yy.com
 - +.metrics.zacks.com
 - +.metrics0.com
 - +.metrics1-drcn.dt.dbankcloud.cn
@@ -59884,6 +60025,7 @@ payload:
 - +.mikka.app
 - +.mikqukcumhivv.online
 - +.mikvahvirally.shop
+- +.milan-live.com.cn
 - +.mildcauliflower.com
 - +.mildconsciousness.com
 - +.mildenpatined.shop
@@ -59967,6 +60109,7 @@ payload:
 - +.mingyueqingfengshe.com
 - +.mini-prog-drm.vodplayvideo.net
 - +.mini-site.larksuite-marketing.com
+- +.mini.eastday.com
 - +.mini.hao123.com
 - +.mini.jijiplayer.com
 - +.miniapp.bilibili.com
@@ -60347,6 +60490,7 @@ payload:
 - +.mlog.bigda.com
 - +.mlog.m1905.cn
 - +.mlog.wangsu.com
+- +.mlog.wangsu.com.wswebcdn.com
 - +.mloroqqozjywt.website
 - +.mlougq.icu
 - +.mlqcixbbgdwij.online
@@ -60495,6 +60639,7 @@ payload:
 - +.mo.4k9b.cn
 - +.mo.4s5n.cn
 - +.mo.b25ku.cn
+- +.mo.baidu.com
 - +.mo.bsxr.com.cn
 - +.mo.dfnbyn.top
 - +.mo.drzd9.cn
@@ -60736,6 +60881,7 @@ payload:
 - +.mon.zijieapi.com
 - +.mon11-misc-lf.fqnovel.com
 - +.mon11-misc-lq.fqnovel.com
+- +.mon11-misc.fqnovel.com
 - +.mon3-misc-lf.fqnovel.com
 - +.monacobeatles.com
 - +.monadplug.com
@@ -61304,6 +61450,7 @@ payload:
 - +.mssdk3-normal-zjg.zijieapi.com
 - +.mssdk5-normal-hl.zijieapi.com
 - +.mssdk5-normal-lf.zijieapi.com
+- +.mssdk5-normal-lq.zijieapi.com
 - +.mssheng.com
 - +.msslwa.icu
 - +.mssp.baidu.com
@@ -61672,12 +61819,20 @@ payload:
 - +.mwzbp.iask.com.cn
 - +.mwznlpivkknmfn.com
 - +.mwztyflmatxei.site
+- +.mx-cota.vivoglobal.com
+- +.mx-domaincfg.vivoglobal.com
+- +.mx-err-up.vivoglobal.com
 - +.mx-onrt-stsdk.vivoglobal.com
 - +.mx-ort-stsdk.vivoglobal.com
 - +.mx-p.vivoglobal.com
+- +.mx-pnrt-stsdk.vivoglobal.com
+- +.mx-romsp-unifyconfig.vivoglobal.com
 - +.mx-st-sl.vivoglobal.com
+- +.mx-stsdk.vivoglobal.com
+- +.mx-timesync.vivoglobal.com
 - +.mx-vcode-api.vivoglobal.com
 - +.mx-vcode-od.vivoglobal.com
+- +.mx-vcode-or.vivoglobal.com
 - +.mx.carfax.com
 - +.mx.carte-gr.total.fr
 - +.mx.eneba.com
@@ -64567,9 +64722,7 @@ payload:
 - +.obrqupzkarrdx.site
 - +.obrrpvohq.com
 - +.obs.branderblender.com
-- +.obs.cn-north-1.myhuaweicloud.com
 - +.obs.cn-north-2.myhuaweicloud.com
-- +.obs.cn-south-1.myhuaweicloud.com
 - +.obs.du89buildings.com
 - +.obs.esnlocco.com
 - +.obs.jollyoutdoorjogger.com
@@ -64902,8 +65055,10 @@ payload:
 - +.offevasionrecruit.com
 - +.offfurreton.com
 - +.offgridcrops.com
+- +.office-furnitures.com
 - +.officecornsoftware.com
 - +.officeklafter.com
+- +.officeme-dpjs5aucgasw.edgeone.dev
 - +.officerbeginner.com
 - +.officerpersonalimmersed.com
 - +.official-importance.pro
@@ -65750,10 +65905,15 @@ payload:
 - +.onklipda.com
 - +.onlidex.com
 - +.online-adnetwork.com
+- +.online-bwinsports.com.cn
 - +.online-duobao-sports.com.cn
+- +.online-leyuapp.com.cn
 - +.online-metrix.net
 - +.online-mt-com-455208869.p06.elqsandbox.com
+- +.online-oubo.com.cn
 - +.online-starsport.com.cn
+- +.online-starsports.com.cn
+- +.online-youbosport.com.cn
 - +.online.cphi.cn
 - +.online.eaglepi.com
 - +.online.expolifestyle.com
@@ -66448,6 +66608,7 @@ payload:
 - +.ot.obi.pl
 - +.ot.obi.si
 - +.ot.obi.sk
+- +.ota.ptqy.gitv.tv
 - +.otakusphere.online
 - +.otalktohershallilov.com
 - +.otaserve.net
@@ -66650,6 +66811,7 @@ payload:
 - +.outlandishlocal.pro
 - +.outlawcontinuing.com
 - +.outletdoorstepconnected.com
+- +.outletino.shop
 - +.outlinediabase.com
 - +.outlinedistinguish.com
 - +.outlineflourishingplumber.com
@@ -68361,6 +68523,7 @@ payload:
 - +.pglstatp-snssdk-toutiao.com
 - +.pglstatp-toutiao-b.com
 - +.pglstatp-toutiao.com
+- +.pgluck-wending.com.cn
 - +.pglxfermxwuoyk.com
 - +.pgmcdn.com
 - +.pgmediaserve.com
@@ -68514,6 +68677,7 @@ payload:
 - +.phouvemp.net
 - +.phow238wzh.com
 - +.phozatoi.com
+- +.php1-whatsapp.com.cn
 - +.phpad.cqnews.net
 - +.phpbjalhigtqe.site
 - +.phpdbetsjiywb.space
@@ -68805,6 +68969,7 @@ payload:
 - +.pirojkisertive.shop
 - +.pirounakia.openapp.link
 - +.pirsch.io
+- +.pis-tel-pcdn.youku.com
 - +.pisgahserve.com
 - +.pishenormously.com
 - +.pisism.com
@@ -69624,6 +69789,7 @@ payload:
 - +.polaris5-normal-lf.zijieapi.com
 - +.polaris5-normal-lq.zijieapi.com
 - +.polarmobile.com
+- +.polavira.shop
 - +.pole.6rooms.com
 - +.poleynsset.com
 - +.polhvf.bootbarn.com
@@ -70197,6 +70363,7 @@ payload:
 - +.pregrados.javeriana.edu.co
 - +.preknowweent.shop
 - +.prelafumes.shop
+- +.preload.xiaomi.com
 - +.prelude69.com
 - +.premierbuyer.edm.globalsources.com
 - +.premiermylodei.com
@@ -71146,6 +71313,7 @@ payload:
 - +.pulverizefighting.com
 - +.pulyxlgvrlqco.space
 - +.puma-api.iqiyi.com
+- +.puma-api.ptqy.gitv.tv
 - +.puma.api.iqiyi.com
 - +.pumaqmqix.com
 - +.pumeloricing.com
@@ -71905,6 +72073,7 @@ payload:
 - +.qdwhru8p2.com
 - +.qdwmdikzudq.com
 - +.qdygwqnzemupq.space
+- +.qdyisidun.com
 - +.qdyrhmxenoi.com
 - +.qdzilh.cn
 - +.qdzyspjx.com
@@ -72817,7 +72986,6 @@ payload:
 - +.quk9.destinia.com.ar
 - +.quksyhnvkuhru.website
 - +.quldu.com
-- +.qulishi.com
 - +.qultgdlesbdaw.online
 - +.qumaef.conects.com
 - +.qumi.com
@@ -73054,6 +73222,7 @@ payload:
 - +.r-ad.ne.jp
 - +.r-dev.urbansitter.net
 - +.r-golsport.club
+- +.r-golsport.shop
 - +.r-golsports.club
 - +.r-q-e.com
 - +.r-tb.com
@@ -73420,6 +73589,7 @@ payload:
 - +.razeebisons.com
 - +.razorcommentdisprove.com
 - +.razzweb.com
+- +.rb-todesk.com.cn
 - +.rb-youdao.com.cn
 - +.rb.groc.press
 - +.rb51rh02h.com
@@ -73985,6 +74155,7 @@ payload:
 - +.refrigeratebranchtheological.com
 - +.reftagger.com
 - +.refundradar.com
+- +.refundza.shop
 - +.refusalcustody.com
 - +.refusalspudvicinity.com
 - +.refuserates.com
@@ -74322,11 +74493,13 @@ payload:
 - +.report.qcloudcdn.qq.com
 - +.report.qq.com
 - +.report.qqweb.qq.com
+- +.report.syzs.qq.com
 - +.report.tantanapp.com
 - +.report.tencentmusic.com
 - +.report.trade.weixin.qq.com
 - +.report.tv.kohesport.qq.com
 - +.report.uc.heytapmobi.com
+- +.report.voovmeeting.com
 - +.report.yumobi.cn
 - +.report1.biz
 - +.report2.iciba.com
@@ -74447,6 +74620,7 @@ payload:
 - +.resolver.dingtalk.com
 - +.resolver.gslb.mi-idc.com
 - +.resolver.mi.xiaomi.com
+- +.resolver.msg.global.xiaomi.net
 - +.resolver.msg.global.xiaomi.net.iberostar.com
 - +.reson8.com
 - +.resonance.pk
@@ -75068,6 +75242,7 @@ payload:
 - +.ritzyveil.com
 - +.riundo.bonprix.no
 - +.rivcash.com
+- +.rivelloza.shop
 - +.river.zhidao.baidu.com
 - +.river49xx.org
 - +.riverdin.com
@@ -75471,6 +75646,7 @@ payload:
 - +.roseincome.com
 - +.rosy-award.pro
 - +.rosy-feifansports.com.cn
+- +.rosy-kaiyuan.com.cn
 - +.rosy-tree.pro
 - +.rosy-yibeisports.com.cn
 - +.rosysolvingscallion.com
@@ -75823,6 +75999,8 @@ payload:
 - +.rtlog3-applog-hl.amemv.com
 - +.rtlog3-applog-hl.fqnovel.com
 - +.rtlog3-applog-hl.toutiaoapi.com
+- +.rtlog3-applog-lf.amemv.com
+- +.rtlog3-applog-lf.toutiaoapi.com
 - +.rtlog3-applog-lq.amemv.com
 - +.rtlog3-applog-lq.toutiaoapi.com
 - +.rtlog3-applog.fqnovel.com
@@ -75877,6 +76055,7 @@ payload:
 - +.ru-compnrt-stsdk.vivoglobal.com
 - +.ru-comprt-stsdk.vivoglobal.com
 - +.ru-cota.vivoglobal.com
+- +.ru-err-up.vivoglobal.com
 - +.ru-exstsdk.vivoglobal.com
 - +.ru-go.experian.com
 - +.ru-onrt-stsdk.vivoglobal.com
@@ -76513,7 +76692,6 @@ payload:
 - +.s1.s8tu.com
 - +.s1.subaru.com
 - +.s1.szlu-an.com
-- +.s1.wesiedu.com
 - +.s1133198723.sc.origins.en25.com
 - +.s1325061471.sc.origins.en25.com
 - +.s138663192.aon.com
@@ -76897,10 +77075,15 @@ payload:
 - +.saec-metrics.base.be
 - +.saec-metrics.telenet.be
 - +.saf-oil.ru
+- +.safe-6688sports.com.cn
 - +.safe-bibo.com.cn
+- +.safe-bowan.com.cn
 - +.safe-click.net
 - +.safe-connection21.com
+- +.safe-kaiyunsport.com.cn
+- +.safe-leyu7.com.cn
 - +.safe-tianbo.com.cn
+- +.safe-xinli.com.cn
 - +.safe.tsgpay.cn
 - +.safe.ucweb.com
 - +.safeanalytics.net
@@ -76909,6 +77092,7 @@ payload:
 - +.safebrowsing.urlsec.gg.com
 - +.safecoprograms.com
 - +.safeglimmerlongitude.com
+- +.safeguard-365wm.com.cn
 - +.safeguardemergency.com
 - +.safelinktracker.com
 - +.safelistextreme.com
@@ -76928,10 +77112,17 @@ payload:
 - +.safetybrush.com
 - +.safetygrieced.shop
 - +.safevisit.online
+- +.safew-appa-cn.com.cn
 - +.safew-appk-cn.com.cn
+- +.safew-appn-cn.com.cn
 - +.safew-appu-cn.com.cn
+- +.safew-appx-cn.com.cn
+- +.safew-ca.org.cn
+- +.safew-pc.org.cn
 - +.safewarns.com
 - +.safewarriorsinfected.com
+- +.safeweiji.com.cn
+- +.safewgo.org.cn
 - +.saffronrefuge.com
 - +.safjvplyudno.com
 - +.saflcoofffi.com
@@ -77576,6 +77767,18 @@ payload:
 - +.sc2.constantcontact.com
 - +.sc2.infor.com
 - +.sc2metrics.exacttarget.com
+- +.sca-domaincfg.vivoglobal.com
+- +.sca-err-up.vivoglobal.com
+- +.sca-onrt-stsdk.vivoglobal.com
+- +.sca-ort-stsdk.vivoglobal.com
+- +.sca-p.vivoglobal.com
+- +.sca-romsp-unifyconfig.vivoglobal.com
+- +.sca-st-sl.vivoglobal.com
+- +.sca-stsdk.vivoglobal.com
+- +.sca-timesync.vivoglobal.com
+- +.sca-vcode-api.vivoglobal.com
+- +.sca-vcode-od.vivoglobal.com
+- +.sca-vcode-or.vivoglobal.com
 - +.scabbedcoaches.com
 - +.scadobe.vpay.co.kr
 - +.scakuvap.com
@@ -77621,6 +77824,7 @@ payload:
 - +.scaredstomach.com
 - +.scarefowl.com
 - +.scareshortnovel.com
+- +.scarfsaga.shop
 - +.scarfsmash.com
 - +.scaringbugfish.shop
 - +.scarlet-clicks.info
@@ -78574,7 +78778,6 @@ payload:
 - +.semtracker.de
 - +.semywtuvmzujq.space
 - +.senaitebezel.com
-- +.senbiaojita.com
 - +.send.hollandcasino.nl
 - +.send.merit.me
 - +.send.preply.com
@@ -78689,6 +78892,7 @@ payload:
 - +.sensorpluck.com
 - +.sensors-log.dongqiudi.com
 - +.sensors.cloud.tencent.com
+- +.sensors.h5.xed.plus
 - +.sensors.ibreader.com
 - +.sensors.snappea.com
 - +.sensors.snaptube.app
@@ -78980,6 +79184,7 @@ payload:
 - +.sf-test.groc.press
 - +.sf.groc.press
 - +.sf.vserv.mobi
+- +.sf1-ttcdn-tos.pstatp.com
 - +.sf14g.com
 - +.sf16-static.i18n-pglstatp.com
 - +.sf3-ttcdn-tos.pstatp.com
@@ -79039,6 +79244,7 @@ payload:
 - +.sfzeqzazjmowe.space
 - +.sfzhpuxozrvdf.site
 - +.sg-autorepondeur.com
+- +.sg-cfg-stsdk.vivoglobal.com
 - +.sg-go.experian.com
 - +.sg-log-emagzal.lazada.com
 - +.sg-public-data-api.hoyoverse.com
@@ -79089,6 +79295,7 @@ payload:
 - +.sgsojdpfjsk2.xyz
 - +.sgstats.com
 - +.sgtbbgdkovkhz.site
+- +.sgtm.dhgate.com.cdngtm.com
 - +.sgtm.hisense.com
 - +.sgtm.tagmanageritalia.it
 - +.sgtm.tennis-point.de
@@ -79896,6 +80103,7 @@ payload:
 - +.sitetistik.com
 - +.sitetracker.com
 - +.sitewithg.com
+- +.sitharbor.com
 - +.sitsneezerefreshing.com
 - +.situateddivine.com
 - +.situationsparkler.com
@@ -84204,6 +84412,7 @@ payload:
 - +.soqitntsrxvio.website
 - +.soqljfwklbq.com
 - +.soqwtxjtvglkz.website
+- +.soravia.shop
 - +.sorbetbungler.com
 - +.sordidsicknessfaded.com
 - +.sore-hour.com
@@ -84506,6 +84715,7 @@ payload:
 - +.spice-sugar.net
 - +.spiceforthjobless.com
 - +.spiceoptimistic.com
+- +.spicesaga.shop
 - +.spicesonwheels.com
 - +.spicevikings.com
 - +.spicewaxworks.com
@@ -84621,6 +84831,7 @@ payload:
 - +.spoqcyx.digital
 - +.sportershatan.shop
 - +.sportingamazingconsequence.com
+- +.sportmora.shop
 - +.sportpardon.com
 - +.sportradarserving.com
 - +.sportsariseencyclopaedia.com
@@ -85981,6 +86192,7 @@ payload:
 - +.stat.rum.cdnvideo.ru
 - +.stat.russianfood.com
 - +.stat.rz.htw-berlin.de
+- +.stat.sd.360.cn
 - +.stat.segitek.hu
 - +.stat.simba.taobao.com
 - +.stat.smarteca.cz
@@ -86986,7 +87198,9 @@ payload:
 - +.statsadv.dadapro.com
 - +.statsapi.screen9.com
 - +.statsbox.nl
+- +.statscollector-1-asia.agora.io
 - +.statscollector-1-europe.agora.io
+- +.statscollector-1-north-america.agora.io
 - +.statscollector-1.agora.io
 - +.statscollector.sd-rtn.com
 - +.statse-omtrdc.deka.de
@@ -87057,6 +87271,7 @@ payload:
 - +.steadfastseat.com
 - +.steadfastsound.com
 - +.steadfastsystem.com
+- +.steady-red-t01otpocmp.edgeone.app
 - +.steakeffort.com
 - +.steakordeal.com
 - +.stealsteel.com
@@ -87209,6 +87424,7 @@ payload:
 - +.stoampaliy.net
 - +.stoashou.net
 - +.stobpennine.com
+- +.stockalio.shop
 - +.stockerator.com
 - +.stockingchancymagically.com
 - +.stockingsfiddlesophisticated.com
@@ -87380,6 +87596,7 @@ payload:
 - +.stream-all.com
 - +.stream-log.dditscdn.com
 - +.stream.corporatefinanceinstitute.com
+- +.stream.snssdk.com
 - +.streamaccidentally.com
 - +.streamannona.com
 - +.streamateaccess.com
@@ -87553,6 +87770,7 @@ payload:
 - +.styld-by.com
 - +.styleaffinity.com
 - +.stylecyberrose.com
+- +.stylehunter.shop
 - +.stylelockers.com
 - +.styles.hautelook.com
 - +.styletsbarling.com
@@ -88470,6 +88688,7 @@ payload:
 - +.sycosesunbase.com
 - +.sycszolrv.com
 - +.sycuvdfe.com
+- +.sydyqg.cn
 - +.syehsmzxfaspp.space
 - +.syeniteexodoi.com
 - +.syfdnjxeidmmx.site
@@ -88564,6 +88783,7 @@ payload:
 - +.syrupplod.com
 - +.syrupsatellite.com
 - +.sys.hager.com
+- +.sys.tv.india.xiaomi.com
 - +.sys.zhangyue.com
 - +.sysad.cn
 - +.syscgiaxyzeju.online
@@ -90117,6 +90337,7 @@ payload:
 - +.telegmcn.org
 - +.telegram-china.org
 - +.telegram-cn.org
+- +.telegram-qp.com.cn
 - +.telegram-qu.com.cn
 - +.telegram-vip.com
 - +.telegramcn.org
@@ -90160,6 +90381,7 @@ payload:
 - +.telemetry.navispherecarrier.com
 - +.telemetry.owenscorning.com
 - +.telemetry.phenixrts.com
+- +.telemetry.pod1.prod.avatar.ext.hp.com
 - +.telemetry.pod3.prod.avatar.ext.hp.com
 - +.telemetry.pod4.prod.avatar.ext.hp.com
 - +.telemetry.pod5.prod.avatar.ext.hp.com
@@ -91583,6 +91805,7 @@ payload:
 - +.toddhclbvxmxd.site
 - +.toddlecausebeeper.com
 - +.todesk-dl.com.cn
+- +.todesk-log-upload.todesk.com
 - +.todesk-qp.com.cn
 - +.todesk-zw.com.cn
 - +.todeskapps.cn
@@ -91646,6 +91869,7 @@ payload:
 - +.tonefuse.com
 - +.tonemedia.com
 - +.tongbaimi.cn
+- +.tongdun-fingerprint.walmartmobile.cn
 - +.tongdun.net
 - +.tongj.xilu.com
 - +.tongji-res.meizu.com
@@ -91692,7 +91916,6 @@ payload:
 - +.toolcapital.com
 - +.tooledundon.com
 - +.toolforthought.com
-- +.toolhon.club
 - +.toolmanwho.com
 - +.toolpreoccupy.com
 - +.tools.3g.qq.com
@@ -93583,6 +93806,8 @@ payload:
 - +.trackerapi.truste.com
 - +.trackercdnbj.kugou.com
 - +.trackercloud.net
+- +.trackercollect.ddxq.mobi
+- +.trackerfeed.ddxq.mobi
 - +.trackerflw.com
 - +.trackerrr.com
 - +.trackersimulator.org
@@ -94328,6 +94553,7 @@ payload:
 - +.trackwilltrk.com
 - +.trackword.biz
 - +.trackyourstats.com
+- +.trackza.shop
 - +.trackzd.com
 - +.tracot.com
 - +.traction.technologyadvice.com
@@ -94485,6 +94711,7 @@ payload:
 - +.transactionscookclotted.com
 - +.transcend.io
 - +.transcendcdn.eventbrite.com
+- +.transfer.sec.miui.com
 - +.transferfaciliate.com
 - +.transformationepisode.com
 - +.transformignorant.com
@@ -95205,6 +95432,7 @@ payload:
 - +.trusteddisguises.com
 - +.trustedgatetocontent.com
 - +.trustedoffers.pro
+- +.trustedoutletstore.shop
 - +.trustedzone.info
 - +.trusteverything.de
 - +.trustgrape.com
@@ -95834,6 +96062,7 @@ payload:
 - +.txzaazmdhtw.com
 - +.txzbejxkynpvk.online
 - +.txzylleycallj.site
+- +.ty.cn
 - +.tyaxztldkgmmv.website
 - +.tybffeppxwzmm.website
 - +.tybfxw.puma.com
@@ -95986,6 +96215,7 @@ payload:
 - +.u16d4beu5.com
 - +.u1aczgx9so.com
 - +.u1sdata.webullfintech.com
+- +.u20c.top
 - +.u22011.com
 - +.u22066.com
 - +.u22088.com
@@ -96589,6 +96819,7 @@ payload:
 - +.uk-business.vodafone.com
 - +.uk-marketing.roxtec.com
 - +.uk-mktg.vodafone.com
+- +.uk-timesync.vivoglobal.com
 - +.uk.contact.alphabet.com
 - +.uk.partner.equifax.co.uk
 - +.uk.sharpmarketing.eu
@@ -96609,6 +96840,7 @@ payload:
 - +.ukenthascaptureu.com
 - +.ukeovxygndoxt.site
 - +.ukew6uo7u1.com
+- +.ukfhqu.shop
 - +.ukfp.cn
 - +.ukfvaypajxloc.online
 - +.ukg6sq48dy4zd6gn.edge41.testandtarget.omniture.com
@@ -96681,6 +96913,7 @@ payload:
 - +.ulog.imap.baidu.com
 - +.ulog.ksapisrv.com
 - +.ulog.v6.gifshow.com
+- +.ulog.v6.ksapisrv.com
 - +.ulogjp.gifshow.com
 - +.ulogjs.gifshow.com
 - +.ulogjs.ksapisrv.com
@@ -97367,6 +97600,7 @@ payload:
 - +.update.purina.com
 - +.update.tcsg.edu
 - +.update.wps.cn
+- +.updatecenter.qq.com
 - +.updatepage.kuwo.cn
 - +.updaterack.com
 - +.updates.aem.org
@@ -97520,6 +97754,7 @@ payload:
 - +.urbanairship.com
 - +.urbanlaurel.com
 - +.urbannobody.pro
+- +.urbanro.shop
 - +.urbypypeoncw.com
 - +.urchin.5173.com
 - +.urchin.com
@@ -98532,6 +98767,7 @@ payload:
 - +.v1.wphonelife.com
 - +.v10-win.vortex.data.microsoft.com.akadns.net
 - +.v10.vortex-win.data.microsoft.com
+- +.v11-reading-ad.qznovelvod.com
 - +.v12group.com
 - +.v13-reading-ad.qznovelvod.com
 - +.v16.56.com
@@ -98545,6 +98781,7 @@ payload:
 - +.v2.uyan.cc
 - +.v20.vortex-win.data.microsoft.com
 - +.v2006.com
+- +.v26-reading-ad.qznovelvod.com
 - +.v2cigs.com
 - +.v2html.atm.youku.com
 - +.v3-ad.ixigua.com
@@ -98558,10 +98795,14 @@ payload:
 - +.v46uj91gh.com
 - +.v4dwkcv.com
 - +.v4ox630nia.com
+- +.v5-bd-daily-reading-ad.qznovelvod.com
+- +.v5-ex-reading-ad.qznovelvod.com
 - +.v5-reading-ad.qznovelvod.com
 - +.v5-se-bjtc-reading-ad.qznovelvod.com
 - +.v5-se-bjtc-reading-ad.qznovelvod.com.ctlcdn.cn
 - +.v5-se-ex-alismart-reading-ad.qznovelvod.com
+- +.v5-se-gddgtc-reading-ad.qznovelvod.com
+- +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 - +.v53groc9v.com
 - +.v5ad.com
 - +.v6-ad.ixigua.com
@@ -98569,6 +98810,7 @@ payload:
 - +.v6-adashx.ut.ele.me
 - +.v6-adashx.ut.taobao.com
 - +.v6-adashx.ut.youku.com
+- +.v6-daily-reading-ad.qznovelvod.com
 - +.v6-dc-ad.ixigua.com
 - +.v6-reading-ad.qznovelvod.com
 - +.v66v66.com
@@ -98580,6 +98822,8 @@ payload:
 - +.v8j1rkai1.com
 - +.v9-ad.ixigua.com
 - +.v9-dc-ad.ixigua.com
+- +.v9-reading-ad.qznovelvod.com
+- +.v96-reading-ad.qznovelvod.com
 - +.v96-sz-daily-reading-ad.qznovelvod.com
 - +.va-endpoint.com
 - +.va.gxpan.cn
@@ -98942,6 +99186,7 @@ payload:
 - +.vedqxliyxcqkl.space
 - +.veduy.com
 - +.vedznh.cumhuriyet.com.tr
+- +.veepai-device-log.eye4.cn
 - +.veesformols.shop
 - +.vefurpoevwfyo.site
 - +.vefvfzmmmndpc.website
@@ -99293,6 +99538,7 @@ payload:
 - +.viapush.com
 - +.viatechonline.com
 - +.viatrisneuropathicpain.co.uk
+- +.vibechoice.shop
 - +.vibnpoar.com
 - +.vibrantcelebration.com
 - +.vibrantgale.com
@@ -99623,7 +99869,6 @@ payload:
 - +.visit.lifeblood.com.au
 - +.visit.monroecollege.edu
 - +.visit.oakstreethealth.com
-- +.visit.oschina.net
 - +.visit.sendheirloom.com
 - +.visit.tenplay.com.au
 - +.visiteddrunkardcontaining.com
@@ -99729,7 +99974,6 @@ payload:
 - +.vjlckfkbcuswo.site
 - +.vjlocpypzmhzr.website
 - +.vjmwnvteuhwhe.website
-- +.vjp-sogou.com.cn
 - +.vjpagbjwoznds.site
 - +.vjpdxx.icu
 - +.vjpraiveafxow.space
@@ -100918,11 +101162,6 @@ payload:
 - +.wangmeng.baidu.cn
 - +.wangmeng.baidu.com
 - +.wangmeng.sogou.com
-- +.wangwangshangliao-gx.com.cn
-- +.wangwangshangliao-nw.com.cn
-- +.wangwangshangliao-tp.com.cn
-- +.wangwangshangliao-zb.com.cn
-- +.wangwangshangliao-zw.com.cn
 - +.wangxiankang.top
 - +.wangyouxs.cn
 - +.wangzhan5.com
@@ -100930,7 +101169,6 @@ payload:
 - +.wanlyavower.com
 - +.wanmuqxfueokx.online
 - +.wanoaxeert.net
-- +.wanproxy.127.net
 - +.want-s0me-push.net
 - +.want-some-psh.com
 - +.want-some-psh.net
@@ -101276,7 +101514,6 @@ payload:
 - +.wct-2.com
 - +.wct.click
 - +.wct.link
-- +.wct.softonic.cn
 - +.wctgatauxfggq.space
 - +.wctltrtvdvrme.online
 - +.wctomfpolmxxr.online
@@ -101323,7 +101560,6 @@ payload:
 - +.wdoyouknowsai.org
 - +.wdozzmihxphvo.site
 - +.wdp5rczwlp.com
-- +.wdpkx.cn
 - +.wdppwawnhehxn.space
 - +.wdpzoraolczbk.online
 - +.wdqnbjyfmcblu.website
@@ -101617,12 +101853,9 @@ payload:
 - +.webcampromo.com
 - +.webcampromotions.com
 - +.webcasts.de.ni.com
-- +.webcert.cnmstl.net
 - +.webclickengine.com
 - +.webclickmanager.com
 - +.webclicktracker.com
-- +.webcollector-rtm.agora.io
-- +.webcollects.kugou.com
 - +.webcompteur.com
 - +.webcontentassessor.com
 - +.webcounter.co.za
@@ -103887,6 +104120,7 @@ payload:
 - +.www.aaawz.cc
 - +.www.claiks.com
 - +.www.destinationurl.com
+- +.www.dsp.com
 - +.www.easyrecoverychina.com
 - +.www.jmine.cn
 - +.www.laomaotao.net
@@ -103895,7 +104129,6 @@ payload:
 - +.www.ttyyuuoo.com
 - +.www.umiwi.com
 - +.www.v61.com
-- +.www.wesiedu.com
 - +.www.wowostar.cn
 - +.www.xpdyqax.cn
 - +.www.zhikey.com
@@ -105653,6 +105886,7 @@ payload:
 - +.xueobaedyoudcfe.com
 - +.xueohxfouttmn.website
 - +.xueuqxlxsliup.online
+- +.xuexi.hydcd.com
 - +.xuexingkeji.cn
 - +.xueygybqwiaode.com
 - +.xuezha.net
@@ -106036,6 +106270,7 @@ payload:
 - +.y1ma8c054n.com
 - +.y1n1n3e0v.com
 - +.y1zoxngxp.com
+- +.y27o.top
 - +.y2ehvxgs.xyz
 - +.y2vorexg2u.com
 - +.y3.ifengimg.com
@@ -107079,6 +107314,7 @@ payload:
 - +.yo.inbots.online
 - +.yoads.net
 - +.yoast-schema-graph.com
+- +.yobosafe.com.cn
 - +.yobpfohcoelem.online
 - +.yobrfvmtaqrxe.website
 - +.yobxluanlfwvu.space
@@ -107155,6 +107391,7 @@ payload:
 - +.youborafds01.com
 - +.youboranqs01.com
 - +.youcandrawanything.com
+- +.youdaoyn.com.cn
 - +.youday.cn
 - +.youexpectation.org
 - +.yougetwhatyoupayfor.net
@@ -107873,7 +108110,6 @@ payload:
 - +.yyxpearkrincp.site
 - +.yyxwdvaqngiqn.online
 - +.yyydaklwthkhd.website
-- +.yyzb456.top
 - +.yzadvgbzcgngn.online
 - +.yzalkjegfvyva.space
 - +.yzaosite.com
@@ -107978,6 +108214,7 @@ payload:
 - +.z9o0rgee8.com
 - +.z9sab7vr0b.com
 - +.za-go.experian.com
+- +.za-p.vivoglobal.com
 - +.za.qeeq.com
 - +.za.zalo.me
 - +.za.zdn.vn
@@ -108074,8 +108311,18 @@ payload:
 - +.zarosnap.com
 - +.zarpop.com
 - +.zasc-cota.vivoglobal.com
+- +.zasc-domaincfg.vivoglobal.com
+- +.zasc-err-up.vivoglobal.com
+- +.zasc-onrt-stsdk.vivoglobal.com
+- +.zasc-ort-stsdk.vivoglobal.com
+- +.zasc-pnrt-stsdk.vivoglobal.com
+- +.zasc-romsp-unifyconfig.vivoglobal.com
+- +.zasc-st-sl.vivoglobal.com
+- +.zasc-stsdk.vivoglobal.com
+- +.zasc-timesync.vivoglobal.com
 - +.zasc-vcode-api.vivoglobal.com
 - +.zasc-vcode-od.vivoglobal.com
+- +.zasc-vcode-or.vivoglobal.com
 - +.zasestoshe.com
 - +.zasvxdxadipze.website
 - +.zathrilgiw.com
@@ -108218,6 +108465,7 @@ payload:
 - +.zdg2g7v5xe.com
 - +.zdgdjpisphxmn.site
 - +.zdgkarrubynec.online
+- +.zdgx.net
 - +.zdh10230lo.com
 - +.zdh10231lo.com
 - +.zdh10240lo.com
@@ -108452,6 +108700,7 @@ payload:
 - +.zgfubuaenxdzl.site
 - +.zgfyftltnhkgs.website
 - +.zggfoihyhdtxp.space
+- +.zggxkj.com.cn
 - +.zghs.net.cn
 - +.zgidrglauryqr.space
 - +.zgijmnnrexeej.online
@@ -108491,6 +108740,7 @@ payload:
 - +.zgzxm.weathercn.com
 - +.zgzxs.weathercn.com
 - +.zh-cn-google.hl.cn
+- +.zh-hk-whatapp.hl.cn
 - +.zh-tw.siemensplmevents.com
 - +.zh.jktopia.com
 - +.zh4qnnf63.com
@@ -108743,6 +108993,7 @@ payload:
 - +.zjxmrrgeqndlx.space
 - +.zjxpqkmybhkze.site
 - +.zjykffozbbw.com
+- +.zjypy.xyz
 - +.zjzain.aboutyou.bg
 - +.zjzmqczmvdfbz.site
 - +.zjzste.tom-tailor.de
@@ -109651,5 +109902,6 @@ payload:
 - +.zzxvxomlkpvcl.website
 - +.zzyanhushi.com
 - +.zzyxhvqjjtgxj.online
+- +.zzz-log-upload.mihoyo.com
 - +.zzzmjfixezere.site
 - +.zzztquhwysxyu.website
