@@ -5737,6 +5737,7 @@ payload:
 - +.ad.qyer.com
 - +.ad.rednet.cn
 - +.ad.rejichoice.jp
+- +.ad.report.jihuoniao.com
 - +.ad.richmob.cn
 - +.ad.seeyouyima.com
 - +.ad.shinjuku-mens-chuoh.com
@@ -6845,6 +6846,7 @@ payload:
 - +.ads-jp.tiktok.com
 - +.ads-marketing-vivofs.vivo.com.cn
 - +.ads-media.wildberries.ru
+- +.ads-monitoring.shziyi.com
 - +.ads-partners.coupang.com
 - +.ads-pixiv.net
 - +.ads-sdk-api.ranfenghd.com
@@ -18778,6 +18780,7 @@ payload:
 - +.cname-asia-st-exappupgrade.vivoglobal.com
 - +.cname-in-apport-stsdk.vivoglobal.com
 - +.cname-in-bom01-nginxpool03.vivoglobal.com
+- +.cname-in-ctdbonrt-stsdk.vivoglobal.com
 - +.cname-sin01-stsdk09.vivoglobal.com
 - +.cname.crank-in.net
 - +.cname.ebis.folio-sec.com
@@ -51561,6 +51564,7 @@ payload:
 - +.margaritawanderingelusive.com
 - +.margive.com
 - +.mari4norm.com
+- +.mariahcarey.cn
 - +.marianneperiod.com
 - +.marimedia.com
 - +.marinadelifestyle.com
@@ -59846,6 +59850,7 @@ payload:
 - +.o24o.ru
 - +.o28wg9kq8i.com
 - +.o2c7dks4.de
+- +.o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 - +.o2o.api.xiaomi.com
 - +.o2omobi.com
 - +.o2x4h2txrc.com
@@ -79780,6 +79785,7 @@ payload:
 - +.stat.zdnet.com.cn
 - +.stat.zol.com.cn
 - +.stat.zuimeitianqi.com
+- +.stat2.pixpin.cn
 - +.stat24.com
 - +.stat24.ru
 - +.stat6.y.qq.com
@@ -91461,7 +91467,6 @@ payload:
 - +.v9-dc-ad.ixigua.com
 - +.v9-reading-ad.qznovelvod.com
 - +.v95-se-zjwztc-reading-ad.qznovelvod.com
-- +.v96-reading-ad.qznovelvod.com
 - +.v96-sz-daily-reading-ad.qznovelvod.com
 - +.va-endpoint.com
 - +.va.gxpan.cn
