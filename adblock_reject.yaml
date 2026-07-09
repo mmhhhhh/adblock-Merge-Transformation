@@ -5129,7 +5129,6 @@ payload:
 - +.abtao.wang
 - +.abtaurosa.club
 - +.abtest-api-data-sg.hoyoverse.com
-- +.abtest-api-data.mihoyo.com
 - +.abtest-ch.snssdk.com
 - +.abtest.alibaba.com
 - +.abtest.mistat.xiaomi.com
@@ -6868,6 +6867,7 @@ payload:
 - +.ads-blocker.pro
 - +.ads-collector.luizalabs.com
 - +.ads-drcn.platform.hihonorcloud.com
+- +.ads-dre.platform.hihonorcloud.com
 - +.ads-drru.platform.hihonorcloud.com
 - +.ads-gate.wildberries.ru
 - +.ads-gdl.imovideo.ru
@@ -6908,6 +6908,7 @@ payload:
 - +.ads-video-al.xhscdn.com
 - +.ads-video-al.xhscdn.com.w.cdngslb.com
 - +.ads-video-qc.xhscdn.com
+- +.ads-vp5.xhscdn.com
 - +.ads-yallo-production.imgix.net
 - +.ads.95516.com
 - +.ads.activepower.net
@@ -7078,6 +7079,7 @@ payload:
 - +.adsatt.espn.go.com
 - +.adsave.co
 - +.adsbar.online
+- +.adsbdfs.heytapimage.com
 - +.adsbetnet.com
 - +.adsblockersentinel.info
 - +.adsbookie.com
@@ -8620,6 +8622,7 @@ payload:
 - +.aliningsows.shop
 - +.alinks.outcomes4me.com
 - +.alinxc.com
+- +.alipansou.com
 - +.alipay.dajiadou6.com
 - +.alipaylog.com
 - +.alipromo.com
@@ -10046,6 +10049,7 @@ payload:
 - +.api-access.pangolin-sdk-toutiao3.com
 - +.api-access.pangolin-sdk-toutiao4.com
 - +.api-access.pangolin-sdk-toutiao5.com
+- +.api-ad-adapter-mb.wps.com
 - +.api-ad-adapter-sg.wps.com
 - +.api-ad-adapter.wps.com
 - +.api-ad-callback.falconnet.app
@@ -31306,7 +31310,6 @@ payload:
 - +.f8c00ef6a5.com
 - +.f8c2gftcsj.com
 - +.f8d24e6505.com
-- +.f8ds5tkidk-sdk.rum.aliyuncs.com
 - +.f8phvntohv.tpetry.me
 - +.f921e4caa3.com
 - +.f928.pandasuite.io
@@ -44136,7 +44139,6 @@ payload:
 - +.jinraoiahbrhg.online
 - +.jinshagt222.com
 - +.jinshui2018.chalook.net
-- +.jintengli.mobi
 - +.jinx.skullctf.com
 - +.jinzhao99.com
 - +.jipinapi.panqis.cn
@@ -44165,6 +44167,7 @@ payload:
 - +.jiuiejdroikop.site
 - +.jiujiushishi.com
 - +.jiuwert.online
+- +.jiuyuntian3.cn
 - +.jivox.com
 - +.jiwire.com
 - +.jixdwtlveqhrl.online
@@ -54358,6 +54361,7 @@ payload:
 - +.metric.nomura.co.jp
 - +.metric.northeast.aaa.com
 - +.metric.nrma.com.au
+- +.metric.nuonuo.com
 - +.metric.octanner.com
 - +.metric.olivegarden.com
 - +.metric.optum.com
@@ -87292,7 +87296,6 @@ payload:
 - +.tracker.bt.uol.com.br
 - +.tracker.cauly.co.kr
 - +.tracker.cdnbye.com
-- +.tracker.chat.bilibili.com
 - +.tracker.citicsinfo.com
 - +.tracker.curama.jp
 - +.tracker.dcdn.baidu.com
@@ -91937,7 +91940,6 @@ payload:
 - +.v9-ad.ixigua.com
 - +.v9-dc-ad.ixigua.com
 - +.v9-reading-ad.qznovelvod.com
-- +.v95-aw-reading-ad.qznovelvod.com
 - +.v95-se-zjwztc-reading-ad.qznovelvod.com
 - +.v95-zjjx2tc-reading-ad.qznovelvod.com
 - +.v96-sz-daily-reading-ad.qznovelvod.com
@@ -93913,6 +93915,8 @@ payload:
 - +.wangmeng.baidu.cn
 - +.wangmeng.baidu.com
 - +.wangmeng.sogou.com
+- +.wangsu-smetrics.redhat.com.edgekey.net
+- +.wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 - +.wangxiankang.top
 - +.wangyouxs.cn
 - +.wangzhan5.com
@@ -94222,6 +94226,7 @@ payload:
 - +.wdpkx.cn
 - +.wdppwawnhehxn.space
 - +.wdqhdqtlxu.com
+- +.wdr160gz.dayugslb.com
 - +.wdrinqlklnvcb.space
 - +.wdrn97z1o.com
 - +.wds.weqs.me
@@ -94746,6 +94751,7 @@ payload:
 - +.weiguizhizuo.com
 - +.weike88.com
 - +.weilang.site
+- +.weilayun.com
 - +.weiledi.com
 - +.weiledsteverm.org
 - +.weirdergapes.shop
