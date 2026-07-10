@@ -727,7 +727,6 @@ payload:
 - +.1s8hpetv3.com
 - +.1s8pj.cn
 - +.1s8zfj6p4.com
-- +.1sapp.com
 - +.1sqfobn52.de
 - +.1stparty.equifax.co.uk
 - +.1tds26q95.de
@@ -5755,7 +5754,7 @@ payload:
 - +.ad.norfolkbroads.com
 - +.ad.nvdvr.cn
 - +.ad.obuy.tw
-- +.ad.oceanengine.com
+- +.ad.open.api.jihuoniao.com
 - +.ad.ordersuit.info
 - +.ad.ourgame.com
 - +.ad.ozone.ru
@@ -6873,12 +6872,13 @@ payload:
 - +.ads-gdl.imovideo.ru
 - +.ads-go.adroi.com.cn
 - +.ads-i1.xhscdn.com
+- +.ads-i1.xhscdn.com.cdn.dnsv1.com
 - +.ads-i10.xhscdn.com
 - +.ads-i2.xhscdn.com
+- +.ads-i2.xhscdn.com.w.cdngslb.com
 - +.ads-i3.xhscdn.com
 - +.ads-i3.xhscdn.com.a.bdydns.com
 - +.ads-i4.xhscdn.com
-- +.ads-i8.xhscdn.com
 - +.ads-img-al.xhscdn.com
 - +.ads-img-al.xhscdn.com.w.cdngslb.com
 - +.ads-img-bak.xhscdn.com
@@ -6925,7 +6925,6 @@ payload:
 - +.ads.cdn.rovio.com
 - +.ads.ce.cn
 - +.ads.china.com
-- +.ads.chinaums.com
 - +.ads.csdn.net
 - +.ads.cup.com.cn
 - +.ads.cyberctm.com
@@ -6940,7 +6939,6 @@ payload:
 - +.ads.feelingtouch.com
 - +.ads.fetnet.net
 - +.ads.funmora.com
-- +.ads.games.laohu.com
 - +.ads.gionee.com
 - +.ads.globo.com
 - +.ads.gmodules.com
@@ -10155,7 +10153,6 @@ payload:
 - +.api.dreamfull.cn
 - +.api.dsp.yhd.com
 - +.api.e-cg.cn
-- +.api.e-toys.cn
 - +.api.edgeoffer.microsoft.com
 - +.api.elliehuxtable.com
 - +.api.fastmoonclimbed.com
@@ -12665,6 +12662,7 @@ payload:
 - +.axwyfulzdxrdi.space
 - +.axxodcdufa.in
 - +.axxqqibnjdunk.space
+- +.axyleu11gz-default-cn.rum.aliyuncs.com
 - +.ay.delivery
 - +.ay.eastmoney.com
 - +.ay267.com
@@ -13455,8 +13453,10 @@ payload:
 - +.bd-china-1.appmobile.cn
 - +.bd-gl.com
 - +.bd-js.baixing.net
+- +.bd-js1.2345.com
 - +.bd-p2p-v2.pull.yximgs.com
 - +.bd-p2p.pull.yximgs.com
+- +.bd-retrieval1.2345.com
 - +.bd-s.baixing.net
 - +.bd.ahsrst.cn
 - +.bd.beimap.com
@@ -13516,6 +13516,7 @@ payload:
 - +.bdcdncmn-gd.inter.71edge.com
 - +.bdcdncnc.inter.71edge.com
 - +.bdcm.kandianla.com
+- +.bdcode.2345.com
 - +.bdcode.35d1.com
 - +.bdcode.qinglm.com
 - +.bdcode.qinglue.com
@@ -17918,7 +17919,6 @@ payload:
 - +.chnsrv.com
 - +.chocolateluciusfight.com
 - +.choconart.com
-- +.choice-pl.shop
 - +.choice.microsoft.com.nsatc.net
 - +.choices.truste.com
 - +.cholo215.cn
@@ -28619,7 +28619,6 @@ payload:
 - +.efgh.5lu.com
 - +.efglbp.baur.de
 - +.efh2rahxxq.com
-- +.efhjfjdhdksdhlfsfsvjvj-dprhmd8pvnvd.edgeone.dev
 - +.efilli.com
 - +.efkycmuil.com
 - +.efm.verintsystemsinc.com
@@ -32114,7 +32113,6 @@ payload:
 - +.fight-pl.shop
 - +.fight.offtherecord.com
 - +.fighterspors.shop
-- +.fightersports.shop
 - +.fighterzz.shop
 - +.fightingdesert.com
 - +.fightingleatherconspicuous.com
@@ -32725,7 +32723,6 @@ payload:
 - +.foaltax.com
 - +.foambench.com
 - +.foapsovi.net
-- +.focus-pl.shop
 - +.focusameneducation.com
 - +.focuscat.com
 - +.focusedquit.pro
@@ -32736,14 +32733,10 @@ payload:
 - +.focusgardenev.shop
 - +.focusgardenhome.shop
 - +.focusgardenme.shop
-- +.focusgardenmeble.shop
-- +.focusgardenmoda.shop
 - +.focusgardens-pl.shop
 - +.focusgardense.shop
 - +.focusgardense.top
-- +.focusgardm.shop
 - +.focusgardom.shop
-- +.focussklep.shop
 - +.fodder.qq.com
 - +.fodgfip.fr
 - +.fodh.cn
@@ -34905,6 +34898,7 @@ payload:
 - +.ggbetapk.com
 - +.ggbzqyoxkbunx.online
 - +.ggc.cmvideo.cn
+- +.ggcode.2345.com
 - +.ggdata1.cnr.cn
 - +.ggdm1.nhaidu.net
 - +.ggduev.cobone.com
@@ -36094,7 +36088,6 @@ payload:
 - +.goforandroid.com
 - +.gog9.qzdfc.com
 - +.gogaej.momastore.jp
-- +.gogardens.shop
 - +.gogoga.xyz
 - +.gohgn02111la.com
 - +.gohgn02161la.com
@@ -37068,7 +37061,6 @@ payload:
 - +.gym-glamoursklep.club
 - +.gym-glamourspl.club
 - +.gymnastbobooti.shop
-- +.gymyoga.club
 - +.gymyogapl.shop
 - +.gynietrooe.com
 - +.gyoqnunyfy.com
@@ -41034,6 +41026,7 @@ payload:
 - +.imgoss820.top
 - +.imgp.cymzc.com
 - +.imgs.wangketuan.com
+- +.imgsize.ph.126.net
 - +.imgsniper.com
 - +.imgsreview.dftoutiao.com
 - +.imgstat.baidu.com
@@ -48812,6 +48805,7 @@ payload:
 - +.livestats.kaltura.com
 - +.livestats.matrix.it
 - +.livetech.shopee.co.id.txlivecdn.com
+- +.livetech.shopee.co.th.txlivecdn.com
 - +.livetech.shopee.com.br.tlivecdn.com
 - +.livetech.shopee.com.br.txlivecdn.com
 - +.livetech.shopee.vn.txlivecdn.com
@@ -49155,7 +49149,6 @@ payload:
 - +.lobspqdzvfvrp.space
 - +.loc.kr
 - +.local-shares.ri.la
-- +.localads.chengzijianzhan.cn
 - +.localaffectrecipe.com
 - +.localedgemedia.com
 - +.localglobaldates.com
@@ -51388,6 +51381,7 @@ payload:
 - +.m.yjias.com
 - +.m.yl64a.cn
 - +.m.ynnke.com
+- +.m.yocvn.com
 - +.m.yoiur.com
 - +.m.youhuomeishi.com
 - +.m.youxiaoliu.cn
@@ -54361,7 +54355,6 @@ payload:
 - +.metric.nomura.co.jp
 - +.metric.northeast.aaa.com
 - +.metric.nrma.com.au
-- +.metric.nuonuo.com
 - +.metric.octanner.com
 - +.metric.olivegarden.com
 - +.metric.optum.com
@@ -58649,7 +58642,6 @@ payload:
 - +.newpartnerlover.com
 - +.newperspective.americanexpress.com
 - +.newrelic.com
-- +.newrock-sklep.club
 - +.newrotatormarch23.bid
 - +.newrrb.bid
 - +.news-bfujufa.cc
@@ -61844,7 +61836,6 @@ payload:
 - +.orionkeraily.fi
 - +.oritooep.win
 - +.orjfun.com
-- +.orlen-pl.com
 - +.orlglnaldates.net
 - +.orlmarketing.nfp.com
 - +.orlobozvlrryl.space
@@ -62603,6 +62594,7 @@ payload:
 - +.p5mcwdbu.ginzo-buy.jp
 - +.p5si0mu8u7.com
 - +.p6-ad-sign.byteimg.com
+- +.p66-ad.adkwai.com.3dce113f.cdnhwchcg02.com
 - +.p66-ad.adkwai.com.v1.kwaiselfcdn.com
 - +.p66jed4iv.com
 - +.p6n0g0ia.xyz
@@ -63006,7 +62998,6 @@ payload:
 - +.partnerapp.kravein.com.au
 - +.partnerapp.urbanclap.com
 - +.partnerbcgame.com
-- +.partnerboost.com
 - +.partnercash.com
 - +.partnercash.de
 - +.partnerdev.extasy.com
@@ -70527,7 +70518,6 @@ payload:
 - +.ru-onrt-stsdk.vivoglobal.com
 - +.ru-os-config-appstore.vivoglobal.com
 - +.ru-p.vivoglobal.com
-- +.ru-pnrt-stsdk.vivoglobal.com
 - +.ru-romsp-unifyconfig.vivoglobal.com
 - +.ru-ru.siemensplmevents.com
 - +.ru-st-exappupgrade.vivoglobal.com
@@ -71319,7 +71309,6 @@ payload:
 - +.sab5a4zz5.com
 - +.sabavision.com
 - +.sabbathwumman.shop
-- +.sabbiremart.com
 - +.sabdljzmuakkt.space
 - +.sabergood.com
 - +.sablayan.seasonshotelmindoro.com
@@ -74116,7 +74105,6 @@ payload:
 - +.simg.sh.bwin.de
 - +.simg.yemeksepeti.com
 - +.simhtgguozodp.online
-- +.simicloud.com
 - +.similarity98.com
 - +.similarlyabdomenwrestle.com
 - +.similartoweldeep.com
@@ -78868,7 +78856,6 @@ payload:
 - +.sportsvot.com
 - +.sportuay.com
 - +.sportyforum.com
-- +.sportzz.shop
 - +.spot.spsfactory.com
 - +.spotforlee.com
 - +.spotlersearchanalytics.com
@@ -80284,7 +80271,6 @@ payload:
 - +.static.gaomaer.cn
 - +.static.houyi.baofeng.net
 - +.static.ichehome.com
-- +.static.ilclock.com
 - +.static.img.imagecdn.cn
 - +.static.javhd.com
 - +.static.javxxx.me
@@ -81425,7 +81411,6 @@ payload:
 - +.storageimagedisplay.com
 - +.storagerecurrent.com
 - +.storagetechnology.arrow.com
-- +.store-pl.shop
 - +.store.echovisuals.com
 - +.store.esquirrel.at
 - +.store.iqiyi.com
@@ -91914,9 +91899,9 @@ payload:
 - +.v46uj91gh.com
 - +.v4dwkcv.com
 - +.v4ox630nia.com
+- +.v5-bd-daily-reading-ad.qznovelvod.com
 - +.v5-ex-reading-ad.qznovelvod.com
 - +.v5-reading-ad.qznovelvod.com
-- +.v5-se-gddgtc-reading-ad.qznovelvod.com
 - +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 - +.v53groc9v.com
 - +.v5ad.com
@@ -91942,6 +91927,7 @@ payload:
 - +.v9-reading-ad.qznovelvod.com
 - +.v95-se-zjwztc-reading-ad.qznovelvod.com
 - +.v95-zjjx2tc-reading-ad.qznovelvod.com
+- +.v96-reading-ad.qznovelvod.com
 - +.v96-sz-daily-reading-ad.qznovelvod.com
 - +.va-endpoint.com
 - +.va.gxpan.cn
@@ -96264,6 +96250,7 @@ payload:
 - +.www.q4ee.top
 - +.www.redmx.cn
 - +.www.silurian.cn
+- +.www.tecunonline.com
 - +.www.tiexing.com
 - +.www.ttyyuuoo.com
 - +.www.umiwi.com
