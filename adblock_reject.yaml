@@ -5204,6 +5204,7 @@ payload:
 - +.abtao.wang
 - +.abtaurosa.club
 - +.abtest-api-data-sg.hoyoverse.com
+- +.abtest-api-data.mihoyo.com
 - +.abtest-ch.snssdk.com
 - +.abtest.alibaba.com
 - +.abtest.mistat.xiaomi.com
@@ -6989,6 +6990,7 @@ payload:
 - +.ads-uo.api.leiniao.com
 - +.ads-ut.api.leiniao.com
 - +.ads-video-al.xhscdn.com
+- +.ads-video-al.xhscdn.com.w.cdngslb.com
 - +.ads-video-qc.xhscdn.com
 - +.ads-vp5.xhscdn.com
 - +.ads-yallo-production.imgix.net
@@ -9753,6 +9755,7 @@ payload:
 - +.analytics.wondershare.cc
 - +.analytics.woozooo.com
 - +.analytics.ws.126.net
+- +.analytics.xdiarys.com
 - +.analytics.xgimi.com
 - +.analytics.xiloc.net
 - +.analytics.xoomenergy.com
@@ -19177,6 +19180,7 @@ payload:
 - +.cname-asia-st-exappupgrade.vivoglobal.com
 - +.cname-in-apport-stsdk.vivoglobal.com
 - +.cname-in-bom01-nginxpool03.vivoglobal.com
+- +.cname-in-ctdbonrt-stsdk.vivoglobal.com
 - +.cname-sin01-stsdk09.vivoglobal.com
 - +.cname.crank-in.net
 - +.cname.ebis.folio-sec.com
@@ -20897,6 +20901,7 @@ payload:
 - +.cpmktg.com
 - +.cpmleader.com
 - +.cpmmedia.net
+- +.cpmoz.com
 - +.cpmprofitablenetwork.com
 - +.cpmrevenuegate.com
 - +.cpmroi.com
@@ -25084,7 +25089,6 @@ payload:
 - +.dgmolb.irishjobs.ie
 - +.dgnqrl.icu
 - +.dgnrkluiozosx.online
-- +.dgrj.com.cn
 - +.dgrpeldt54.com
 - +.dgsgecwesbkh.com
 - +.dgstatic.jd.com
@@ -26450,6 +26454,7 @@ payload:
 - +.dorgnh.icu
 - +.dorsulachiplet.com
 - +.dortmark.net
+- +.dorvanek-pl.com
 - +.dosagepettytrust.com
 - +.dosoequalutjd.online
 - +.dossechites.shop
@@ -30876,6 +30881,7 @@ payload:
 - +.etzfcwsafuw.com
 - +.etznkn.ec-store.net
 - +.eu-1-id5-sync.com
+- +.eu-cota.vivoglobal.com
 - +.eu-datareceiver.aki-game.net
 - +.eu-domaincfg.vivoglobal.com
 - +.eu-errup.vivoglobal.com
@@ -39082,6 +39088,7 @@ payload:
 - +.hk2sch130022135.wns.windows.com
 - +.hk2wns1.wns.windows.com
 - +.hk2wns1b.wns.windows.com
+- +.hk50606.cn
 - +.hkaixrkwqwubw.website
 - +.hkcdwvzfosepe.online
 - +.hkcqpidtxaqkl.online
@@ -50416,7 +50423,6 @@ payload:
 - +.logsdk.kwai-pro.com
 - +.logsdk.qq.com
 - +.logserver.nzxcloud.cn
-- +.logservice-asia.agora.io
 - +.logservice-dra.platform.dbankcloud.cn
 - +.logservice-dra.platform.dbankcloud.com
 - +.logservice-dra.platform.hicloud.com
@@ -68414,6 +68420,7 @@ payload:
 - +.qivblppvkfdxy.online
 - +.qivkynembpare.site
 - +.qivsvu.creedboutique.com
+- +.qivzorun-pl.com
 - +.qivzzjzsutlwk.site
 - +.qiwo.cc
 - +.qiwxrzkzauasd.online
@@ -81777,6 +81784,7 @@ payload:
 - +.statisfy.net
 - +.statistic-overseas.yunxinfw.com
 - +.statistic.audima.co
+- +.statistic.cj.sina.cn
 - +.statistic.date
 - +.statistic.jac-systeme.de
 - +.statistic.live.126.net
@@ -82636,6 +82644,7 @@ payload:
 - +.statscollector-1-asia.agora.io
 - +.statscollector-1-europe.agora.io
 - +.statscollector-1-north-america.agora.io
+- +.statscollector-1-south-america.agora.io
 - +.statscollector-1.agora.io
 - +.statscollector.sd-rtn.com
 - +.statse-omtrdc.deka.de
@@ -90406,6 +90415,7 @@ payload:
 - +.troubleduseful.com
 - +.troublesabominable.com
 - +.troubleshade.com
+- +.troubleshoot-ad-account-issues.edgeone.dev
 - +.troublesomemanifest.com
 - +.troublesomepursuing.com
 - +.troughyomen.shop
@@ -93533,6 +93543,7 @@ payload:
 - +.v9-reading-ad.qznovelvod.com
 - +.v95-aw-reading-ad.qznovelvod.com
 - +.v95-se-zjwztc-reading-ad.qznovelvod.com
+- +.v95-ynkmtc-reading-ad.qznovelvod.com
 - +.v95-zjjx2tc-reading-ad.qznovelvod.com
 - +.v96-reading-ad.qznovelvod.com
 - +.v96-sz-daily-reading-ad.qznovelvod.com
