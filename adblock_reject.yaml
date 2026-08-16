@@ -5873,6 +5873,7 @@ payload:
 - +.ad.norfolkbroads.com
 - +.ad.nvdvr.cn
 - +.ad.obuy.tw
+- +.ad.open.api.jihuoniao.com
 - +.ad.ordersuit.info
 - +.ad.ourgame.com
 - +.ad.ozone.ru
@@ -9807,6 +9808,7 @@ payload:
 - +.analytics.wondershare.cc
 - +.analytics.woozooo.com
 - +.analytics.ws.126.net
+- +.analytics.xdiarys.com
 - +.analytics.xgimi.com
 - +.analytics.xiloc.net
 - +.analytics.xoomenergy.com
@@ -10240,6 +10242,7 @@ payload:
 - +.api-analytics-us.zepp.com
 - +.api-analytics-us3.zepp.com
 - +.api-analytics.huami.com
+- +.api-analytics.zepp.com
 - +.api-cn.cdo.heytapmobi.com
 - +.api-data-collection.insta360.cn
 - +.api-deal.kechenggezi.com
@@ -10453,10 +10456,12 @@ payload:
 - +.aplpmvfnyoxji.space
 - +.aplus.alibaba.com
 - +.aplytazqgfoup.online
+- +.apm-api.mihoyo.com
 - +.apm-engine.meteor.com
 - +.apm-fe.rnote.com
 - +.apm-fe.xiaohongshu.com
 - +.apm-log-upload-os.hoyoverse.com
+- +.apm-log-upload-v6.mihoyo.com
 - +.apm-log-upload.mihoyo.com
 - +.apm-native.redbascket.com
 - +.apm-native.xiaohongshu.com
@@ -43447,6 +43452,8 @@ payload:
 - +.intel-trk.informa.com
 - +.intel-trk.lloydslistintelligence.com
 - +.intel.web.noleggiare.it
+- +.intellectual-property-center.edgeone.dev
+- +.intellectual-property-troubleshooting-center.edgeone.dev
 - +.intellectualcarlaintended.com
 - +.intellectualhide.com
 - +.intelli-direct.com
@@ -48218,7 +48225,6 @@ payload:
 - +.lczmrhvmdqbyp.website
 - +.lczoidhsuvuyu.site
 - +.lcztnn.asics-trading.co.jp
-- +.ld-analytics.ldycdn.com
 - +.ld.mediaget.com
 - +.ld.za9mnx.com
 - +.ldbwxo.cn
@@ -54639,6 +54645,7 @@ payload:
 - +.mato.clanto.cloud
 - +.matomo.clanto.cloud
 - +.matomo.cloud
+- +.matomo.datasanalytics.com
 - +.matomo.wanqianyun.cn
 - +.matomo3.org
 - +.matrimoniale3x.ro
@@ -56929,6 +56936,7 @@ payload:
 - +.metrics.yourlexusdealer.com
 - +.metrics.zacks.com
 - +.metrics0.com
+- +.metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 - +.metrics1-drcn.dt.dbankcloud.cn
 - +.metrics1-drcn.dt.dbankcloud.com
 - +.metrics1.citi.com
@@ -66231,6 +66239,8 @@ payload:
 - +.polaris5-normal-lq.zijieapi.com
 - +.polaris5-normal-xh.zijieapi.com
 - +.polaris5-normal-zb.zijieapi.com
+- +.polarisx-ai.com
+- +.polarisxpl.net
 - +.polarmobile.com
 - +.pole.6rooms.com
 - +.poleynsset.com
@@ -66984,6 +66994,7 @@ payload:
 - +.prnzxf.glamira.se
 - +.pro-adblocker.com
 - +.pro-advert.de
+- +.pro-invest-polska.net
 - +.pro-investpolska.com
 - +.pro-market.net
 - +.pro.autojs.org
@@ -67153,7 +67164,9 @@ payload:
 - +.prohibitedhesitatetransgress.com
 - +.proinvest-pl.com
 - +.proinvest-pl.net
+- +.proinvest-polska.net
 - +.proinvestai.net
+- +.proinvestpolska-ai.com
 - +.projecta-common-1258344701.file.myqcloud.com
 - +.projectagora.net
 - +.projectagora.tech
@@ -85803,6 +85816,7 @@ payload:
 - +.telemetry.appex.bing.net
 - +.telemetry.boxt.co.uk
 - +.telemetry.bydata.com
+- +.telemetry.canva.cn
 - +.telemetry.canva.com
 - +.telemetry.chrobinson.com
 - +.telemetry.commonspirit.org
@@ -87556,6 +87570,7 @@ payload:
 - +.tr-bouncer.com
 - +.tr-business.vodafone.com
 - +.tr-domaincfg.vivoglobal.com
+- +.tr-err-up.vivoglobal.com
 - +.tr-experiments.parsely.com
 - +.tr-monday.xyz
 - +.tr-ms.bosch-home.com
@@ -88949,6 +88964,7 @@ payload:
 - +.track.social.com
 - +.track.sodapdf.com
 - +.track.sohu.com
+- +.track.sohu.com.dsa.dnsv1.com.cn
 - +.track.solutions.ostechnology.co.jp
 - +.track.solventum.com
 - +.track.span-smt.jp
@@ -93773,6 +93789,7 @@ payload:
 - +.v9-ad.ixigua.com
 - +.v9-dc-ad.ixigua.com
 - +.v9-reading-ad.qznovelvod.com
+- +.v95-se-zjwztc-reading-ad.qznovelvod.com
 - +.v95-zjjx2tc-reading-ad.qznovelvod.com
 - +.v96-reading-ad.qznovelvod.com
 - +.v96-sz-daily-reading-ad.qznovelvod.com
@@ -98250,6 +98267,7 @@ payload:
 - +.www.che.com
 - +.www.claiks.com
 - +.www.destinationurl.com
+- +.www.digitalfiles.org
 - +.www.dualspace.com
 - +.www.fm120.com
 - +.www.histar.com
@@ -99006,6 +99024,7 @@ payload:
 - +.ximybkpxwu.com
 - +.xin.ygqczh.com
 - +.xinbo-lora.cn
+- +.xindalawyer.com
 - +.xindream.cn
 - +.xing-share.com
 - +.xinghao89.com
