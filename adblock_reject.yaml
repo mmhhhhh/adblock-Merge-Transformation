@@ -917,7 +917,6 @@ payload:
 - +.24df4bd648.com
 - +.24jp8wjmho.com
 - +.24kad.com
-- +.24klm.cn
 - +.24log.com
 - +.24log.de
 - +.24log.es
@@ -5710,6 +5709,7 @@ payload:
 - +.ad-m.asia
 - +.ad-mapps.com
 - +.ad-market.vivo.com.cn
+- +.ad-material.ys7.com
 - +.ad-maven.com
 - +.ad-miner.com
 - +.ad-mixr.com
@@ -12454,6 +12454,7 @@ payload:
 - +.autemsubtend.shop
 - +.auth-em.hismarttv.com
 - +.auth-eu.hismarttv.com
+- +.auth-jp.hismarttv.com
 - +.auth-launcher-em.hismarttv.com
 - +.auth-launcher-eu.hismarttv.com
 - +.auth-launcher-jp.hismarttv.com
@@ -12461,6 +12462,7 @@ payload:
 - +.auth-launcher-sa.hismarttv.com
 - +.auth-na.hismarttv.com
 - +.auth-phone-afr.hismarttv.com
+- +.auth-phone-ap.hismarttv.com
 - +.auth-sa.hismarttv.com
 - +.auth.api.gitv.tv
 - +.auth.be.sec.miui.com
@@ -17380,6 +17382,7 @@ payload:
 - +.cars.smartleasing.com.au
 - +.carsarace.com
 - +.carstat.bitauto.com
+- +.cart.net.cn
 - +.cart8draw.com
 - +.carte.fleet-page.total.fr
 - +.cartelsalsa.com
@@ -20644,7 +20647,6 @@ payload:
 - +.cookies.grenke.de
 - +.cookies.innershed.co.uk
 - +.cookies.jeugdjournaal.nl
-- +.cookies.joneslanglasalle.com.cn
 - +.cookies.leadplace.fr
 - +.cookies.leavening.com
 - +.cookies.livepartners.com
@@ -24160,6 +24162,7 @@ payload:
 - +.data.t.epost.dnb.no
 - +.data.t.worldvision.ca
 - +.data.tc.jetstar.com
+- +.data.tempersyi.com
 - +.data.thepointsguy.com
 - +.data.tmail.northeast.aaa.com
 - +.data.torry.io
@@ -25093,6 +25096,7 @@ payload:
 - +.detaillog-global-dual.coolgcloud.com
 - +.detaillog-global-dual.coolhcloud.com
 - +.detaillog-global-dual.coolzcloud.com
+- +.detaillog-global.coolccloud.com
 - +.detaillog-global.coolzcloud.com
 - +.detailroi.com
 - +.details.pella.com
@@ -29418,6 +29422,7 @@ payload:
 - +.efuxqe.tatilbudur.com
 - +.efvrgb12.com
 - +.efwhcj.emp-shop.se
+- +.efxh.cn
 - +.efxzea.badshop.de
 - +.efyqbufbkbdsw.site
 - +.efyt6.com
@@ -29657,6 +29662,7 @@ payload:
 - +.ekyjddvsqnbhx.com
 - +.ekyngoyzuutls.website
 - +.ekyqmiffifosj.space
+- +.ekzf.cn
 - +.ekzwoygfoevjf.online
 - +.ekzyqldtqnnth.online
 - +.ekzzgfqnbqvar.website
@@ -31214,12 +31220,15 @@ payload:
 - +.etzfcwsafuw.com
 - +.etznkn.ec-store.net
 - +.eu-1-id5-sync.com
+- +.eu-album-api.vivoglobal.com
+- +.eu-cota.vivoglobal.com
 - +.eu-datareceiver.aki-game.net
 - +.eu-domaincfg.vivoglobal.com
 - +.eu-errup.vivoglobal.com
 - +.eu-onrt-stsdk.vivoglobal.com
 - +.eu-ort-stsdk.vivoglobal.com
 - +.eu-p.vivoglobal.com
+- +.eu-pnrt-stsdk.vivoglobal.com
 - +.eu-romsp-unifyconfig.vivoglobal.com
 - +.eu-st-sl.vivoglobal.com
 - +.eu-stsdk.vivoglobal.com
@@ -40662,6 +40671,7 @@ payload:
 - +.hzyolohcz6.com
 - +.hzyuw.com
 - +.hzzyhl.jobs.ch
+- +.i-cn01a.ocloud.heytapmobi.com
 - +.i-fk.cn
 - +.i-mobile.co.jp
 - +.i-ready.curriculumassociates.com
@@ -48983,6 +48993,7 @@ payload:
 - +.lguuvbpnyijxu.online
 - +.lguvihbqjegvi.website
 - +.lgxicvplbnejn.website
+- +.lgygy.cn
 - +.lgylib.dg-home.ru
 - +.lgzatbnlvtnzu.site
 - +.lgzkzp.bauhaus.at
@@ -50649,6 +50660,7 @@ payload:
 - +.log-hl.snssdk.com
 - +.log-klink.zijieapi.com
 - +.log-lb.skyperfectv.co.jp
+- +.log-lf.snssdk.com
 - +.log-lq.snssdk.com
 - +.log-pq.shopfully.cloud
 - +.log-pub-hk.aoshitang.com
@@ -50736,6 +50748,7 @@ payload:
 - +.log.p2p.hunantv.com
 - +.log.pinterest.com
 - +.log.pipeline.datarize.io
+- +.log.qcast.cn
 - +.log.qiniuapi.com
 - +.log.qookkagames.com
 - +.log.quora.com
@@ -63250,6 +63263,7 @@ payload:
 - +.open.wynk.in
 - +.openai.qualtrics.com
 - +.openapi-news.meizu.com
+- +.openapi.vip.ptqy.gitv.tv
 - +.openbook.net
 - +.openbox.mobilem.360.cn
 - +.openclick.com
@@ -63757,6 +63771,7 @@ payload:
 - +.ott3.da.mgtv.com
 - +.ottadvisors.com
 - +.ottawa-content.cresa.com
+- +.ottl7-l2.pandora.xiaomi.com
 - +.otto5loki.com
 - +.otunmakpjbtga.website
 - +.oturvy.sanitairwinkel.nl
@@ -89327,6 +89342,7 @@ payload:
 - +.trace.m1905.cn
 - +.trace.mjyx.com
 - +.trace.qq.com
+- +.trace.seeyouyima.com
 - +.trace.swaven.com
 - +.trace.ynet.com
 - +.trace.zhiyan.tencent-cloud.net
@@ -100257,6 +100273,7 @@ payload:
 - +.xtitjpiaoedam.space
 - +.xtjdjognknvqa.com
 - +.xtjffejzynjib.space
+- +.xtjpdfr.cn
 - +.xtmhzidqppsit.online
 - +.xtmtmiztqxkpi.space
 - +.xtomralxdgoof.space
