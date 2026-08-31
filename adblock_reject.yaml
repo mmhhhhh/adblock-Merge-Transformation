@@ -5881,6 +5881,7 @@ payload:
 - +.ad.magokoro-care-shoku.com
 - +.ad.mail.ru
 - +.ad.mail.sohu.com
+- +.ad.maoyan.com
 - +.ad.mcloud.139.com
 - +.ad.mediamixer.co.kr
 - +.ad.mh.163.com
@@ -5900,6 +5901,7 @@ payload:
 - +.ad.norfolkbroads.com
 - +.ad.nvdvr.cn
 - +.ad.obuy.tw
+- +.ad.open.api.jihuoniao.com
 - +.ad.ordersuit.info
 - +.ad.ourgame.com
 - +.ad.ozone.ru
@@ -5920,6 +5922,7 @@ payload:
 - +.ad.rayli.com.cn
 - +.ad.rednet.cn
 - +.ad.rejichoice.jp
+- +.ad.report.jihuoniao.com
 - +.ad.richmob.cn
 - +.ad.seeyouyima.com
 - +.ad.shinjuku-mens-chuoh.com
@@ -7028,6 +7031,7 @@ payload:
 - +.ads-gdl.imovideo.ru
 - +.ads-go.adroi.com.cn
 - +.ads-i1.xhscdn.com
+- +.ads-i1.xhscdn.com.cdn.dnsv1.com
 - +.ads-i10.xhscdn.com
 - +.ads-i2.xhscdn.com
 - +.ads-i3.xhscdn.com
@@ -7064,7 +7068,6 @@ payload:
 - +.ads-uo.api.leiniao.com
 - +.ads-ut.api.leiniao.com
 - +.ads-video-al.xhscdn.com
-- +.ads-video-al.xhscdn.com.w.cdngslb.com
 - +.ads-video-qc.xhscdn.com
 - +.ads-vp5-xhscdn.tliveapp.com
 - +.ads-vp5.xhscdn.com
@@ -7209,6 +7212,7 @@ payload:
 - +.ads3-normal-lq.zijieapi.com.queniuiq.com
 - +.ads3-normal-lq.zijieapi.com.w.cdngslb.com
 - +.ads3-normal.zijieapi.com
+- +.ads3-normal.zijieapi.com.queniusz.com
 - +.ads3.videy.co
 - +.ads360.cn
 - +.ads4g.pl
@@ -9877,7 +9881,6 @@ payload:
 - +.analytics.wondershare.cc
 - +.analytics.woozooo.com
 - +.analytics.ws.126.net
-- +.analytics.xdiarys.com
 - +.analytics.xgimi.com
 - +.analytics.xiloc.net
 - +.analytics.xoomenergy.com
@@ -9901,7 +9904,6 @@ payload:
 - +.analytics1.dillards.com
 - +.analytics2-3-meride-tv.akamaized.net
 - +.analytics2-meride-tv.akamaized.net
-- +.analytics2.xdiarys.com
 - +.analytics3.dopool.com
 - +.analytics3.starschina.com
 - +.analyticsapi.qogita.com
@@ -24288,7 +24290,6 @@ payload:
 - +.datacollection.uve.weibo.com
 - +.datacollector-dra.dt.dbankcloud.cn
 - +.datacollector-dra.dt.hicloud.com
-- +.datacollector-drcn.dt.dbankcloud.cn
 - +.datacollector-dre.dt.dbankcloud.cn
 - +.datacoral.com
 - +.datacoral.io
@@ -48493,7 +48494,6 @@ payload:
 - +.lczk.cn
 - +.lczoidhsuvuyu.site
 - +.lcztnn.asics-trading.co.jp
-- +.ld-analytics.leadongcdn.com
 - +.ld-analytics.micyjz.com
 - +.ld.mediaget.com
 - +.ld.za9mnx.com
@@ -54965,7 +54965,6 @@ payload:
 - +.mato.clanto.cloud
 - +.matomo.clanto.cloud
 - +.matomo.cloud
-- +.matomo.datasanalytics.com
 - +.matomo.wanqianyun.cn
 - +.matomo3.org
 - +.matrimoniale3x.ro
@@ -56842,7 +56841,6 @@ payload:
 - +.metrics.puritan.com
 - +.metrics.pvh.com
 - +.metrics.qatarairways.com
-- +.metrics.qira.lenovo.com
 - +.metrics.questrade.com
 - +.metrics.quiksilver.com
 - +.metrics.quill.com
@@ -67800,6 +67798,7 @@ payload:
 - +.prvgjobwcr.com
 - +.prvizg.shurgard.be
 - +.prvoevhums.com
+- +.prw.lenovomm.com
 - +.prwrrkaerzzon.space
 - +.prx6.destinia.ch
 - +.prxymecb.cn
@@ -71291,7 +71290,6 @@ payload:
 - +.ressources.usine-digitale.com
 - +.ressources.usine-nouvelle.com
 - +.ressqretcwdkp.site
-- +.rest-argus-ad.agoralab.co
 - +.rest.sexypornvideo.net
 - +.rest.wildstar-online.com
 - +.restaffect.com
@@ -72477,6 +72475,7 @@ payload:
 - +.rtyvaluationia.org
 - +.rtyznd.com
 - +.rtztthwgifaal.site
+- +.ru-commonitor-stsdk.vivoglobal.com
 - +.ru-comonrt-stsdk.vivoglobal.com
 - +.ru-comort-stsdk.vivoglobal.com
 - +.ru-compnrt-stsdk.vivoglobal.com
@@ -72485,6 +72484,7 @@ payload:
 - +.ru-exstsdk.vivoglobal.com
 - +.ru-go.experian.com
 - +.ru-onrt-stsdk.vivoglobal.com
+- +.ru-os-config-appstore.vivoglobal.com
 - +.ru-p.vivoglobal.com
 - +.ru-romsp-unifyconfig.vivoglobal.com
 - +.ru-ru.siemensplmevents.com
@@ -75249,13 +75249,13 @@ payload:
 - +.sentry.dev-my.com
 - +.sentry.dhgate.com
 - +.sentry.eks.hoyoverse.com
-- +.sentry.gitcode.com
 - +.sentry.hetzner.company
 - +.sentry.io
 - +.sentry.iptv.rt.ru
 - +.sentry.jtexpress.com.cn
 - +.sentry.kontur.host
 - +.sentry.kuaishou.com
+- +.sentry.lkcoffee.com
 - +.sentry.lovart.ai
 - +.sentry.meitu-int.com
 - +.sentry.mindbox.ru
@@ -82562,7 +82562,6 @@ payload:
 - +.statistics.darkreader.app
 - +.statistics.dfwsgroup.com
 - +.statistics.fppressa.ru
-- +.statistics.gd.gov.cn
 - +.statistics.heatbeat.de
 - +.statistics.jfmedier.dk
 - +.statistics.klicktel.de
@@ -88179,6 +88178,7 @@ payload:
 - +.tr-bouncer.com
 - +.tr-business.vodafone.com
 - +.tr-domaincfg.vivoglobal.com
+- +.tr-err-up.vivoglobal.com
 - +.tr-experiments.parsely.com
 - +.tr-monday.xyz
 - +.tr-ms.bosch-home.com
@@ -96467,8 +96467,6 @@ payload:
 - +.wangmeng.baidu.cn
 - +.wangmeng.baidu.com
 - +.wangmeng.sogou.com
-- +.wangsu-smetrics.redhat.com.edgekey.net
-- +.wangsu-smetrics.redhat.com.edgekey.net.wanakadns.net
 - +.wangunssealery.com
 - +.wangxiankang.top
 - +.wangyouxs.cn
@@ -96856,6 +96854,7 @@ payload:
 - +.web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 - +.web-perf.booking.com
 - +.web-security.cloud
+- +.web-sentry.kurogame.com
 - +.web-sentry.kurogame.net
 - +.web-stat.com
 - +.web-stat.fr
