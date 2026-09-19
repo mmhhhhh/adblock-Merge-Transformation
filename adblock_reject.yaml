@@ -5188,7 +5188,6 @@ payload:
 - +.abtao.wang
 - +.abtaurosa.club
 - +.abtest-api-data-sg.hoyoverse.com
-- +.abtest-api-data.mihoyo.com
 - +.abtest-ch.snssdk.com
 - +.abtest.alibaba.com
 - +.abtest.mistat.xiaomi.com
@@ -6949,6 +6948,7 @@ payload:
 - +.ads-drru.platform.hihonorcloud.com
 - +.ads-gate.wildberries.ru
 - +.ads-go.adroi.com.cn
+- +.ads-hera-s1.xhscdn.com
 - +.ads-i1.xhscdn.com
 - +.ads-i10.xhscdn.com
 - +.ads-i2.xhscdn.com
@@ -6984,10 +6984,9 @@ payload:
 - +.ads-uo.api.leiniao.com
 - +.ads-ut.api.leiniao.com
 - +.ads-video-al.xhscdn.com
+- +.ads-video-al.xhscdn.com.w.cdngslb.com
 - +.ads-video-qc.xhscdn.com
-- +.ads-vp5-xhscdn-com-idvnw0v.qiniudns.com
 - +.ads-vp5-xhscdn.tliveapp.com
-- +.ads-vp5-xhscdn.tliveapp.com.cdn.dnsv1.com
 - +.ads-vp5.xhscdn.com
 - +.ads-yallo-production.imgix.net
 - +.ads.95516.com
@@ -7060,7 +7059,6 @@ payload:
 - +.ads.planetwin365affiliate.com
 - +.ads.playboy.com
 - +.ads.raidrive.com
-- +.ads.rctiplus.com
 - +.ads.reader.yueyouxs.com
 - +.ads.rustore.ru
 - +.ads.saymedia.com
@@ -9753,7 +9751,6 @@ payload:
 - +.analytics.vk.ru
 - +.analytics.vortexscans.com
 - +.analytics.vpc.duolingo.com
-- +.analytics.wangzhanmao.com
 - +.analytics.wanmei.com
 - +.analytics.warnertv.fr
 - +.analytics.wask.co
@@ -10403,7 +10400,6 @@ payload:
 - +.api.touch-moblie.com
 - +.api.ts.feedback.qy.net
 - +.api.tusdk.com
-- +.api.tv.sohu.com
 - +.api.tw06.xlmc.sec.miui.com
 - +.api.union.vip.com
 - +.api.vasb.cn
@@ -13810,7 +13806,6 @@ payload:
 - +.beacon.errorception.com
 - +.beacon.flow.io
 - +.beacon.gtimg.com
-- +.beacon.jk.cn
 - +.beacon.joinlede.com
 - +.beacon.klm.com
 - +.beacon.kmi-us.com
@@ -19222,6 +19217,7 @@ payload:
 - +.cn-go.experian.com
 - +.cn-gui-whatsapp.com.cn
 - +.cn-hangzhou-c.dualstack.log.usd.alibabadns.com
+- +.cn-hangzhou.dualstack.log.usd.alibabadns.com
 - +.cn-peer-whatsapp.com.cn
 - +.cn-ping-whatsapp.com.cn
 - +.cn-qingdao.dualstack.log.usd.alibabadns.com
@@ -19892,6 +19888,7 @@ payload:
 - +.conduit.redfast.com
 - +.conduze.com
 - +.conf-cn.dc.heytapmobi.com
+- +.conf-eu.dc.heytapmobi.com
 - +.conf-in.dc.heytapmobi.com
 - +.conf-sg.dc.heytapmobi.com
 - +.conf.funshion.com
@@ -20188,6 +20185,7 @@ payload:
 - +.consistspouchrowan.com
 - +.conso.gransnet.com
 - +.console-telemetry.oci.oraclecloud.com
+- +.console.bce.baidu.com
 - +.console.data4.net
 - +.console.uxlens.com
 - +.consolevolcano.com
@@ -21123,6 +21121,7 @@ payload:
 - +.crash.163.com
 - +.crash.rnote.com
 - +.crash.rnote.com.eo.dnse0.com
+- +.crash.safe.360.cn
 - +.crash.xiaohongshu.com
 - +.crash2.zhihu.com
 - +.crashchance.com
@@ -23534,6 +23533,7 @@ payload:
 - +.dasych.drmartypets.com
 - +.dat.red
 - +.dat1.jzjxmj.com
+- +.data-abtest-api.mihoyo.com
 - +.data-ads.realmemobile.com
 - +.data-api.fenbi.com
 - +.data-collector.soulapp.cn
@@ -30970,7 +30970,6 @@ payload:
 - +.etznkn.ec-store.net
 - +.etzuqprynhyfx.site
 - +.eu-1-id5-sync.com
-- +.eu-cota.vivoglobal.com
 - +.eu-datareceiver.aki-game.net
 - +.eu-domaincfg.vivoglobal.com
 - +.eu-errup.vivoglobal.com
@@ -32269,6 +32268,7 @@ payload:
 - +.fcnqkw.xeroshoes.com
 - +.fco896oi39.com
 - +.fcopqjfgfdzvv.online
+- +.fcount-api.webapp.163.com
 - +.fcpeylkojizxb.online
 - +.fcpomkzxamary.space
 - +.fcpszk.telestream.net
@@ -37806,6 +37806,7 @@ payload:
 - +.h52ek3i.de
 - +.h559.stamfordadvocate.com
 - +.h57vpulpu.com
+- +.h5collector.mihoyo.com
 - +.h5jww.com
 - +.h5log-api-dualstack.mihoyo.com
 - +.h5log.joybuy.com
@@ -38973,6 +38974,7 @@ payload:
 - +.hjlqivzfrrsgg.website
 - +.hjlra23r7r.com
 - +.hjmdbcvvukhjhk-dpjrblo0l584.edgeone.dev
+- +.hjpqt.cn
 - +.hjtgolgpsbskl.site
 - +.hjtpbyachgtvu.online
 - +.hjtzzpfcljcem.site
@@ -39837,6 +39839,7 @@ payload:
 - +.huanbaoxiangmu.xyz
 - +.huangdao.info
 - +.huanle97.com
+- +.huanqiucaijing.cn
 - +.huanrentv.cn
 - +.huaqikonggu.com.cn
 - +.huaqiss.cn
@@ -40524,6 +40527,7 @@ payload:
 - +.icyporno.com
 - +.icyscokzsxbmd.site
 - +.icywinter.com
+- +.id-log-emagzal.lazada.com
 - +.id-third-appstore.vivoglobal.com
 - +.id-visitors.com
 - +.id-ward.com
@@ -41018,6 +41022,7 @@ payload:
 - +.image.thermoscientific.com
 - +.image.ttyouma.cn
 - +.image.upages.cn
+- +.image.yafytg.cn
 - +.imageadvantage.net
 - +.imagebuffer.com
 - +.imagecutie.com
@@ -41105,6 +41110,7 @@ payload:
 - +.images.cs.consultdss.com
 - +.images.cs.dsmihealth.com
 - +.images.daikinchemicals.com
+- +.images.dayoo.com
 - +.images.deals.carpetone.com
 - +.images.decisionhealth.com
 - +.images.demand.awspls.com
@@ -41662,6 +41668,7 @@ payload:
 - +.img.website-security.symantec.com
 - +.img.wuben56.com
 - +.img.xa9t.com
+- +.img.xgo.com.cn
 - +.img.xiwnu.cn
 - +.img.yangshengtang123.com
 - +.img.yemeksepeti.com
@@ -47261,7 +47268,6 @@ payload:
 - +.kuguopush.com
 - +.kuheju.com
 - +.kuhou.com
-- +.kui.dui88.com
 - +.kuiyizyzoadmf.online
 - +.kujifkvgkygii.site
 - +.kuk8.com
@@ -50275,7 +50281,6 @@ payload:
 - +.log.willie.nl
 - +.log.wiodo.tech
 - +.log.worldsoft-cms.info
-- +.log.wqxsw.com
 - +.log.wtlogin.qq.com
 - +.log.ycapp.yiche.com
 - +.log.yex.youdao.com
@@ -59762,7 +59767,6 @@ payload:
 - +.news.tcsg.edu
 - +.news.thedailyrecord.com
 - +.news.thedolancompany.com
-- +.news.tuxi.com.cn
 - +.news.valawyersweekly.com
 - +.news.verimatrix.com
 - +.news.xcpi.cn
@@ -62437,6 +62441,7 @@ payload:
 - +.onjmzuwbaxsgi.space
 - +.onlidex.com
 - +.online-adnetwork.com
+- +.online-logger.webapp.163.com
 - +.online-metrix.net
 - +.online-mt-com-455208869.p06.elqsandbox.com
 - +.online.cphi.cn
@@ -74504,7 +74509,6 @@ payload:
 - +.sensors-log.allfootballapp.com
 - +.sensors-log.dongqiudi.com
 - +.sensors.cloud.tencent.com
-- +.sensors.h5.xed.plus
 - +.sensors.ibreader.com
 - +.sensors.larkplayerapp.com
 - +.sensors.snappea.com
@@ -74531,6 +74535,7 @@ payload:
 - +.sentry-ali.cvtapi.com
 - +.sentry-cdn.com
 - +.sentry-cdn.top
+- +.sentry-fe.mokahr.com
 - +.sentry-inc.ssr.mihoyo.com
 - +.sentry-io.djiops.com
 - +.sentry-io.djiops.com.w.cdngslb.com
@@ -74872,6 +74877,7 @@ payload:
 - +.sg-bugly-pc.iegcom.com
 - +.sg-cfg-stsdk.vivoglobal.com
 - +.sg-go.experian.com
+- +.sg-log-emagzal.lazada.com
 - +.sg-public-data-api.hoyoverse.com
 - +.sg.carousellmotors.com
 - +.sg.lucanet.com
@@ -74916,6 +74922,7 @@ payload:
 - +.sgstats.com
 - +.sgtbbgdkovkhz.site
 - +.sgtm.cmoa.jp
+- +.sgtm.darryring.com
 - +.sgtm.dhgate.com
 - +.sgtm.dhgate.com.cdngtm.com
 - +.sgtm.tagmanageritalia.it
@@ -81812,7 +81819,6 @@ payload:
 - +.statistics.darkreader.app
 - +.statistics.dfwsgroup.com
 - +.statistics.fppressa.ru
-- +.statistics.gd.gov.cn
 - +.statistics.heatbeat.de
 - +.statistics.jfmedier.dk
 - +.statistics.klicktel.de
@@ -82485,7 +82491,6 @@ payload:
 - +.stats.sirdata.com
 - +.stats.sixseven.at
 - +.stats.ski.com
-- +.stats.skywork.ai
 - +.stats.slashed.cloud
 - +.stats.slicedthread.com
 - +.stats.smartclip.net
@@ -93587,6 +93592,7 @@ payload:
 - +.v5-ex-reading-ad.qznovelvod.com
 - +.v5-reading-ad.qznovelvod.com
 - +.v5-se-ex-mc-reading-ad.qznovelvod.com
+- +.v5-se-gddgtc-reading-ad.qznovelvod.com
 - +.v5-se-sjy-daily-reading-ad.qznovelvod.com
 - +.v53groc9v.com
 - +.v5ad.com
@@ -93614,6 +93620,8 @@ payload:
 - +.v95-aw-reading-ad.qznovelvod.com
 - +.v95-se-zjwztc-reading-ad.qznovelvod.com
 - +.v95-ynkmtc-reading-ad.qznovelvod.com
+- +.v95-zjjx2tc-reading-ad.qznovelvod.com
+- +.v96-reading-ad.qznovelvod.com
 - +.v96-sz-daily-reading-ad.qznovelvod.com
 - +.va-endpoint.com
 - +.va.gxpan.cn
@@ -98040,6 +98048,7 @@ payload:
 - +.www.bobo.com
 - +.www.che.com
 - +.www.chemdraw.com.cn
+- +.www.china-caa.org
 - +.www.claiks.com
 - +.www.destinationurl.com
 - +.www.dopa.com
