@@ -5786,6 +5786,7 @@ payload:
 - +.ad.evozi.com
 - +.ad.exyws.org
 - +.ad.flipboard.com
+- +.ad.foxitreader.cn
 - +.ad.funp.com
 - +.ad.funshion.org.cn
 - +.ad.fx168api.com
@@ -7000,14 +7001,12 @@ payload:
 - +.ads-img-bak.xhscdn.com
 - +.ads-img-qc.xhscdn.com
 - +.ads-img.mozilla.org
-- +.ads-impression.papegames.com
 - +.ads-integration.rustore.ru
 - +.ads-jp.tiktok.com
 - +.ads-leona-s1.xhscdn.com
 - +.ads-marketing-vivofs.vivo.com.cn
 - +.ads-media.wildberries.ru
 - +.ads-monitoring.papegames.com
-- +.ads-monitoring.shziyi.com
 - +.ads-partners.coupang.com
 - +.ads-pixiv.net
 - +.ads-sdk-api.innoads.cn
@@ -8533,6 +8532,7 @@ payload:
 - +.aisnj.cn
 - +.aiso.live
 - +.aisouk.cn
+- +.aisuda.bce.baidu.com
 - +.aivalabs.com
 - +.aivali.openapp.link
 - +.aivaylaco.com
@@ -9889,6 +9889,7 @@ payload:
 - +.analytics1.dillards.com
 - +.analytics2-3-meride-tv.akamaized.net
 - +.analytics2-meride-tv.akamaized.net
+- +.analytics2.xdiarys.com
 - +.analytics3.dopool.com
 - +.analytics3.starschina.com
 - +.analyticsapi.qogita.com
@@ -10328,7 +10329,6 @@ payload:
 - +.api-gd.hiaiabc.com
 - +.api-gl.cdo.heytapmobi.com
 - +.api-gps-eu.hismarttv.com
-- +.api-gps-na.hismarttv.com
 - +.api-gps.hismarttv.com
 - +.api-hotmart-tracking-manager.hotmart.com
 - +.api-id.game.heytapmobi.com
@@ -20184,7 +20184,6 @@ payload:
 - +.connect-dre.dbankcloud.cn
 - +.connect-dre.hispace.hicloud.com
 - +.connect-drru.dbankcloud.cn
-- +.connect-drru.hispace.dbankcloud.cn
 - +.connect-drru.hispace.dbankcloud.ru
 - +.connect-qa.netapp.com
 - +.connect.abm.netapp.com
@@ -20408,6 +20407,7 @@ payload:
 - +.consistspouchrowan.com
 - +.conso.gransnet.com
 - +.console-telemetry.oci.oraclecloud.com
+- +.console.bce.baidu.com
 - +.console.data4.net
 - +.console.uxlens.com
 - +.consolevolcano.com
@@ -21738,6 +21738,7 @@ payload:
 - +.css.zmjm.com
 - +.css888.bceapp.com
 - +.cssdwkjzdxxqn.online
+- +.cstaticdun.126.net
 - +.cstats.sankakucomplex.com
 - +.cstm.baidu.com
 - +.cstmedia.com.cn
@@ -23787,6 +23788,7 @@ payload:
 - +.dasych.drmartypets.com
 - +.dat.red
 - +.dat1.jzjxmj.com
+- +.data-577c2406e4.dewezet.de
 - +.data-abtest-api.mihoyo.com
 - +.data-ads.realmemobile.com
 - +.data-api.fenbi.com
@@ -26910,7 +26912,6 @@ payload:
 - +.download.createyournextcustomer.com
 - +.download.dackinc.com
 - +.download.dnv.com
-- +.download.doumaibiji.cn
 - +.download.frolit.io
 - +.download.fuyuncc.com
 - +.download.getneema.com
@@ -33210,6 +33211,7 @@ payload:
 - +.firebaselogging.googleapis.com
 - +.firecatfilms.com
 - +.firefang.cn
+- +.firefly.bol.com
 - +.fireflyengagement.com
 - +.fireplacedecency.com
 - +.firevent.jd.com
@@ -33270,6 +33272,8 @@ payload:
 - +.fisios3-est7.sbs
 - +.fisios3-et25.sbs
 - +.fisios5-omnis94.sbs
+- +.fisios6-atque41.sbs
+- +.fisios6-est61.sbs
 - +.fisios9-nisi75.sbs
 - +.fisios9-quaerat31.sbs
 - +.fiskaqqjajwqv.website
@@ -35180,7 +35184,6 @@ payload:
 - +.garconleak.com
 - +.gard4mass.com
 - +.gardantfriszka.shop
-- +.gardendomes.shop
 - +.gardenia25.com
 - +.gardeningcoercive.com
 - +.gardeningremovalcontrary.com
@@ -40281,7 +40284,6 @@ payload:
 - +.html.sunday8.com
 - +.html.yuntzs.com
 - +.html5adkit.plusmo.s3.amazonaws.com
-- +.htmlbddhjghtnkcgjjhhjdhtml-dpptwqylzrhe.edgeone.dev
 - +.htmonster.com
 - +.htneakzcupxkt.space
 - +.htnote.info
@@ -41829,7 +41831,6 @@ payload:
 - +.images.info.tupperware.de
 - +.images.info.tupperware.pt
 - +.images.info.tycosimplexgrinnell.com
-- +.images.info.ubmsinoexpo.com
 - +.images.info.veritas.com
 - +.images.info.visma.com
 - +.images.info.wearejust.co.uk
@@ -48678,6 +48679,8 @@ payload:
 - +.lczk.cn
 - +.lczoidhsuvuyu.site
 - +.lcztnn.asics-trading.co.jp
+- +.ld-analytics.leadongcdn.com
+- +.ld-analytics.micyjz.com
 - +.ld.mediaget.com
 - +.ld.za9mnx.com
 - +.ldckmk.divarese.com.tr
@@ -59335,7 +59338,6 @@ payload:
 - +.mushywaste.com
 - +.mushyyoung.com
 - +.music.httpdns.c.163.com
-- +.musical-octo-robot-dptlf6z6tv2g.edgeone.dev
 - +.musicallv.top
 - +.musicalsupposed.com
 - +.musicarbitrary.com
@@ -64798,7 +64800,6 @@ payload:
 - +.palustidyism.com
 - +.pamelarandom.com
 - +.pampopholf.com
-- +.pamzqm.yitechnology.com
 - +.panaservers.com
 - +.pancakesuspenseant.com
 - +.panda.kasika.io
@@ -71756,7 +71757,6 @@ payload:
 - +.reversionprunesterrific.com
 - +.revfusion.net
 - +.revhunter.tech
-- +.review-copyright-infringement-request.edgeone.dev
 - +.review.openapp.link
 - +.review.teradata.com
 - +.reviewability.com
@@ -72016,7 +72016,6 @@ payload:
 - +.rigapchevkews.site
 - +.rigelcabda.com
 - +.riggurgle.com
-- +.right-copper-xkzqbqnk.edgeone.dev
 - +.righteouscrayon.com
 - +.rightfulfall.com
 - +.rightfullydalton.com
@@ -74184,7 +74183,6 @@ payload:
 - +.sandbox-elq.keysight.com
 - +.sandbox-elq.keysight.com.cn
 - +.sandboxbid.com
-- +.sandboxle.com.cn
 - +.sandelf.com
 - +.sandhowl.com
 - +.sandmakingsilver.info
@@ -75611,7 +75609,6 @@ payload:
 - +.sentry-ali.cvtapi.com
 - +.sentry-cdn.com
 - +.sentry-cdn.top
-- +.sentry-fe.mokahr.com
 - +.sentry-inc.ssr.mihoyo.com
 - +.sentry-io.djiops.com
 - +.sentry-io.djiops.com.w.cdngslb.com
@@ -75638,9 +75635,7 @@ payload:
 - +.sentry.jtexpress.com.cn
 - +.sentry.kontur.host
 - +.sentry.kuaishou.com
-- +.sentry.lkcoffee.com
 - +.sentry.lovart.ai
-- +.sentry.meitu-int.com
 - +.sentry.mindbox.ru
 - +.sentry.music.163.com
 - +.sentry.netease.com
@@ -82804,7 +82799,6 @@ payload:
 - +.stat.v.baidu.com
 - +.stat.valica.it
 - +.stat.vccoo.com
-- +.stat.vipstatic.com
 - +.stat.vocus.com
 - +.stat.vulkanvegas.com
 - +.stat.wanted.jobs
@@ -83619,7 +83613,6 @@ payload:
 - +.stats.sirdata.com
 - +.stats.sixseven.at
 - +.stats.ski.com
-- +.stats.skywork.ai
 - +.stats.slashed.cloud
 - +.stats.slicedthread.com
 - +.stats.smartclip.net
@@ -88585,7 +88578,6 @@ payload:
 - +.tr-usual.xyz
 - +.tr-vcode-api.vivoglobal.com
 - +.tr-vcode-od.vivoglobal.com
-- +.tr-vcode-or.vivoglobal.com
 - +.tr.3ou4xcb.cetelem.fr
 - +.tr.3xcb.cofinoga.fr
 - +.tr.7vid.net
@@ -90846,7 +90838,6 @@ payload:
 - +.trackkas.com
 - +.trackla.stackla.com
 - +.tracklog.58.com
-- +.trackmarketing.staubli.cn
 - +.trackmarketing.staubli.com
 - +.trackmethod.com
 - +.trackmundo.com
@@ -91570,7 +91561,6 @@ payload:
 - +.trk.thebenchfactory.com
 - +.trk.themspsummit.com
 - +.trk.thinkhdi.com
-- +.trk.thomas-pump.cn
 - +.trk.thomaspumps.com
 - +.trk.tirto.id
 - +.trk.todocouplings.com
@@ -96778,7 +96768,6 @@ payload:
 - +.w88.disneynow.com
 - +.w88.espn.com
 - +.w88.go.com
-- +.w88.hongkongdisneyland.com.cn
 - +.w88.m.espn.go.com
 - +.w88.natgeo.pt
 - +.w88.natgeotv.com
