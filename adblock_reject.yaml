@@ -5688,6 +5688,7 @@ payload:
 - +.ad-fam.com
 - +.ad-files.4pyun.com
 - +.ad-flow.com
+- +.ad-ggtg-api.37.com.cn
 - +.ad-host-backup-america.oss-us-west-1.aliyuncs.com
 - +.ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 - +.ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
@@ -5786,6 +5787,7 @@ payload:
 - +.ad.cpcstar.com
 - +.ad.csdn.net
 - +.ad.cyapi.cn
+- +.ad.data.peasun.net
 - +.ad.daum.net
 - +.ad.dedecms.com
 - +.ad.dev.360.cn
@@ -5806,7 +5808,6 @@ payload:
 - +.ad.evozi.com
 - +.ad.exyws.org
 - +.ad.flipboard.com
-- +.ad.foxitreader.cn
 - +.ad.funp.com
 - +.ad.funshion.org.cn
 - +.ad.fx168api.com
@@ -5861,6 +5862,7 @@ payload:
 - +.ad.kisstvshow.ru
 - +.ad.l2b.co.za
 - +.ad.ldplayer.net
+- +.ad.lelongpp.com
 - +.ad.lflucky.com
 - +.ad.lgappstv.com
 - +.ad.life.360.cn
@@ -7021,6 +7023,7 @@ payload:
 - +.ads-img-bak.xhscdn.com
 - +.ads-img-qc.xhscdn.com
 - +.ads-img.mozilla.org
+- +.ads-impression.papegames.com
 - +.ads-integration.rustore.ru
 - +.ads-jp.tiktok.com
 - +.ads-leona-s1.xhscdn.com
@@ -7776,6 +7779,7 @@ payload:
 - +.adx-dre.op.dbankcloud.com
 - +.adx-dre.op.hicloud.com
 - +.adx-drru.op.dbankcloud.ru
+- +.adx-drru.op.hicloud.com
 - +.adx-exchange.toast.com
 - +.adx-f.ads.heytapmobi.com
 - +.adx-id.ads.heytapmobi.com
@@ -8285,6 +8289,7 @@ payload:
 - +.agnruzedegphs.site
 - +.agonizing-initiative.pro
 - +.agonyshark.com
+- +.agoodm.m.taobao.com
 - +.agoqaa.stockmann.com
 - +.agorahtag.tech
 - +.agore.xyz
@@ -9468,7 +9473,6 @@ payload:
 - +.analytics.eventbrite.com
 - +.analytics.everythingstream.com
 - +.analytics.evo.co.uk
-- +.analytics.f2b211.com
 - +.analytics.fabricators.ltd
 - +.analytics.facebook.com
 - +.analytics.faceitanalytics.com
@@ -9485,6 +9489,7 @@ payload:
 - +.analytics.floridatravellife.com
 - +.analytics.fnbfremont.com
 - +.analytics.fnni.com
+- +.analytics.fontke.com
 - +.analytics.footballdb.com
 - +.analytics.foresee.com
 - +.analytics.formstack.com
@@ -10342,6 +10347,7 @@ payload:
 - +.api-analytics-us.zepp.com
 - +.api-analytics-us3.zepp.com
 - +.api-analytics.huami.com
+- +.api-analytics.zepp.com
 - +.api-cn.cdo.heytapmobi.com
 - +.api-data-collection.insta360.cn
 - +.api-deal.kechenggezi.com
@@ -10357,6 +10363,7 @@ payload:
 - +.api-gd.hiaiabc.com
 - +.api-gl.cdo.heytapmobi.com
 - +.api-gps-eu.hismarttv.com
+- +.api-gps-na.hismarttv.com
 - +.api-gps.hismarttv.com
 - +.api-hotmart-tracking-manager.hotmart.com
 - +.api-id.game.heytapmobi.com
@@ -10451,6 +10458,7 @@ payload:
 - +.api.ijunhai.com
 - +.api.immomo.com
 - +.api.installer.xiaomi.com
+- +.api.iplay.163.com
 - +.api.itaoxiaoshuo.com
 - +.api.jialiangad.com
 - +.api.jietuhb.com
@@ -12547,6 +12555,7 @@ payload:
 - +.auth-launcher-sa.hismarttv.com
 - +.auth-na.hismarttv.com
 - +.auth-phone-afr.hismarttv.com
+- +.auth-phone-ap.hismarttv.com
 - +.auth-sa.hismarttv.com
 - +.auth.api.gitv.tv
 - +.auth.be.sec.miui.com
@@ -12798,6 +12807,7 @@ payload:
 - +.aws-br-pic.kwai.net.iberostar.com
 - +.aws-itcloud.net
 - +.awsexam.quantresear.ch
+- +.awssgp0-files.fds.api.xiaomi.com
 - +.awstats.cloud
 - +.awsurveys.com
 - +.awtjudztob.in
@@ -19808,6 +19818,7 @@ payload:
 - +.collect.babybus.com
 - +.collect.banggood.com
 - +.collect.bannercrowd.net
+- +.collect.camera360.com
 - +.collect.cap.ch
 - +.collect.chaordicsystems.com
 - +.collect.cloudsponge.com
@@ -23745,6 +23756,7 @@ payload:
 - +.daftarfilles.shop
 - +.dafvng.sunrefre.jp
 - +.dagd0kz7sipfl.cloudfront.net
+- +.dageyuan.cn
 - +.dagnar.com
 - +.dagong.org
 - +.dahaolong.top
@@ -27010,6 +27022,7 @@ payload:
 - +.download.createyournextcustomer.com
 - +.download.dackinc.com
 - +.download.dnv.com
+- +.download.doumaibiji.cn
 - +.download.frolit.io
 - +.download.fuyuncc.com
 - +.download.getneema.com
@@ -33219,6 +33232,7 @@ payload:
 - +.fifubhqxlrokg.online
 - +.figglefodge.com
 - +.fight.offtherecord.com
+- +.fighter-shop.shop
 - +.fighterfan.shop
 - +.fightingdesert.com
 - +.fightmallowfiasco.com
@@ -38104,8 +38118,6 @@ payload:
 - +.gughkbhwynapy.website
 - +.guhmzgbwilvst.space
 - +.guhyqz.hawesko.de
-- +.guid.tpns.hk.tencent.com
-- +.guid.tpns.sh.tencent.com
 - +.guid.tpns.tencent.com
 - +.guidecent.com
 - +.guidelingerbeige.com
@@ -44321,7 +44333,6 @@ payload:
 - +.ios-pclog.3u.com
 - +.ios-pclog.i4.cn
 - +.ios.asktagapp.com
-- +.ios.bugly.tencent.com
 - +.iosipa.b0.upaiyun.com
 - +.iot-business.vodafone.com
 - +.iot-earbuds-cn.heytapmobi.com
@@ -46341,7 +46352,6 @@ payload:
 - +.js.mzxxiend.com
 - +.js.oh100.com
 - +.js.paochala.net
-- +.js.passport.qihucdn.com
 - +.js.pub.tom.com
 - +.js.safe524.xyz
 - +.js.saiqizhi.com
@@ -48976,8 +48986,6 @@ payload:
 - +.lczk.cn
 - +.lczoidhsuvuyu.site
 - +.lcztnn.asics-trading.co.jp
-- +.ld-analytics.leadongcdn.com
-- +.ld-analytics.micyjz.com
 - +.ld.mediaget.com
 - +.ld.za9mnx.com
 - +.ldckmk.divarese.com.tr
@@ -51130,6 +51138,7 @@ payload:
 - +.log-hl.snssdk.com
 - +.log-klink.zijieapi.com
 - +.log-lb.skyperfectv.co.jp
+- +.log-lf.snssdk.com
 - +.log-lq.snssdk.com
 - +.log-pq.shopfully.cloud
 - +.log-pub-hk.aoshitang.com
@@ -51185,7 +51194,6 @@ payload:
 - +.log.go.com
 - +.log.gs3.goo.ne.jp
 - +.log.hiiir.com
-- +.log.homestyler.com
 - +.log.houyi.baofeng.net
 - +.log.hunantv.com
 - +.log.hypebeast.com
@@ -51197,7 +51205,6 @@ payload:
 - +.log.kajicam.com
 - +.log.kinolights.com
 - +.log.klook.com
-- +.log.kookapp.cn
 - +.log.kuaigeng.com
 - +.log.kuwo.cn
 - +.log.liusha.info
@@ -55514,7 +55521,6 @@ payload:
 - +.mato.clanto.cloud
 - +.matomo.clanto.cloud
 - +.matomo.cloud
-- +.matomo.datasanalytics.com
 - +.matomo3.org
 - +.matrimoniale3x.ro
 - +.matrix-cash.com
@@ -58211,7 +58217,6 @@ payload:
 - +.mingyueqingfengshe.com
 - +.mini-prog-drm.vodplayvideo.net
 - +.mini-site.larksuite-marketing.com
-- +.mini.eastday.com
 - +.mini.hao123.com
 - +.mini.jijiplayer.com
 - +.miniapp.bilibili.com
@@ -62401,6 +62406,7 @@ payload:
 - +.o2.ikontwerpflyers.nl
 - +.o28wg9kq8i.com
 - +.o2c7dks4.de
+- +.o2o-ad-dev.oss-cn-shanghai.aliyuncs.com
 - +.o2o.api.xiaomi.com
 - +.o2omobi.com
 - +.o2x4h2txrc.com
@@ -66890,7 +66896,6 @@ payload:
 - +.plausible.kdojang.com
 - +.plausible.kundenportal.io
 - +.plausible.lesbianromantic.com
-- +.plausible.lobehub-inc.cn
 - +.plausible.logicboard.com
 - +.plausible.mattpruitt.com
 - +.plausible.mcj.co
@@ -71862,6 +71867,7 @@ payload:
 - +.republer.com
 - +.republicfarm.net
 - +.repulsiveformerlydevaluation.com
+- +.req.adx.xlqeai.com
 - +.req12pkg.com
 - +.req12pkgb.com
 - +.reqfllqirnzyg.space
@@ -72073,7 +72079,6 @@ payload:
 - +.ressources.usine-digitale.com
 - +.ressources.usine-nouvelle.com
 - +.ressqretcwdkp.site
-- +.rest-argus-ad.agoralab.co
 - +.rest.sexypornvideo.net
 - +.rest.wildstar-online.com
 - +.restaffect.com
@@ -73276,6 +73281,7 @@ payload:
 - +.rtyznd.com
 - +.rtznhfqlsdmnf.site
 - +.rtztthwgifaal.site
+- +.ru-album-api.vivoglobal.com
 - +.ru-commonitor-stsdk.vivoglobal.com
 - +.ru-comonrt-stsdk.vivoglobal.com
 - +.ru-comort-stsdk.vivoglobal.com
@@ -73285,8 +73291,11 @@ payload:
 - +.ru-exstsdk.vivoglobal.com
 - +.ru-go.experian.com
 - +.ru-onrt-stsdk.vivoglobal.com
+- +.ru-ort-stsdk.vivoglobal.com
 - +.ru-os-config-appstore.vivoglobal.com
 - +.ru-p.vivoglobal.com
+- +.ru-pnrt-stsdk.vivoglobal.com
+- +.ru-prt-stsdk.vivoglobal.com
 - +.ru-romsp-unifyconfig.vivoglobal.com
 - +.ru-ru.siemensplmevents.com
 - +.ru-st-exappupgrade.vivoglobal.com
@@ -76075,6 +76084,7 @@ payload:
 - +.sentry-next.yuanfudao.com
 - +.sentry-ng.g.smailru.net
 - +.sentry-oversea.sunborngame.com
+- +.sentry-qa.sunborngame.com
 - +.sentry-sg.insta360.com
 - +.sentry-us.didiglobal.com
 - +.sentry-v2.coros.com
@@ -83367,7 +83377,6 @@ payload:
 - +.static.paddlewaver.com
 - +.static.parsely.com
 - +.static.ptqy.gitv.tv
-- +.static.qiyi.com
 - +.static.rongkao.com
 - +.static.sellbuyshop.cn
 - +.static.smi2.net
@@ -83423,6 +83432,7 @@ payload:
 - +.statistics.daktilo.com
 - +.statistics.darkreader.app
 - +.statistics.fppressa.ru
+- +.statistics.gd.gov.cn
 - +.statistics.heatbeat.de
 - +.statistics.jfmedier.dk
 - +.statistics.klicktel.de
@@ -89069,9 +89079,11 @@ payload:
 - +.tr-boost.com
 - +.tr-bouncer.com
 - +.tr-business.vodafone.com
+- +.tr-cota.vivoglobal.com
 - +.tr-domaincfg.vivoglobal.com
 - +.tr-err-up.vivoglobal.com
 - +.tr-experiments.parsely.com
+- +.tr-gdpr-vgc-datacenter.vivoglobal.com
 - +.tr-monday.xyz
 - +.tr-ms.bosch-home.com
 - +.tr-ms.profilo.com
@@ -101786,7 +101798,6 @@ payload:
 - +.yangshengzu.cn
 - +.yangzxsh.top
 - +.yanhao.red
-- +.yanjiapi.antutu.net
 - +.yanmysipmhlgg.space
 - +.yannqrnohpakv.space
 - +.yanpoly.com
