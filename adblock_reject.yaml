@@ -2244,6 +2244,7 @@ payload:
 - +.6mdf9teiz.com
 - +.6mdgv1kmj.com
 - +.6mrhrbfqw9.com
+- +.6mujth3wgx.com
 - +.6n528aywi9.com
 - +.6nwp0r33a71m.app.dev.cardahealth.com
 - +.6o04ylee62.com
@@ -4862,7 +4863,6 @@ payload:
 - +.aagprboumamaz.space
 - +.aahamarketing.hubinternational.com
 - +.aahcnrijhuwhq.space
-- +.aai-id-sentry.advai.net
 - +.aaildlvm.com
 - +.aainfo.anz.co.nz
 - +.aainwekolbdzo.site
@@ -4891,6 +4891,7 @@ payload:
 - +.aaomf.com
 - +.aaowccyukgnkj.site
 - +.aaponlzrawuzk.site
+- +.aapz.com
 - +.aaqnpa.sizeofficial.se
 - +.aaqrvt.thefryecompany.com
 - +.aaqryhueblhms.site
@@ -5341,6 +5342,7 @@ payload:
 - +.ac.geechs-job.com
 - +.ac.livelty.com
 - +.ac.mmstat.com
+- +.ac.o2.qq.com
 - +.ac.prism-world.jp.net
 - +.ac00qmnjz.com
 - +.ac1.786ip.com
@@ -10552,7 +10554,6 @@ payload:
 - +.api.1q8h.cn
 - +.api.22lianmeng.com
 - +.api.51sxzz.com
-- +.api.52youtu.com
 - +.api.5eln.cn
 - +.api.accelerator.intl.miui.com
 - +.api.ad.xv555.com
@@ -10653,7 +10654,6 @@ payload:
 - +.api.newsfeed.intl.miui.com
 - +.api.open.oppomobile.com
 - +.api.pingstart.com
-- +.api.platform.letv.com
 - +.api.poll.aiseet.atianqi.com
 - +.api.primecaster.net
 - +.api.push.le.com
@@ -10661,7 +10661,6 @@ payload:
 - +.api.qvpublish.com
 - +.api.recapcha.fun
 - +.api.rees46.com
-- +.api.revenuads.com
 - +.api.rideraid.net
 - +.api.sae.systems
 - +.api.sdk.fmobi.cn
@@ -10676,7 +10675,6 @@ payload:
 - +.api.tongji.today
 - +.api.touch-moblie.com
 - +.api.ts.feedback.qy.net
-- +.api.tusdk.com
 - +.api.tv.sohu.com
 - +.api.tw06.xlmc.sec.miui.com
 - +.api.twibida.com
@@ -10729,7 +10727,6 @@ payload:
 - +.apk.fgzba.com
 - +.apk.gelinboer.cn
 - +.apk.idate520.com
-- +.apkevery.com
 - +.apkinfo.voole.com
 - +.apklog.cp11.ott.cibntv.net
 - +.apkomwofwbbjt.space
@@ -10745,22 +10742,14 @@ payload:
 - +.aplytazqgfoup.online
 - +.apm-api.mihoyo.com
 - +.apm-engine.meteor.com
-- +.apm-fe.rnote.com
-- +.apm-fe.xiaohongshu.com
-- +.apm-log-upload-os.hoyoverse.com
 - +.apm-log-upload-v6.mihoyo.com
-- +.apm-log-upload.mihoyo.com
-- +.apm-native.redbascket.com
-- +.apm-native.xiaohongshu.com
 - +.apm-rum.inf.miui.com
-- +.apm-track.xiaohongshu.com
 - +.apm.qwant.com
 - +.apm.suning.cn
 - +.apm.tnet.nl
 - +.apm.volccdn.com
 - +.apmcx60sm5.com
 - +.apmebf.com
-- +.apmplus.ap-southeast-1.volces.com
 - +.apmplus.volces.com
 - +.apmruhdf.in
 - +.apnmedia.ask.com
@@ -14856,7 +14845,6 @@ payload:
 - +.bidclickmedia.com
 - +.bidcliq.com
 - +.bidder.dsp.outfit7.com
-- +.bidder.mdspinc.com
 - +.bidder.mediams.mb.softbank.jp
 - +.bidder.newspassid.com
 - +.bidderads.com
@@ -18189,6 +18177,7 @@ payload:
 - +.cdn-fileserver.com
 - +.cdn-haokanapk.baidu.com
 - +.cdn-net.com
+- +.cdn-new-ad.wtzw.com
 - +.cdn-plugin-sync-upgrade-juui.hismarttv.com
 - +.cdn-rum.ngenix.net
 - +.cdn-server.cc
@@ -34294,6 +34283,7 @@ payload:
 - +.flqvddcgjvsma.space
 - +.flrdra.com
 - +.fls-na.amazon.com
+- +.flsfzr.cn
 - +.flsjgpqtrtzhn.site
 - +.flsrv.net
 - +.flstudiochina.com
@@ -34601,6 +34591,7 @@ payload:
 - +.forkconnectinghead.com
 - +.forkinane.com
 - +.forlumineoner.com
+- +.form-submission-workspace.ajo-stage.srv.smart.com
 - +.form-submission.marketing.smart.com
 - +.form.e.silverfernfarms.com
 - +.form.fusesource.com
@@ -34728,6 +34719,7 @@ payload:
 - +.foundry42.com
 - +.fourier-videoclip-sg.allawnos.com
 - +.fourier.alibaba.com
+- +.fourier.aliexpress.com
 - +.fourier.taobao.com
 - +.fourlevelsgame.com
 - +.fourmtagservices.appspot.com
@@ -34758,7 +34750,11 @@ payload:
 - +.fp-cdn.azureedge.net
 - +.fp-flame.vercel.app
 - +.fp-it-acc.fengkongcloud.com
+- +.fp-it-acc.portal101.cn
 - +.fp-it.fengkongcloud.com
+- +.fp-na-it-acc.fengkongcloud.com
+- +.fp-sa-it-acc.fengkongcloud.com
+- +.fp-sa-it.fengkongcloud.com
 - +.fp-upload.dun.163.com
 - +.fp.bizjournals.com
 - +.fp.kakaku.com
@@ -34919,6 +34915,7 @@ payload:
 - +.fqvwalkffipfi.site
 - +.fqwsngxvyntir.space
 - +.fqwv7k7ex.com
+- +.fqxkj.cn
 - +.fqxnlh.kgcshop.co.kr
 - +.fqzjprfzxplwo.website
 - +.fqzwlexhffkpg.website
@@ -35138,6 +35135,7 @@ payload:
 - +.fromhttptohttps.atea.fi
 - +.fromjoytohappiness.com
 - +.frontcrash.pro
+- +.frontier100-toutiao-lf.fqnovel.com
 - +.frontierconsul02.tsunagaru-office.com
 - +.frontinventory.com
 - +.fronttoad.com
@@ -41918,6 +41916,7 @@ payload:
 - +.iap2e750o.com
 - +.iaqqtkhksqbbs.site
 - +.iarekbazzdlqm.space
+- +.iari2sq1ve.com
 - +.iarwhrkocyeku.site
 - +.iarxfhusvjjfn.online
 - +.iasbetaffiliates.com
@@ -45802,6 +45801,7 @@ payload:
 - +.iyvzqt.agabangmall.com
 - +.iywiyboiomivc.site
 - +.iyxkoshoagpfc.website
+- +.iyyfj0g7m.com
 - +.iyykxvzgtxuyq.space
 - +.izatcloud.net
 - +.izavjtqqznucm.site
@@ -50948,7 +50948,6 @@ payload:
 - +.link.imprint.co
 - +.link.imumz.com
 - +.link.individuology.com
-- +.link.infineon.cn
 - +.link.infineon.com
 - +.link.info.myfitnesspal.com
 - +.link.informer.com
@@ -51618,6 +51617,7 @@ payload:
 - +.litix.io
 - +.litpzshqdkjvn.online
 - +.litrujsxxymfn.website
+- +.litslop.shop
 - +.litterarenadisembroildisembroil.com
 - +.litterworerabbit.com
 - +.littlebee.site
@@ -52200,7 +52200,6 @@ payload:
 - +.log.collectaction.com
 - +.log.cookieyes.com
 - +.log.cpex.cz
-- +.log.crazyfox.vip
 - +.log.cs.pp.cn
 - +.log.daqi.com
 - +.log.dc.cn.happyelements.com
@@ -52398,7 +52397,6 @@ payload:
 - +.logger.baofeng.com
 - +.logger.co.kr
 - +.logger.dyness.com
-- +.logger.eeo.cn
 - +.logger.kataweb.it
 - +.logger.nerdwallet.com
 - +.logger.omio.com
@@ -56594,6 +56592,7 @@ payload:
 - +.matomo.clanto.cloud
 - +.matomo.cloud
 - +.matomo.datasanalytics.com
+- +.matomo.fatda.cn
 - +.matomo.mdjpxw.com
 - +.matomo.meldingcloud.com
 - +.matomo3.org
@@ -59329,6 +59328,7 @@ payload:
 - +.mini.hao123.com
 - +.mini.jijiplayer.com
 - +.mini2015.qq.com
+- +.miniapp-ad.bj.bcebos.com
 - +.miniapp-ad.cdn.bcebos.com
 - +.miniapp.bilibili.com
 - +.miniapp.qiluyidian.mobi
@@ -68915,7 +68915,6 @@ payload:
 - +.postgraduate.smu.edu.sg
 - +.postgraduate2.smu.edu.sg
 - +.posthog.casinoplus.top
-- +.posthog.casinoplus.top.eo.dnse3.com
 - +.posthog.ikuai8.com
 - +.posthog.levacp.com
 - +.postinvent.com
@@ -69649,7 +69648,6 @@ payload:
 - +.promoteconditionerkeyboard.com
 - +.promotion-en.xmeye.net
 - +.promotion-partner.kuaishou.com
-- +.promotion-quicker.jftechsoft.com
 - +.promotion.gomlab.com
 - +.promotion.lginnotek.com
 - +.promotion.lindt.az
@@ -73250,6 +73248,7 @@ payload:
 - +.report.cms.qq.com
 - +.report.dxunion.cn
 - +.report.gamecenter.qq.com
+- +.report.huoying.qq.com
 - +.report.iciba.com
 - +.report.imtt.qq.com
 - +.report.kg.qq.com
@@ -77618,7 +77617,6 @@ payload:
 - +.sentry.kuaishou.com
 - +.sentry.kugou.com
 - +.sentry.ldplayer.net
-- +.sentry.lovart.ai
 - +.sentry.mab.co.id
 - +.sentry.mehiya.com
 - +.sentry.meitu-int.com
@@ -84982,6 +84980,7 @@ payload:
 - +.statistic.openlabelplus.com
 - +.statistic.qzone.qq.com
 - +.statistic.weimobdc.com
+- +.statistic.xiaoxiezi886.cn
 - +.statistic2.reichelt.de
 - +.statistical-report.djiservice.org
 - +.statistiche-free.com
@@ -86652,6 +86651,7 @@ payload:
 - +.superstitionscarecrowunbelievable.com
 - +.superstitionstrainconvincing.com
 - +.superstriker.net
+- +.supertest.hqsmartcloud.com
 - +.supervisemessagedelude.com
 - +.supervisioncontrary.com
 - +.supervisionzoologicalconstrue.com
@@ -88879,6 +88879,7 @@ payload:
 - +.telemetry.navispherecarrier.com
 - +.telemetry.owenscorning.com
 - +.telemetry.phenixrts.com
+- +.telemetry.pod1.prod.avatar.ext.hp.com
 - +.telemetry.pod3.prod.avatar.ext.hp.com
 - +.telemetry.pod4.prod.avatar.ext.hp.com
 - +.telemetry.pod5.prod.avatar.ext.hp.com
@@ -88942,6 +88943,7 @@ payload:
 - +.temsys.temsys.fr
 - +.tenadfpgwocuw.website
 - +.tenantrip.com
+- +.tencentapigw.com
 - +.tencentmind.com
 - +.tend-new.com
 - +.tend.io
@@ -90335,6 +90337,7 @@ payload:
 - +.tongji.mafengwo.cn
 - +.tongji.meizu.com
 - +.tongji.miercn.com
+- +.tongji.qd8.cn
 - +.tongji.qidian.com
 - +.tongji.southmoney.com
 - +.tongji.techweb.com.cn
@@ -92848,6 +92851,7 @@ payload:
 - +.tracking.tchibo.hu
 - +.tracking.tchibo.pl
 - +.tracking.tchibo.sk
+- +.tracking.tdk.cn
 - +.tracking.tdk.com
 - +.tracking.tdk.com.cn
 - +.tracking.te.com
@@ -94784,7 +94788,6 @@ payload:
 - +.ubykct.teufel.ch
 - +.ubzmzxtdosgdh.online
 - +.ubztowsnyurmy.space
-- +.uc-ap.yodo1api.com
 - +.uc.haoyunyuan.cc
 - +.uc.ucweb.com
 - +.uc.xddi.ru
@@ -94866,7 +94869,6 @@ payload:
 - +.udd1i5.zhihu.com
 - +.uddougqbgbhmg.website
 - +.udempnhxtsuvt.site
-- +.udeztrb.cn
 - +.udfaguykrfeur.site
 - +.udggmzfrdhxcs.site
 - +.udghekzitv.com
@@ -94911,14 +94913,12 @@ payload:
 - +.udyyqceqcrdcn.website
 - +.udzpel.com
 - +.udzucw.haggar.com
-- +.ue.yeyoucdn.com
 - +.ue8im.com
 - +.ueaczqcyrvval.online
 - +.ueadlian.com
 - +.ueaeahze.com
 - +.ueawwubahbxwh.online
 - +.ueb4.destinia.tw
-- +.uebabuf.cn
 - +.uecrkcmmjcayt.online
 - +.uectfe.toptantr.com
 - +.ued8.destinia.sg
@@ -94938,7 +94938,6 @@ payload:
 - +.uelacdntbosei.site
 - +.ueleensadcyxh.site
 - +.uelqzzolsqiva.site
-- +.uem.migu.cn
 - +.uemurnl.com
 - +.ueovkypsap.com
 - +.ueoxrpmuqlspj.online
@@ -95111,7 +95110,6 @@ payload:
 - +.uiakvibuzy.com
 - +.uiapoozgbrnyy.site
 - +.uibcqpgbxhsjt.site
-- +.uibjh29vqc.com
 - +.uicjnk.gumtree.co.za
 - +.uicrvgyafucof.website
 - +.uid.ksosoft.com
@@ -98681,7 +98679,6 @@ payload:
 - +.vstat.v.blog.sohu.com
 - +.vstats.me
 - +.vstixgqbvxdlq.site
-- +.vstlog.17u.cn
 - +.vstserv.com
 - +.vstwm.com
 - +.vsvgpr.icu
@@ -99650,7 +99647,6 @@ payload:
 - +.web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 - +.web-perf.booking.com
 - +.web-security.cloud
-- +.web-sentry.kurogame.com
 - +.web-sentry.kurogame.net
 - +.web-stat.com
 - +.web-stat.fr
@@ -102401,6 +102397,7 @@ payload:
 - +.xe2c.com
 - +.xeamlrjpogegb.com
 - +.xeayxkzdnaqxq.site
+- +.xeb3x4yj4t.com
 - +.xebfomhenqxin.online
 - +.xecdcjxhuefhg.space
 - +.xecetvzlrqphx.site
@@ -104420,6 +104417,7 @@ payload:
 - +.ylzevsnrrwpmm.online
 - +.ylzgktpchfoot.online
 - +.ylzmapgqfnazd.website
+- +.ylznwl.cn
 - +.ylzvrhrkritim.online
 - +.ym.ychap.com
 - +.ym193.com
